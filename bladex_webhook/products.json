@@ -3,6 +3,7 @@
   "big_prize_max_ratio": 0.2,
   "notify_min_big_prize_probability": 0.1,
   "notification_cooldown_seconds": 300,
+  "heartbeat_interval_seconds": 21600,
   "notify_on_first_run": false,
   "notify_only_changes": true
 }
