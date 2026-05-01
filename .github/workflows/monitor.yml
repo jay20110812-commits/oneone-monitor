@@ -33,6 +33,43 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: python webhook_monitor.py --once
 
+      - name: Debug Discord secret presence
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import os
+          url = os.environ.get("DISCORD_WEBHOOK_URL", "")
+          print("DISCORD_WEBHOOK_URL is set:", bool(url))
+          print("DISCORD_WEBHOOK_URL length:", len(url))
+          print("DISCORD_WEBHOOK_URL prefix:", url[:32])
+          PY
+
+      - name: Send GitHub heartbeat probe
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          url = os.environ["DISCORD_WEBHOOK_URL"]
+          payload = json.dumps({"content": "[oneone-monitor] GitHub workflow probe OK"}).encode("utf-8")
+          req = urllib.request.Request(
+              url,
+              data=payload,
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "oneone-monitor-github-probe/1.0",
+              },
+              method="POST",
+          )
+          with urllib.request.urlopen(req, timeout=15) as res:
+              print("Discord probe status:", res.status)
+          PY
+
       - name: Save monitor state
         working-directory: .
         run: |
