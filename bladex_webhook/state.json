@@ -26,7 +26,7 @@
   },
   "35759": {
     "snapshot": {
-      "price": 320,
+      "price": 250,
       "remain": 33,
       "total": 100,
       "prizes": [
@@ -92,7 +92,7 @@
         }
       ]
     },
-    "last_notified_at": 1777665354.04338
+    "last_notified_at": 1777672237.822244
   },
   "35754": {
     "snapshot": {
@@ -191,7 +191,7 @@
   },
   "35347": {
     "snapshot": {
-      "price": 299,
+      "price": 199,
       "remain": 88,
       "total": 200,
       "prizes": [
@@ -2952,6 +2952,31 @@
           "name": "合計",
           "remaining": 17,
           "total": 21
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "35826": {
+    "snapshot": {
+      "price": 360,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞 代理版戰鬥陀螺X UX-15絞鯊狂鱗改造組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
         }
       ]
     },
