@@ -287,7 +287,7 @@
   "35811": {
     "snapshot": {
       "price": 219,
-      "remain": 143,
+      "remain": 123,
       "total": 150,
       "prizes": [
         {
@@ -302,7 +302,7 @@
         },
         {
           "name": "B賞 日版戰鬥陀螺BX-46 對戰入門套裝★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -317,32 +317,32 @@
         },
         {
           "name": "E賞 戰鬥陀螺X(隨機一款)☆",
-          "remaining": 3,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "F賞 吉伊卡哇吊飾或S娃(隨機一款)",
-          "remaining": 10,
+          "remaining": 9,
           "total": 10
         },
         {
           "name": "G賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 30,
+          "remaining": 25,
           "total": 30
         },
         {
           "name": "H賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 93,
+          "remaining": 82,
           "total": 99
         },
         {
           "name": "合計",
-          "remaining": 143,
+          "remaining": 123,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1777671546.3188198
+    "last_notified_at": 1777674312.2829795
   },
   "35808": {
     "snapshot": {
