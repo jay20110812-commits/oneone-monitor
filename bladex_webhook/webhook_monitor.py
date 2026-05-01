@@ -272,38 +272,6 @@ def big_prize_probability(product, max_ratio):
     return big_prize_remaining / product_remain
 
 
-def send_heartbeat_if_due(config, state, webhook_url, total, sent):
-    event_name = os.environ.get("GITHUB_EVENT_NAME", "")
-    force_heartbeat = event_name == "workflow_dispatch"
-    interval = int(config.get("heartbeat_interval_seconds", 0) or 0)
-    if interval <= 0 and not force_heartbeat:
-        return
-
-    meta = state.get("_meta", {})
-    now = time.time()
-    last_heartbeat_at = float(meta.get("last_heartbeat_at", 0) or 0)
-
-    if not force_heartbeat and now - last_heartbeat_at < interval:
-        return
-
-    checked_at = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime(now))
-    send_discord_message(
-        webhook_url,
-        "\n".join(
-            [
-                "[oneone-monitor] heartbeat OK",
-                f"event: {event_name or 'local'}",
-                f"checked_at: {checked_at}",
-                f"scanned_products: {total}",
-                f"product_notifications: {sent}",
-            ]
-        ),
-    )
-
-    meta["last_heartbeat_at"] = now
-    state["_meta"] = meta
-
-
 def scan_once(config):
     search_url = config["search_url"]
     first_html = fetch_html(page_url(search_url, 1))
@@ -358,8 +326,6 @@ def monitor_once(config, state, webhook_url):
             "last_notified_at": last_notified_at,
         }
 
-    save_json(STATE_FILE, state)
-    send_heartbeat_if_due(config, state, webhook_url, len(products), sent)
     save_json(STATE_FILE, state)
     return len(products), sent
 

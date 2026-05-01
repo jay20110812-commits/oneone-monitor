@@ -28,7 +28,6 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           CHECK_INTERVAL_SECONDS: "300"
-          GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: python webhook_monitor.py --once
 
       - name: Save monitor state
