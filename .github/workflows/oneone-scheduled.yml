@@ -1,8 +1,10 @@
-name: OneOne Monitor
-run-name: OneOne Monitor Manual
+name: OneOne Scheduled Monitor
+run-name: OneOne Scheduled Monitor (${{ github.event_name }})
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "7-59/10 * * * *"
 
 permissions:
   contents: write
