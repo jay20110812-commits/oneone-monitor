@@ -1,0 +1,20 @@
+{
+  "collection_url": "https://www.sen-sen.com.tw/collections/%E7%B7%9A%E4%B8%8A%E9%99%80%E8%9E%BA%E5%B0%88%E5%8D%80",
+  "quantity": 1,
+  "dry_run": true,
+  "go_checkout": true,
+  "products": [
+    {
+      "name": "BEYBLADE X 戰鬥陀螺X UX-15 鮫鯊狂鱗改造組",
+      "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-ux-15-%E9%AE%AB%E9%AF%8A%E7%8B%82%E9%B1%97%E6%94%B9%E9%80%A0%E7%B5%84"
+    },
+    {
+      "name": "BEYBLADE X 戰鬥陀螺 UX-03 魔導神杖",
+      "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-ux-03-%E9%AD%94%E5%B0%8E%E7%A5%9E%E6%9D%96"
+    },
+    {
+      "name": "BEYBLADE X 戰鬥陀螺 BX-23 鳳凰飛翼 豪華組",
+      "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-23-%E9%B3%B3%E5%87%B0%E9%A3%9B%E7%BF%BC-%E8%B1%AA%E8%8F%AF%E7%B5%84"
+    }
+  ]
+}

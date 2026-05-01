@@ -1,0 +1,20 @@
+{
+  "collection_url": "https://www.sen-sen.com.tw/collections/%E6%96%87%E5%85%B7%E7%94%A8%E5%93%81",
+  "quantity": 1,
+  "dry_run": true,
+  "go_checkout": false,
+  "products": [
+    {
+      "name": "【reform】Q68 室內設計專業模板｜圓圈與多角度橢圓綜合款｜附使用說明書｜空間規劃專用",
+      "url": "https://www.sen-sen.com.tw/products/reform-q68-interior-design-circle-ellipse-template"
+    },
+    {
+      "name": "【MBS】905 專業室內設計模板｜1:100 比例｜家具配置圖專用｜建築製圖與空間規劃",
+      "url": "https://www.sen-sen.com.tw/products/mbs-no-906-architect-interior-design-template-scale-1-100"
+    },
+    {
+      "name": "【MBS】957 專業橢圓板(凸點設計)｜27種橢圓規格｜內建30°/60°角與三邊尺規｜針筆與鉛筆兩用",
+      "url": "https://www.sen-sen.com.tw/products/mbs-no-957-professional-ellipse-template-with-raised-bumps"
+    }
+  ]
+}

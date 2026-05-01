@@ -1,0 +1,8 @@
+{
+  "search_url": "https://www.oneone.com.tw/search/%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA?filter%5Bsupplier%5D=&filter%5Bcategory%5D=&filter%5Bremain_prize%5D=&filter%5Bcombo_draws%5D=&sort=&order=asc&page=1",
+  "big_prize_max_ratio": 0.2,
+  "notify_min_big_prize_probability": 0.1,
+  "notification_cooldown_seconds": 300,
+  "notify_on_first_run": false,
+  "notify_only_changes": true
+}
