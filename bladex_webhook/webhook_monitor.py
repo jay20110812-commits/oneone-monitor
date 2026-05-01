@@ -273,15 +273,17 @@ def big_prize_probability(product, max_ratio):
 
 
 def send_heartbeat_if_due(config, state, webhook_url, total, sent):
+    event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+    force_heartbeat = event_name == "workflow_dispatch"
     interval = int(config.get("heartbeat_interval_seconds", 0) or 0)
-    if interval <= 0:
+    if interval <= 0 and not force_heartbeat:
         return
 
     meta = state.get("_meta", {})
     now = time.time()
     last_heartbeat_at = float(meta.get("last_heartbeat_at", 0) or 0)
 
-    if now - last_heartbeat_at < interval:
+    if not force_heartbeat and now - last_heartbeat_at < interval:
         return
 
     checked_at = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime(now))
@@ -290,6 +292,7 @@ def send_heartbeat_if_due(config, state, webhook_url, total, sent):
         "\n".join(
             [
                 "[oneone-monitor] heartbeat OK",
+                f"event: {event_name or 'local'}",
                 f"checked_at: {checked_at}",
                 f"scanned_products: {total}",
                 f"product_notifications: {sent}",
