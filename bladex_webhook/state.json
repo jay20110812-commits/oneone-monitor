@@ -287,7 +287,7 @@
   "35811": {
     "snapshot": {
       "price": 219,
-      "remain": 146,
+      "remain": 143,
       "total": 150,
       "prizes": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "name": "D賞 BX-23鳳凰飛翼陀螺★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -332,17 +332,17 @@
         },
         {
           "name": "H賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 95,
+          "remaining": 93,
           "total": 99
         },
         {
           "name": "合計",
-          "remaining": 146,
+          "remaining": 143,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1777665355.5108376
+    "last_notified_at": 1777671546.3188198
   },
   "35808": {
     "snapshot": {
@@ -977,7 +977,7 @@
   "35618": {
     "snapshot": {
       "price": 250,
-      "remain": 50,
+      "remain": 42,
       "total": 50,
       "prizes": [
         {
@@ -987,7 +987,7 @@
         },
         {
           "name": "B賞 戰鬥陀螺 BX-23鳳凰飛翼豪華組(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -1007,12 +1007,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 45,
+          "remaining": 38,
           "total": 45
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 42,
           "total": 50
         }
       ]
