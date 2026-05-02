@@ -1237,7 +1237,7 @@
   "35336": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 26,
       "total": 80,
       "prizes": [
         {
@@ -1282,17 +1282,17 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 23,
           "total": 72
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 26,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1777744698.1224902
   },
   "35331": {
     "snapshot": {
