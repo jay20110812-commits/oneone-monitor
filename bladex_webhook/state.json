@@ -917,7 +917,7 @@
   "35666": {
     "snapshot": {
       "price": 220,
-      "remain": 100,
+      "remain": 96,
       "total": 100,
       "prizes": [
         {
@@ -962,12 +962,12 @@
         },
         {
           "name": "I賞 隨機一番賞小賞(隨機一款)",
-          "remaining": 92,
+          "remaining": 88,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 96,
           "total": 100
         }
       ]
