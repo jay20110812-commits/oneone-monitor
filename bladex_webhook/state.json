@@ -3925,22 +3925,22 @@
   "35898": {
     "snapshot": {
       "price": 239,
-      "remain": 18,
+      "remain": 8,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 8,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 18,
+          "remaining": 8,
           "total": 20
         }
       ]
