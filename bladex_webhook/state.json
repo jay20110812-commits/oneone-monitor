@@ -917,7 +917,7 @@
   "35666": {
     "snapshot": {
       "price": 220,
-      "remain": 56,
+      "remain": 55,
       "total": 100,
       "prizes": [
         {
@@ -962,12 +962,12 @@
         },
         {
           "name": "I賞 隨機一番賞小賞(隨機一款)",
-          "remaining": 51,
+          "remaining": 50,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 55,
           "total": 100
         }
       ]
@@ -4125,7 +4125,7 @@
   "35914": {
     "snapshot": {
       "price": 180,
-      "remain": 5,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
@@ -4135,12 +4135,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 5,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 5,
+          "remaining": 4,
           "total": 20
         }
       ]
