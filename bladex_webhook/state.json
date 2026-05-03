@@ -27,7 +27,7 @@
   "35759": {
     "snapshot": {
       "price": 250,
-      "remain": 29,
+      "remain": 24,
       "total": 100,
       "prizes": [
         {
@@ -37,7 +37,7 @@
         },
         {
           "name": "B賞 內袋未拆日版CX05-06 黃鯨魚760K(拆檢無盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -82,12 +82,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 26,
+          "remaining": 22,
           "total": 88
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 24,
           "total": 100
         }
       ]
@@ -917,12 +917,12 @@
   "35666": {
     "snapshot": {
       "price": 220,
-      "remain": 55,
+      "remain": 15,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 代理版CX-11帝王威能★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -937,12 +937,12 @@
         },
         {
           "name": "D賞 代理版CX-01 蒼龍勇氣★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "E賞 代理版UX-06 雄獅巔峰★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -952,7 +952,7 @@
         },
         {
           "name": "G賞 代理版BXG-11 堅甲戰龜S★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -962,12 +962,12 @@
         },
         {
           "name": "I賞 隨機一番賞小賞(隨機一款)",
-          "remaining": 50,
+          "remaining": 14,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 55,
+          "remaining": 15,
           "total": 100
         }
       ]
@@ -3670,7 +3670,7 @@
   "35911": {
     "snapshot": {
       "price": 340,
-      "remain": 55,
+      "remain": 48,
       "total": 80,
       "prizes": [
         {
@@ -3700,7 +3700,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺X BX-00烈焰鳳凰黑鳳凰★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -3710,17 +3710,17 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 47,
+          "remaining": 41,
           "total": 69
         },
         {
           "name": "合計",
-          "remaining": 55,
+          "remaining": 48,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 1777822995.9525657
+    "last_notified_at": 1777830557.47153
   },
   "35910": {
     "snapshot": {
@@ -3925,7 +3925,7 @@
   "35898": {
     "snapshot": {
       "price": 239,
-      "remain": 20,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -3935,12 +3935,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
