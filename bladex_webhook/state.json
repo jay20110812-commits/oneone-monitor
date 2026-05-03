@@ -3010,22 +3010,22 @@
   "35835": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 25,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 24,
           "total": 28
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 25,
           "total": 30
         }
       ]
@@ -3190,7 +3190,7 @@
   "35853": {
     "snapshot": {
       "price": 239,
-      "remain": 18,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -3200,12 +3200,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 18,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -3495,7 +3495,7 @@
   "35882": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -3505,12 +3505,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -3605,12 +3605,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -3620,22 +3620,22 @@
   "35894": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
