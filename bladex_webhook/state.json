@@ -532,22 +532,22 @@
   "35767": {
     "snapshot": {
       "price": 190,
-      "remain": 20,
+      "remain": 8,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 8,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 8,
           "total": 20
         }
       ]
@@ -3670,12 +3670,12 @@
   "35911": {
     "snapshot": {
       "price": 340,
-      "remain": 80,
+      "remain": 60,
       "total": 80,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺 X BX-00 25週年紀念套組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -3690,7 +3690,7 @@
         },
         {
           "name": "C賞 戰鬥陀螺X BX-02 地獄鐮刀★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -3710,17 +3710,17 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 69,
+          "remaining": 51,
           "total": 69
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 60,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1777822297.6974561
   },
   "35910": {
     "snapshot": {
@@ -4135,6 +4135,31 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "35918": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
           "remaining": 19,
           "total": 19
         },
