@@ -1212,22 +1212,22 @@
   "35363": {
     "snapshot": {
       "price": 350,
-      "remain": 60,
+      "remain": 42,
       "total": 60,
       "prizes": [
         {
           "name": "A賞 日版 UX-00 空力天馬 紅色★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 57,
+          "remaining": 40,
           "total": 57
         },
         {
           "name": "合計",
-          "remaining": 60,
+          "remaining": 42,
           "total": 60
         }
       ]
