@@ -4275,22 +4275,22 @@
   "35949": {
     "snapshot": {
       "price": 360,
-      "remain": 21,
+      "remain": 11,
       "total": 25,
       "prizes": [
         {
           "name": "A賞 代理版戰鬥陀螺X UX-15絞鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 11,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 11,
           "total": 25
         }
       ]
@@ -4450,7 +4450,7 @@
   "35930": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -4460,12 +4460,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -4741,6 +4741,56 @@
         {
           "name": "合計",
           "remaining": 7,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "35963": {
+    "snapshot": {
+      "price": 109,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞代理版 BXG-34 曼達洛人/星區長吉迪恩★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "35962": {
+    "snapshot": {
+      "price": 109,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 代理版 BXG-33 路克天行者 / 達斯維達★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
           "total": 20
         }
       ]
