@@ -657,22 +657,22 @@
   "35727": {
     "snapshot": {
       "price": 160,
-      "remain": 18,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 UX-14 天蠍長矛（代理版）★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 18,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -5025,7 +5025,7 @@
   "35979": {
     "snapshot": {
       "price": 220,
-      "remain": 32,
+      "remain": 23,
       "total": 71,
       "prizes": [
         {
@@ -5045,7 +5045,7 @@
         },
         {
           "name": "D賞 CX-09 焰神滅世★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -5075,17 +5075,17 @@
         },
         {
           "name": "J賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 28,
+          "remaining": 20,
           "total": 62
         },
         {
           "name": "合計",
-          "remaining": 32,
+          "remaining": 23,
           "total": 71
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1777914921.011048
   },
   "35975": {
     "snapshot": {
