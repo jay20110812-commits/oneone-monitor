@@ -4550,22 +4550,22 @@
   "35924": {
     "snapshot": {
       "price": 150,
-      "remain": 12,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 11,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 12,
+          "remaining": 4,
           "total": 20
         }
       ]
