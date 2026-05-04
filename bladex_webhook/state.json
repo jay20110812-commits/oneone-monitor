@@ -782,7 +782,7 @@
   "35680": {
     "snapshot": {
       "price": 199,
-      "remain": 21,
+      "remain": 16,
       "total": 21,
       "prizes": [
         {
@@ -792,12 +792,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 15,
           "total": 20
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 16,
           "total": 21
         }
       ]
