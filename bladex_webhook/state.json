@@ -5415,22 +5415,22 @@
   "35998": {
     "snapshot": {
       "price": 219,
-      "remain": 30,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-04極限衝擊對戰組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 21,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 21,
           "total": 30
         }
       ]
