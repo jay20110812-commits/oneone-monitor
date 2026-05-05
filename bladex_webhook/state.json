@@ -5565,7 +5565,7 @@
   "36036": {
     "snapshot": {
       "price": 320,
-      "remain": 80,
+      "remain": 76,
       "total": 80,
       "prizes": [
         {
@@ -5605,17 +5605,17 @@
         },
         {
           "name": "G賞隨機IP一番賞小賞",
-          "remaining": 69,
+          "remaining": 65,
           "total": 69
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 76,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1777973920.7274723
   },
   "36044": {
     "snapshot": {
@@ -5745,7 +5745,7 @@
   "36029": {
     "snapshot": {
       "price": 219,
-      "remain": 25,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
@@ -5755,12 +5755,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 23,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 24,
           "total": 30
         }
       ]
