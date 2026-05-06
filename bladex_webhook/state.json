@@ -237,7 +237,7 @@
   "35814": {
     "snapshot": {
       "price": 360,
-      "remain": 25,
+      "remain": 20,
       "total": 25,
       "prizes": [
         {
@@ -247,12 +247,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 19,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 20,
           "total": 25
         }
       ]
@@ -1527,7 +1527,7 @@
   "35263": {
     "snapshot": {
       "price": 210,
-      "remain": 80,
+      "remain": 52,
       "total": 80,
       "prizes": [
         {
@@ -1557,12 +1557,12 @@
         },
         {
           "name": "F賞 BX-38★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 BX-44★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -1572,22 +1572,22 @@
         },
         {
           "name": "I賞 BX-00★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "J賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 71,
+          "remaining": 46,
           "total": 71
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 52,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1778082994.3385892
   },
   "35246": {
     "snapshot": {
@@ -5620,22 +5620,22 @@
   "36044": {
     "snapshot": {
       "price": 360,
-      "remain": 25,
+      "remain": 6,
       "total": 25,
       "prizes": [
         {
           "name": "A賞 代理版戰鬥陀螺X UX-15絞鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 6,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 6,
           "total": 25
         }
       ]
@@ -5670,22 +5670,22 @@
   "36042": {
     "snapshot": {
       "price": 170,
-      "remain": 21,
+      "remain": 4,
       "total": 25,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X收納包★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 4,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 4,
           "total": 25
         }
       ]
@@ -6120,22 +6120,22 @@
   "36066": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不分版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -6295,6 +6295,56 @@
   "36070": {
     "snapshot": {
       "price": 160,
+      "remain": 4,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 4,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 4,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36069": {
+    "snapshot": {
+      "price": 150,
+      "remain": 6,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(日版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 6,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 6,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36109": {
+    "snapshot": {
+      "price": 160,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -6317,7 +6367,32 @@
     },
     "last_notified_at": 0.0
   },
-  "36069": {
+  "36100": {
+    "snapshot": {
+      "price": 160,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36094": {
     "snapshot": {
       "price": 150,
       "remain": 20,
@@ -6336,6 +6411,346 @@
         {
           "name": "合計",
           "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36085": {
+    "snapshot": {
+      "price": 190,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36076": {
+    "snapshot": {
+      "price": 170,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X收納包★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36117": {
+    "snapshot": {
+      "price": 180,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版 戰鬥陀螺 UX-01 蒼龍爆刃★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36116": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-34蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36084": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36082": {
+    "snapshot": {
+      "price": 190,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36081": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版 CX-07 天馬爆擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36079": {
+    "snapshot": {
+      "price": 199,
+      "remain": 20,
+      "total": 21,
+      "prizes": [
+        {
+          "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 20
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 21
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36108": {
+    "snapshot": {
+      "price": 350,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 BX-00蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 BX-23鳳凰飛翼",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 BX-00惡魔鎖鏈闇黑版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 BXG-07雷霆天龍隨機強化組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 BX-44三角強襲★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 BX-45武士魂斬★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 代理版旋風發射器★",
+          "remaining": 4,
+          "total": 4
+        },
+        {
+          "name": "H賞 拉條發射器★",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "I賞 隨機IP一番賞小賞",
+          "remaining": 85,
+          "total": 85
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36095": {
+    "snapshot": {
+      "price": 160,
+      "remain": 4,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 4,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 4,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36087": {
+    "snapshot": {
+      "price": 229,
+      "remain": 5,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 吉伊卡哇周邊商品(隨機一款)☆",
+          "remaining": 1,
+          "total": 10
+        },
+        {
+          "name": "C賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 4,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 5,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36078": {
+    "snapshot": {
+      "price": 180,
+      "remain": 1,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版 戰鬥陀螺 UX-01 蒼龍爆刃★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 1,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 1,
           "total": 20
         }
       ]
