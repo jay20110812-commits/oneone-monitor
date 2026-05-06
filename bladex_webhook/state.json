@@ -6595,22 +6595,22 @@
   "36079": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 2,
       "total": 21,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 2,
           "total": 20
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 21
         }
       ]
@@ -6760,22 +6760,22 @@
   "36129": {
     "snapshot": {
       "price": 199,
-      "remain": 21,
+      "remain": 4,
       "total": 21,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 4,
           "total": 21
         }
       ]
