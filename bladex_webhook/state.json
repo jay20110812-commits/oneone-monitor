@@ -6345,22 +6345,22 @@
   "36109": {
     "snapshot": {
       "price": 160,
-      "remain": 14,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 13,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 14,
+          "remaining": 7,
           "total": 20
         }
       ]
