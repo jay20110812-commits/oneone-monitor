@@ -6885,7 +6885,7 @@
   "36165": {
     "snapshot": {
       "price": 360,
-      "remain": 103,
+      "remain": 102,
       "total": 120,
       "prizes": [
         {
@@ -6940,12 +6940,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 94,
+          "remaining": 93,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 103,
+          "remaining": 102,
           "total": 120
         }
       ]
