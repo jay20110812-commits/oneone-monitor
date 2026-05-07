@@ -4400,22 +4400,22 @@
   "35935": {
     "snapshot": {
       "price": 170,
-      "remain": 19,
+      "remain": 5,
       "total": 25,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X 收納包(白)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 5,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 5,
           "total": 25
         }
       ]
@@ -6885,17 +6885,17 @@
   "36165": {
     "snapshot": {
       "price": 360,
-      "remain": 97,
+      "remain": 50,
       "total": 120,
       "prizes": [
         {
           "name": "A賞 日版UX-00紅空力天馬(拆檢)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 代理版UX-11衝擊龍神 豪華組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -6915,17 +6915,17 @@
         },
         {
           "name": "F賞 代理版CX-11帝王威能★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 日版CX-14 騎士堡壘★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "H賞 日版CX-02 魔導至尊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -6940,12 +6940,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 88,
+          "remaining": 46,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 50,
           "total": 120
         }
       ]
