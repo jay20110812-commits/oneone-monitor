@@ -8265,7 +8265,7 @@
   "36218": {
     "snapshot": {
       "price": 190,
-      "remain": 100,
+      "remain": 83,
       "total": 120,
       "prizes": [
         {
@@ -8290,12 +8290,12 @@
         },
         {
           "name": "E賞 代理 BX-48 隨機強化組Vol.09★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "F賞 代理 BX-42 X發射器改造型握把(藍/透明)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -8330,12 +8330,12 @@
         },
         {
           "name": "M賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 90,
+          "remaining": 75,
           "total": 108
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 83,
           "total": 120
         }
       ]
