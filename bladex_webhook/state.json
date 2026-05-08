@@ -7775,7 +7775,7 @@
   "36190": {
     "snapshot": {
       "price": 360,
-      "remain": 21,
+      "remain": 20,
       "total": 25,
       "prizes": [
         {
@@ -7785,12 +7785,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 19,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 20,
           "total": 25
         }
       ]
@@ -8050,7 +8050,7 @@
   "36229": {
     "snapshot": {
       "price": 299,
-      "remain": 128,
+      "remain": 125,
       "total": 150,
       "prizes": [
         {
@@ -8080,7 +8080,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -8090,7 +8090,7 @@
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 24,
+          "remaining": 23,
           "total": 30
         },
         {
@@ -8100,17 +8100,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 77,
+          "remaining": 76,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 128,
+          "remaining": 125,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778261474.7770708
+    "last_notified_at": 1778262874.5444446
   },
   "36235": {
     "snapshot": {
