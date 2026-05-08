@@ -7850,22 +7850,22 @@
   "36214": {
     "snapshot": {
       "price": 190,
-      "remain": 20,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 BX-23 鳳凰飛翼 豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 14,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 14,
           "total": 20
         }
       ]
