@@ -7130,22 +7130,22 @@
   "36161": {
     "snapshot": {
       "price": 150,
-      "remain": 19,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-34蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -7775,7 +7775,7 @@
   "36190": {
     "snapshot": {
       "price": 360,
-      "remain": 22,
+      "remain": 21,
       "total": 25,
       "prizes": [
         {
@@ -7785,12 +7785,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 21,
+          "remaining": 20,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 22,
+          "remaining": 21,
           "total": 25
         }
       ]
@@ -8050,7 +8050,7 @@
   "36229": {
     "snapshot": {
       "price": 299,
-      "remain": 130,
+      "remain": 128,
       "total": 150,
       "prizes": [
         {
@@ -8090,12 +8090,12 @@
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 25,
+          "remaining": 24,
           "total": 30
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 17,
+          "remaining": 16,
           "total": 20
         },
         {
@@ -8105,12 +8105,12 @@
         },
         {
           "name": "合計",
-          "remaining": 130,
+          "remaining": 128,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778260768.4711256
+    "last_notified_at": 1778261474.7770708
   },
   "36235": {
     "snapshot": {
