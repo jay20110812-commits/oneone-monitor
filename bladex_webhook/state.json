@@ -8050,7 +8050,7 @@
   "36229": {
     "snapshot": {
       "price": 299,
-      "remain": 80,
+      "remain": 71,
       "total": 150,
       "prizes": [
         {
@@ -8090,7 +8090,7 @@
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 17,
+          "remaining": 14,
           "total": 30
         },
         {
@@ -8100,17 +8100,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 47,
+          "remaining": 41,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 71,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778325390.1667736
+    "last_notified_at": 1778327493.0991488
   },
   "36235": {
     "snapshot": {
@@ -9357,6 +9357,31 @@
           "name": "C賞 不限IP一番賞小賞(隨機一款)",
           "remaining": 19,
           "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36293": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
         },
         {
           "name": "合計",
