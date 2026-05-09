@@ -6570,7 +6570,7 @@
   "36081": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -6580,12 +6580,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -8215,7 +8215,7 @@
   "36227": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -8225,12 +8225,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -8685,7 +8685,7 @@
   "36245": {
     "snapshot": {
       "price": 250,
-      "remain": 39,
+      "remain": 36,
       "total": 40,
       "prizes": [
         {
@@ -8695,12 +8695,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 38,
+          "remaining": 35,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 39,
+          "remaining": 36,
           "total": 40
         }
       ]
@@ -8860,7 +8860,7 @@
   "36268": {
     "snapshot": {
       "price": 250,
-      "remain": 49,
+      "remain": 37,
       "total": 51,
       "prizes": [
         {
@@ -8875,7 +8875,7 @@
         },
         {
           "name": "C賞 BX-00 暴風巨神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -8895,17 +8895,17 @@
         },
         {
           "name": "G賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 43,
+          "remaining": 32,
           "total": 45
         },
         {
           "name": "合計",
-          "remaining": 49,
+          "remaining": 37,
           "total": 51
         }
       ]
     },
-    "last_notified_at": 1778325392.3974774
+    "last_notified_at": 1778328889.3304255
   },
   "36267": {
     "snapshot": {
