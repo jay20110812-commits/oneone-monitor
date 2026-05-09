@@ -7750,22 +7750,22 @@
   "36191": {
     "snapshot": {
       "price": 170,
-      "remain": 20,
+      "remain": 13,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 13,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 13,
           "total": 20
         }
       ]
@@ -8050,7 +8050,7 @@
   "36229": {
     "snapshot": {
       "price": 299,
-      "remain": 125,
+      "remain": 123,
       "total": 150,
       "prizes": [
         {
@@ -8095,22 +8095,22 @@
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 16,
+          "remaining": 15,
           "total": 20
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 76,
+          "remaining": 75,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 125,
+          "remaining": 123,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778262874.5444446
+    "last_notified_at": 1778285718.4730575
   },
   "36235": {
     "snapshot": {
@@ -8570,47 +8570,47 @@
   "36250": {
     "snapshot": {
       "price": 199,
-      "remain": 51,
+      "remain": 7,
       "total": 51,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺BX-46 對戰入門套裝★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 BX-02 惡魔紅鐮★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "C賞 BX-00 暴風巨神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 BX-31 隨機強化組Vol.03★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "E賞 BX-45 武士魂斬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "F賞 BX-44 三角強襲★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 45,
+          "remaining": 7,
           "total": 45
         },
         {
           "name": "合計",
-          "remaining": 51,
+          "remaining": 7,
           "total": 51
         }
       ]
@@ -8785,7 +8785,7 @@
   "36255": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -8795,12 +8795,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 28,
           "total": 30
         }
       ]
