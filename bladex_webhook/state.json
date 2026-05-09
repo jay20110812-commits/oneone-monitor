@@ -8050,7 +8050,7 @@
   "36229": {
     "snapshot": {
       "price": 299,
-      "remain": 123,
+      "remain": 121,
       "total": 150,
       "prizes": [
         {
@@ -8100,17 +8100,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 75,
+          "remaining": 73,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 123,
+          "remaining": 121,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778285718.4730575
+    "last_notified_at": 1778289166.51836
   },
   "36235": {
     "snapshot": {
