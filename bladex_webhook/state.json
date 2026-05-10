@@ -9545,7 +9545,7 @@
   "36302": {
     "snapshot": {
       "price": 290,
-      "remain": 27,
+      "remain": 25,
       "total": 30,
       "prizes": [
         {
@@ -9555,12 +9555,12 @@
         },
         {
           "name": "B賞不限IP一番賞小賞(隨機一款)",
-          "remaining": 26,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 25,
           "total": 30
         }
       ]
