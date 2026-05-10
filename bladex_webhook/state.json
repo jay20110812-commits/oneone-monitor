@@ -9620,7 +9620,7 @@
   "36320": {
     "snapshot": {
       "price": 380,
-      "remain": 211,
+      "remain": 209,
       "total": 250,
       "prizes": [
         {
@@ -9650,12 +9650,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 202,
+          "remaining": 200,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 211,
+          "remaining": 209,
           "total": 250
         }
       ]
