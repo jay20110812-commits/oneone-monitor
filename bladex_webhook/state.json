@@ -4750,7 +4750,7 @@
   "35963": {
     "snapshot": {
       "price": 109,
-      "remain": 19,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -4760,12 +4760,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -8860,7 +8860,7 @@
   "36268": {
     "snapshot": {
       "price": 250,
-      "remain": 31,
+      "remain": 27,
       "total": 51,
       "prizes": [
         {
@@ -8870,7 +8870,7 @@
         },
         {
           "name": "B賞 BX-02 惡魔紅鐮★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -8895,17 +8895,17 @@
         },
         {
           "name": "G賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 27,
+          "remaining": 24,
           "total": 45
         },
         {
           "name": "合計",
-          "remaining": 31,
+          "remaining": 27,
           "total": 51
         }
       ]
     },
-    "last_notified_at": 1778427305.0782247
+    "last_notified_at": 1778442498.4999852
   },
   "36267": {
     "snapshot": {
@@ -8960,22 +8960,22 @@
   "36265": {
     "snapshot": {
       "price": 299,
-      "remain": 40,
+      "remain": 7,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 7,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 7,
           "total": 40
         }
       ]
@@ -9215,7 +9215,7 @@
   "36281": {
     "snapshot": {
       "price": 170,
-      "remain": 21,
+      "remain": 20,
       "total": 25,
       "prizes": [
         {
@@ -9225,12 +9225,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 19,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 20,
           "total": 25
         }
       ]
@@ -9520,7 +9520,7 @@
   "36300": {
     "snapshot": {
       "price": 170,
-      "remain": 20,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -9530,12 +9530,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -9620,7 +9620,7 @@
   "36320": {
     "snapshot": {
       "price": 380,
-      "remain": 230,
+      "remain": 211,
       "total": 250,
       "prizes": [
         {
@@ -9640,7 +9640,7 @@
         },
         {
           "name": "D賞 戰鬥陀螺X UX-03魔導神杖★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 4
         },
         {
@@ -9650,12 +9650,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 220,
+          "remaining": 202,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 230,
+          "remaining": 211,
           "total": 250
         }
       ]
@@ -9715,7 +9715,7 @@
   "36316": {
     "snapshot": {
       "price": 200,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -9725,12 +9725,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -9740,7 +9740,7 @@
   "36315": {
     "snapshot": {
       "price": 200,
-      "remain": 34,
+      "remain": 32,
       "total": 40,
       "prizes": [
         {
@@ -9750,12 +9750,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 33,
+          "remaining": 31,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 34,
+          "remaining": 32,
           "total": 40
         }
       ]
@@ -9765,7 +9765,7 @@
   "36314": {
     "snapshot": {
       "price": 350,
-      "remain": 131,
+      "remain": 123,
       "total": 150,
       "prizes": [
         {
@@ -9795,7 +9795,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -9810,22 +9810,22 @@
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 20
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 74,
+          "remaining": 68,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 131,
+          "remaining": 123,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778428695.1119032
+    "last_notified_at": 1778442497.0743895
   },
   "36313": {
     "snapshot": {
@@ -9955,22 +9955,22 @@
   "36330": {
     "snapshot": {
       "price": 299,
-      "remain": 39,
+      "remain": 33,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 38,
+          "remaining": 33,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 39,
+          "remaining": 33,
           "total": 40
         }
       ]
@@ -10005,22 +10005,22 @@
   "36342": {
     "snapshot": {
       "price": 150,
-      "remain": 19,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -10080,7 +10080,7 @@
   "36333": {
     "snapshot": {
       "price": 200,
-      "remain": 40,
+      "remain": 35,
       "total": 40,
       "prizes": [
         {
@@ -10090,12 +10090,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 34,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 35,
           "total": 40
         }
       ]
@@ -10105,7 +10105,7 @@
   "36332": {
     "snapshot": {
       "price": 200,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -10115,12 +10115,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -10315,6 +10315,31 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36348": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
           "remaining": 19,
           "total": 19
         },
