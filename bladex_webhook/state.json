@@ -8860,7 +8860,7 @@
   "36268": {
     "snapshot": {
       "price": 250,
-      "remain": 27,
+      "remain": 23,
       "total": 51,
       "prizes": [
         {
@@ -8890,17 +8890,17 @@
         },
         {
           "name": "F賞 BX-44 三角強襲★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 24,
+          "remaining": 21,
           "total": 45
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 23,
           "total": 51
         }
       ]
