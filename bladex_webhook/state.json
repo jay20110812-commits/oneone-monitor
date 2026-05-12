@@ -11225,12 +11225,12 @@
   "36406": {
     "snapshot": {
       "price": 350,
-      "remain": 108,
+      "remain": 85,
       "total": 150,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺X UX-15絞鯊狂鱗★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -11265,27 +11265,27 @@
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 23,
+          "remaining": 17,
           "total": 30
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 20
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 60,
+          "remaining": 45,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 108,
+          "remaining": 85,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778625589.006611
+    "last_notified_at": 1778627676.720941
   },
   "36405": {
     "snapshot": {
