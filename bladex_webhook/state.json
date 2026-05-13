@@ -12325,7 +12325,7 @@
   "36483": {
     "snapshot": {
       "price": 360,
-      "remain": 97,
+      "remain": 96,
       "total": 100,
       "prizes": [
         {
@@ -12400,17 +12400,17 @@
         },
         {
           "name": "O賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 83,
+          "remaining": 82,
           "total": 86
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 96,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1778666243.1084766
+    "last_notified_at": 1778668330.8991373
   },
   "36476": {
     "snapshot": {
