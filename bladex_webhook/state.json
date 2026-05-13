@@ -12325,22 +12325,22 @@
   "36483": {
     "snapshot": {
       "price": 360,
-      "remain": 96,
+      "remain": 11,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 代理版CX11帝王威能★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 代理版BX-23鳳凰飛翼豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "C賞 代理版UX-03魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -12350,62 +12350,62 @@
         },
         {
           "name": "E賞 代理版UX-11衝擊龍神豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "F賞 代理版BXG-13神力聖劍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 代理版BXG-11堅甲戰龜S★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "H賞 代理版BXG-11龍騎士S★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 代理版BXG-20巨岩雄霸★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "J賞 代理版BX-15雄獅獵爪★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "K賞 代理版BX-44三角強襲★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "L賞 代理版BX-05魔導幻箭（焰紅）★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "M賞 代理版UX-16時鐘幻想隨機強化組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "N賞 代理版BX-38赫燃天鳳★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "O賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 82,
+          "remaining": 10,
           "total": 86
         },
         {
           "name": "合計",
-          "remaining": 96,
+          "remaining": 11,
           "total": 100
         }
       ]
