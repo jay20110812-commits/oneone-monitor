@@ -12210,7 +12210,7 @@
   "36485": {
     "snapshot": {
       "price": 290,
-      "remain": 73,
+      "remain": 63,
       "total": 150,
       "prizes": [
         {
@@ -12250,7 +12250,7 @@
         },
         {
           "name": "H賞 日版 BX-35 隨機強化組Vol.04★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -12310,17 +12310,17 @@
         },
         {
           "name": "T賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 65,
+          "remaining": 56,
           "total": 131
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 63,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778693983.8457391
+    "last_notified_at": 1778697492.8378801
   },
   "36483": {
     "snapshot": {
