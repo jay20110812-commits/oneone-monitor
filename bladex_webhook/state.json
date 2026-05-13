@@ -10850,7 +10850,7 @@
   "36393": {
     "snapshot": {
       "price": 380,
-      "remain": 196,
+      "remain": 190,
       "total": 250,
       "prizes": [
         {
@@ -10880,12 +10880,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 182,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 190,
           "total": 250
         }
       ]
