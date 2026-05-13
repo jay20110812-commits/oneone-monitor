@@ -11610,7 +11610,7 @@
   "36438": {
     "snapshot": {
       "price": 350,
-      "remain": 35,
+      "remain": 30,
       "total": 40,
       "prizes": [
         {
@@ -11620,12 +11620,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 34,
+          "remaining": 29,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 35,
+          "remaining": 30,
           "total": 40
         }
       ]
@@ -12210,7 +12210,7 @@
   "36485": {
     "snapshot": {
       "price": 290,
-      "remain": 150,
+      "remain": 140,
       "total": 150,
       "prizes": [
         {
@@ -12255,7 +12255,7 @@
         },
         {
           "name": "I賞 日版 UX-16 時鐘幻象 隨機強化組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -12310,22 +12310,22 @@
         },
         {
           "name": "T賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 131,
+          "remaining": 122,
           "total": 131
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 140,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1778666241.9356866
   },
   "36483": {
     "snapshot": {
       "price": 360,
-      "remain": 100,
+      "remain": 97,
       "total": 100,
       "prizes": [
         {
@@ -12400,17 +12400,17 @@
         },
         {
           "name": "O賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 86,
+          "remaining": 83,
           "total": 86
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 97,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1778666243.1084766
   },
   "36476": {
     "snapshot": {
