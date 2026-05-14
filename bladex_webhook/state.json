@@ -10805,7 +10805,7 @@
   "36394": {
     "snapshot": {
       "price": 380,
-      "remain": 186,
+      "remain": 160,
       "total": 250,
       "prizes": [
         {
@@ -10815,7 +10815,7 @@
         },
         {
           "name": "B賞 戰鬥陀螺X 黃金神杖連結軸(無外盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -10835,12 +10835,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 178,
+          "remaining": 153,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 186,
+          "remaining": 160,
           "total": 250
         }
       ]
