@@ -10805,12 +10805,12 @@
   "36394": {
     "snapshot": {
       "price": 380,
-      "remain": 112,
+      "remain": 19,
       "total": 250,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X 黃金神杖上蓋(無外盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -10820,27 +10820,27 @@
         },
         {
           "name": "C賞 戰鬥陀螺X 黃金神杖齒輪軸心(無外盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 戰鬥陀螺X UX-03魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 4
         },
         {
           "name": "E賞 戰鬥陀螺X UX-15鮫鯊狂鱗改造組★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 4
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 107,
+          "remaining": 19,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 112,
+          "remaining": 19,
           "total": 250
         }
       ]
@@ -13150,7 +13150,7 @@
   "36536": {
     "snapshot": {
       "price": 290,
-      "remain": 145,
+      "remain": 130,
       "total": 300,
       "prizes": [
         {
@@ -13195,12 +13195,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 142,
+          "remaining": 127,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 145,
+          "remaining": 130,
           "total": 300
         }
       ]
@@ -13235,22 +13235,22 @@
   "36534": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺 X CX-01 蒼龍勇氣★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 9,
           "total": 20
         }
       ]
@@ -13285,22 +13285,22 @@
   "36532": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-34蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -13335,7 +13335,7 @@
   "36529": {
     "snapshot": {
       "price": 350,
-      "remain": 108,
+      "remain": 105,
       "total": 120,
       "prizes": [
         {
@@ -13365,7 +13365,7 @@
         },
         {
           "name": "F賞 日版BX-00 BXG-09 蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -13380,12 +13380,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 98,
+          "remaining": 96,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 108,
+          "remaining": 105,
           "total": 120
         }
       ]
@@ -13445,7 +13445,7 @@
   "36524": {
     "snapshot": {
       "price": 350,
-      "remain": 120,
+      "remain": 119,
       "total": 120,
       "prizes": [
         {
@@ -13490,12 +13490,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 109,
+          "remaining": 108,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 120,
+          "remaining": 119,
           "total": 120
         }
       ]
@@ -13580,7 +13580,7 @@
   "36559": {
     "snapshot": {
       "price": 320,
-      "remain": 299,
+      "remain": 284,
       "total": 300,
       "prizes": [
         {
@@ -13610,7 +13610,7 @@
         },
         {
           "name": "F賞 戰鬥陀螺X UX-09 武士星劍 (日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -13625,12 +13625,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 277,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 299,
+          "remaining": 284,
           "total": 300
         }
       ]
@@ -13640,17 +13640,17 @@
   "36553": {
     "snapshot": {
       "price": 380,
-      "remain": 80,
+      "remain": 21,
       "total": 80,
       "prizes": [
         {
           "name": "A賞 代理版UX-15鮫鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 代理版BX-23鳳凰飛翼豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -13660,32 +13660,32 @@
         },
         {
           "name": "D賞 代理版UX-17隕星龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "E賞 代理版BX-00猛瑪象★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "F賞 代理版CX-13龍王閃擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 代理版CX-05 惡魔獵魂抽包★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "H賞 隨機IP一番賞小賞",
-          "remaining": 72,
+          "remaining": 19,
           "total": 72
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 21,
           "total": 80
         }
       ]
@@ -13870,22 +13870,22 @@
   "36549": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X CX-07 天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
