@@ -10805,7 +10805,7 @@
   "36394": {
     "snapshot": {
       "price": 380,
-      "remain": 125,
+      "remain": 112,
       "total": 250,
       "prizes": [
         {
@@ -10825,7 +10825,7 @@
         },
         {
           "name": "D賞 戰鬥陀螺X UX-03魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 4
         },
         {
@@ -10835,12 +10835,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 119,
+          "remaining": 107,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 125,
+          "remaining": 112,
           "total": 250
         }
       ]
@@ -11515,7 +11515,7 @@
   "36370": {
     "snapshot": {
       "price": 320,
-      "remain": 47,
+      "remain": 15,
       "total": 100,
       "prizes": [
         {
@@ -11530,12 +11530,12 @@
         },
         {
           "name": "C賞日版CX00限定版紅天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 日版UX-01蒼龍爆刃★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -11545,12 +11545,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 45,
+          "remaining": 15,
           "total": 95
         },
         {
           "name": "合計",
-          "remaining": 47,
+          "remaining": 15,
           "total": 100
         }
       ]
