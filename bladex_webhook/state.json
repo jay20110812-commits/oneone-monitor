@@ -13445,7 +13445,7 @@
   "36524": {
     "snapshot": {
       "price": 350,
-      "remain": 119,
+      "remain": 116,
       "total": 120,
       "prizes": [
         {
@@ -13490,12 +13490,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 108,
+          "remaining": 105,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 119,
+          "remaining": 116,
           "total": 120
         }
       ]
