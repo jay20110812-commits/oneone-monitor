@@ -9765,7 +9765,7 @@
   "36314": {
     "snapshot": {
       "price": 350,
-      "remain": 69,
+      "remain": 66,
       "total": 150,
       "prizes": [
         {
@@ -9805,7 +9805,7 @@
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 13,
+          "remaining": 12,
           "total": 30
         },
         {
@@ -9815,17 +9815,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 35,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 69,
+          "remaining": 66,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1778522766.1970756
+    "last_notified_at": 1778862704.219057
   },
   "36313": {
     "snapshot": {
@@ -14415,7 +14415,7 @@
   "36617": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
@@ -14425,12 +14425,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 10,
           "total": 20
         }
       ]
