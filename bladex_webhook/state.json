@@ -13720,22 +13720,22 @@
   "36563": {
     "snapshot": {
       "price": 200,
-      "remain": 38,
+      "remain": 17,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-04極限衝擊對戰組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 17,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 38,
+          "remaining": 17,
           "total": 40
         }
       ]
