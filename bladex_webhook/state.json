@@ -14315,7 +14315,7 @@
   "36622": {
     "snapshot": {
       "price": 150,
-      "remain": 18,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -14325,12 +14325,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 18,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -14625,7 +14625,7 @@
   "36624": {
     "snapshot": {
       "price": 320,
-      "remain": 287,
+      "remain": 286,
       "total": 300,
       "prizes": [
         {
@@ -14670,12 +14670,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 279,
+          "remaining": 278,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 287,
+          "remaining": 286,
           "total": 300
         }
       ]
@@ -14875,22 +14875,22 @@
   "36645": {
     "snapshot": {
       "price": 250,
-      "remain": 13,
+      "remain": 11,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-49 蒼龍突擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 12,
+          "remaining": 11,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 13,
+          "remaining": 11,
           "total": 20
         }
       ]
@@ -15117,6 +15117,81 @@
           "name": "合計",
           "remaining": 21,
           "total": 21
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36660": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-49 蒼龍突擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36659": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X BX-49 蒼龍突擊(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36657": {
+    "snapshot": {
+      "price": 180,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 UX-01 蒼龍爆刃(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
