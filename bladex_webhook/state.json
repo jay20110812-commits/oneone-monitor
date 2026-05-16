@@ -6620,12 +6620,12 @@
   "36108": {
     "snapshot": {
       "price": 320,
-      "remain": 89,
+      "remain": 84,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 BX-00蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -6650,7 +6650,7 @@
         },
         {
           "name": "F賞 BX-45武士魂斬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -6665,17 +6665,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 76,
+          "remaining": 73,
           "total": 85
         },
         {
           "name": "合計",
-          "remaining": 89,
+          "remaining": 84,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1778834004.977748
+    "last_notified_at": 1778949539.9841897
   },
   "36095": {
     "snapshot": {
