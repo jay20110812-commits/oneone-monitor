@@ -13395,7 +13395,7 @@
   "36528": {
     "snapshot": {
       "price": 200,
-      "remain": 26,
+      "remain": 22,
       "total": 30,
       "prizes": [
         {
@@ -13405,12 +13405,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 21,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 22,
           "total": 30
         }
       ]
