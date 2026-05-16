@@ -1527,7 +1527,7 @@
   "35263": {
     "snapshot": {
       "price": 210,
-      "remain": 19,
+      "remain": 16,
       "total": 80,
       "prizes": [
         {
@@ -1552,7 +1552,7 @@
         },
         {
           "name": "E賞 BX-36★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -1577,12 +1577,12 @@
         },
         {
           "name": "J賞 隨機一番賞小賞(隨機IP)",
-          "remaining": 17,
+          "remaining": 15,
           "total": 71
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 16,
           "total": 80
         }
       ]
