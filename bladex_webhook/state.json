@@ -15325,7 +15325,7 @@
   "36668": {
     "snapshot": {
       "price": 299,
-      "remain": 279,
+      "remain": 277,
       "total": 300,
       "prizes": [
         {
@@ -15360,12 +15360,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 269,
+          "remaining": 267,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 279,
+          "remaining": 277,
           "total": 300
         }
       ]
