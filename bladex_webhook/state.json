@@ -6620,7 +6620,7 @@
   "36108": {
     "snapshot": {
       "price": 320,
-      "remain": 84,
+      "remain": 83,
       "total": 100,
       "prizes": [
         {
@@ -6665,17 +6665,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 73,
+          "remaining": 72,
           "total": 85
         },
         {
           "name": "合計",
-          "remaining": 84,
+          "remaining": 83,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1778949539.9841897
+    "last_notified_at": 1779022553.1915886
   },
   "36095": {
     "snapshot": {
@@ -14625,7 +14625,7 @@
   "36624": {
     "snapshot": {
       "price": 320,
-      "remain": 263,
+      "remain": 257,
       "total": 300,
       "prizes": [
         {
@@ -14645,7 +14645,7 @@
         },
         {
           "name": "D賞 日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -14670,12 +14670,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 256,
+          "remaining": 251,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 263,
+          "remaining": 257,
           "total": 300
         }
       ]
@@ -15700,7 +15700,7 @@
   "36686": {
     "snapshot": {
       "price": 280,
-      "remain": 495,
+      "remain": 463,
       "total": 500,
       "prizes": [
         {
@@ -15720,7 +15720,7 @@
         },
         {
           "name": "D賞 3-70A紅色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -15750,12 +15750,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 485,
+          "remaining": 454,
           "total": 490
         },
         {
           "name": "合計",
-          "remaining": 495,
+          "remaining": 463,
           "total": 500
         }
       ]
