@@ -15321,5 +15321,55 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "36668": {
+    "snapshot": {
+      "price": 299,
+      "remain": 300,
+      "total": 300,
+      "prizes": [
+        {
+          "name": "A賞 UX-00藍色空力天馬★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 3-70A紅色空力天馬★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 UX-03魔導神杖★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 CX-11帝王威能★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 CX-00天馬爆擊焰紅版★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 BX-23鳳凰飛翼豪華組★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 289,
+          "total": 289
+        },
+        {
+          "name": "合計",
+          "remaining": 300,
+          "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
