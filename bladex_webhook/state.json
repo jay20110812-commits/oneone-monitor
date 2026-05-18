@@ -6620,7 +6620,7 @@
   "36108": {
     "snapshot": {
       "price": 320,
-      "remain": 83,
+      "remain": 67,
       "total": 100,
       "prizes": [
         {
@@ -6645,7 +6645,7 @@
         },
         {
           "name": "E賞 BX-44三角強襲★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -6665,17 +6665,17 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 72,
+          "remaining": 57,
           "total": 85
         },
         {
           "name": "合計",
-          "remaining": 83,
+          "remaining": 67,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1779022553.1915886
+    "last_notified_at": 1779133141.7212205
   },
   "36095": {
     "snapshot": {
