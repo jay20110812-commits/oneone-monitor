@@ -15325,7 +15325,7 @@
   "36668": {
     "snapshot": {
       "price": 299,
-      "remain": 206,
+      "remain": 205,
       "total": 300,
       "prizes": [
         {
@@ -17311,6 +17311,31 @@
         {
           "name": "合計",
           "remaining": 8,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36791": {
+    "snapshot": {
+      "price": 180,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 CX-13戰鬥陀螺 龍王閃擊（泰版）★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 隨機一番賞小賞(隨機IP)/隨機扭蛋",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
           "total": 20
         }
       ]
