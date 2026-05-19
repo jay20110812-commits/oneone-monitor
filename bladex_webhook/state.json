@@ -16860,7 +16860,7 @@
   "36776": {
     "snapshot": {
       "price": 290,
-      "remain": 138,
+      "remain": 127,
       "total": 200,
       "prizes": [
         {
@@ -16875,7 +16875,7 @@
         },
         {
           "name": "C賞 UX-00涉谷爆刃1-60A(藍青全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16905,12 +16905,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 132,
+          "remaining": 122,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 138,
+          "remaining": 127,
           "total": 200
         }
       ]
@@ -17140,22 +17140,22 @@
   "36783": {
     "snapshot": {
       "price": 170,
-      "remain": 16,
+      "remain": 8,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 14,
+          "remaining": 8,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 8,
           "total": 20
         }
       ]
@@ -17420,7 +17420,7 @@
   "36805": {
     "snapshot": {
       "price": 250,
-      "remain": 20,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -17430,17 +17430,17 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 14,
           "total": 17
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 17,
           "total": 20
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1779216776.933276
   },
   "36804": {
     "snapshot": {
