@@ -16810,22 +16810,22 @@
   "36757": {
     "snapshot": {
       "price": 250,
-      "remain": 19,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X BX-49 蒼龍突擊(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 9,
           "total": 20
         }
       ]
@@ -17065,22 +17065,22 @@
   "36778": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X CX-07 天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -17662,6 +17662,66 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "36809": {
+    "snapshot": {
+      "price": 290,
+      "remain": 200,
+      "total": 200,
+      "prizes": [
+        {
+          "name": "A賞 UX-00涉谷爆刃1-60A(紫粉全新整顆)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-00涉谷爆刃1-60A(綠黑全新整顆)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-00涉谷爆刃1-60A(藍青全新整顆)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 戰鬥陀螺 CX-13龍王閃擊-版本隨機★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲-版本隨機★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 戰鬥陀螺 BX-48 隨機強化組Vol.09-版本隨機★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "H賞 戰鬥陀螺 UX-16 時鐘幻象隨機強化組-版本隨機★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "I賞 不限IP隨機小賞一個",
+          "remaining": 192,
+          "total": 192
+        },
+        {
+          "name": "合計",
+          "remaining": 200,
+          "total": 200
         }
       ]
     },
