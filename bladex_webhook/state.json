@@ -16645,22 +16645,22 @@
   "36744": {
     "snapshot": {
       "price": 230,
-      "remain": 26,
+      "remain": 9,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 9,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 9,
           "total": 30
         }
       ]
@@ -16860,17 +16860,17 @@
   "36776": {
     "snapshot": {
       "price": 290,
-      "remain": 127,
+      "remain": 16,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-00涉谷爆刃1-60A(紫粉全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 UX-00涉谷爆刃1-60A(綠黑全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16880,12 +16880,12 @@
         },
         {
           "name": "D賞 戰鬥陀螺 CX-13龍王閃擊-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16895,7 +16895,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16905,12 +16905,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 122,
+          "remaining": 16,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 127,
+          "remaining": 16,
           "total": 200
         }
       ]
@@ -17005,7 +17005,7 @@
   "36780": {
     "snapshot": {
       "price": 190,
-      "remain": 224,
+      "remain": 223,
       "total": 260,
       "prizes": [
         {
@@ -17050,12 +17050,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 217,
+          "remaining": 216,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 224,
+          "remaining": 223,
           "total": 260
         }
       ]
