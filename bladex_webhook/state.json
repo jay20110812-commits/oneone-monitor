@@ -17780,7 +17780,7 @@
   "36810": {
     "snapshot": {
       "price": 299,
-      "remain": 293,
+      "remain": 264,
       "total": 300,
       "prizes": [
         {
@@ -17805,7 +17805,7 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -17815,12 +17815,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 282,
+          "remaining": 254,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 293,
+          "remaining": 264,
           "total": 300
         }
       ]
