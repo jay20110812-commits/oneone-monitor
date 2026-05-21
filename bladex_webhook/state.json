@@ -17215,7 +17215,7 @@
   "36772": {
     "snapshot": {
       "price": 290,
-      "remain": 300,
+      "remain": 293,
       "total": 300,
       "prizes": [
         {
@@ -17255,12 +17255,12 @@
         },
         {
           "name": "H賞 不限IP隨機小賞一個",
-          "remaining": 293,
+          "remaining": 286,
           "total": 293
         },
         {
           "name": "合計",
-          "remaining": 300,
+          "remaining": 293,
           "total": 300
         }
       ]
