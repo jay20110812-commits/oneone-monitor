@@ -13080,7 +13080,7 @@
   "36545": {
     "snapshot": {
       "price": 380,
-      "remain": 217,
+      "remain": 212,
       "total": 250,
       "prizes": [
         {
@@ -13100,7 +13100,7 @@
         },
         {
           "name": "D賞 戰鬥陀螺X UX-03魔導神杖不限版本★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 4
         },
         {
@@ -13110,12 +13110,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 207,
+          "remaining": 203,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 217,
+          "remaining": 212,
           "total": 250
         }
       ]
@@ -18645,7 +18645,7 @@
   "36906": {
     "snapshot": {
       "price": 300,
-      "remain": 40,
+      "remain": 36,
       "total": 40,
       "prizes": [
         {
