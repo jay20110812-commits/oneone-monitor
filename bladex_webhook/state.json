@@ -18920,12 +18920,12 @@
   "36912": {
     "snapshot": {
       "price": 250,
-      "remain": 85,
+      "remain": 30,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 鮫鯊狂鱗改造組 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -18955,22 +18955,22 @@
         },
         {
           "name": "G賞 CX-16 極限衝擊對戰組C ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "H賞 BX-49 蒼龍突擊 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 81,
+          "remaining": 29,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 85,
+          "remaining": 30,
           "total": 200
         }
       ]
