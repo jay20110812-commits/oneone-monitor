@@ -16945,7 +16945,7 @@
   "36781": {
     "snapshot": {
       "price": 360,
-      "remain": 246,
+      "remain": 219,
       "total": 300,
       "prizes": [
         {
@@ -16990,12 +16990,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 240,
+          "remaining": 213,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 246,
+          "remaining": 219,
           "total": 300
         }
       ]
@@ -17890,7 +17890,7 @@
   "36711": {
     "snapshot": {
       "price": 250,
-      "remain": 79,
+      "remain": 76,
       "total": 200,
       "prizes": [
         {
@@ -17935,12 +17935,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 76,
+          "remaining": 73,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 79,
+          "remaining": 76,
           "total": 200
         }
       ]
@@ -19320,7 +19320,7 @@
   "36935": {
     "snapshot": {
       "price": 290,
-      "remain": 174,
+      "remain": 161,
       "total": 200,
       "prizes": [
         {
@@ -19335,7 +19335,7 @@
         },
         {
           "name": "C賞 UX-00涉谷爆刃1-60A(藍青全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -19365,12 +19365,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 167,
+          "remaining": 155,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 174,
+          "remaining": 161,
           "total": 200
         }
       ]
@@ -19710,7 +19710,7 @@
   "36991": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -19720,12 +19720,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 28,
           "total": 30
         }
       ]
@@ -19860,22 +19860,22 @@
   "36981": {
     "snapshot": {
       "price": 200,
-      "remain": 40,
+      "remain": 30,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 30,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 30,
           "total": 40
         }
       ]
@@ -20345,7 +20345,7 @@
   "37003": {
     "snapshot": {
       "price": 190,
-      "remain": 259,
+      "remain": 256,
       "total": 260,
       "prizes": [
         {
@@ -20390,12 +20390,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 251,
+          "remaining": 248,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 259,
+          "remaining": 256,
           "total": 260
         }
       ]
