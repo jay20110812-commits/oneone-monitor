@@ -13795,7 +13795,7 @@
   "36555": {
     "snapshot": {
       "price": 4900,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -13805,12 +13805,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 36,
           "total": 37
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -16945,27 +16945,27 @@
   "36781": {
     "snapshot": {
       "price": 360,
-      "remain": 219,
+      "remain": 59,
       "total": 300,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 黃金神杖整顆-拆袋全新未下場★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 戰鬥陀螺X UX-03 魔導神杖-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "C賞 戰鬥陀螺 UX-15 鮫鯊狂鱗改造組-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 戰鬥陀螺 CX-13 龍王閃擊-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16975,7 +16975,7 @@
         },
         {
           "name": "F賞 戰鬥陀螺 BX-48 隨機強化組Vol.09-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16985,17 +16985,17 @@
         },
         {
           "name": "H賞 戰鬥陀螺X CX-17隨機強化組-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 213,
+          "remaining": 59,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 219,
+          "remaining": 59,
           "total": 300
         }
       ]
@@ -20390,12 +20390,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 244,
+          "remaining": 243,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 252,
+          "remaining": 251,
           "total": 260
         }
       ]
