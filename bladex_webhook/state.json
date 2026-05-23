@@ -18920,7 +18920,7 @@
   "36912": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 29,
       "total": 200,
       "prizes": [
         {
@@ -18965,12 +18965,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 200
         }
       ]
@@ -19320,12 +19320,12 @@
   "36935": {
     "snapshot": {
       "price": 290,
-      "remain": 161,
+      "remain": 88,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-00涉谷爆刃1-60A(紫粉全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -19350,12 +19350,12 @@
         },
         {
           "name": "F賞 戰鬥陀螺 BX-48 隨機強化組Vol.09-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -19365,12 +19365,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 155,
+          "remaining": 85,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 161,
+          "remaining": 88,
           "total": 200
         }
       ]
