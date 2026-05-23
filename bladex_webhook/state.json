@@ -18485,7 +18485,7 @@
   "36869": {
     "snapshot": {
       "price": 250,
-      "remain": 93,
+      "remain": 82,
       "total": 200,
       "prizes": [
         {
@@ -18500,7 +18500,7 @@
         },
         {
           "name": "C賞 UX-03魔導神杖 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -18530,12 +18530,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 89,
+          "remaining": 79,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 93,
+          "remaining": 82,
           "total": 200
         }
       ]
@@ -18980,7 +18980,7 @@
   "36916": {
     "snapshot": {
       "price": 250,
-      "remain": 186,
+      "remain": 185,
       "total": 200,
       "prizes": [
         {
@@ -19025,12 +19025,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 178,
+          "remaining": 177,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 186,
+          "remaining": 185,
           "total": 200
         }
       ]
@@ -20345,7 +20345,7 @@
   "37003": {
     "snapshot": {
       "price": 190,
-      "remain": 252,
+      "remain": 242,
       "total": 260,
       "prizes": [
         {
@@ -20380,7 +20380,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31 隨機強化組Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -20390,12 +20390,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 243,
+          "remaining": 235,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 251,
+          "remaining": 242,
           "total": 260
         }
       ]
