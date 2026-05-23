@@ -19320,7 +19320,7 @@
   "36935": {
     "snapshot": {
       "price": 290,
-      "remain": 88,
+      "remain": 82,
       "total": 200,
       "prizes": [
         {
@@ -19365,12 +19365,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 85,
+          "remaining": 79,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 88,
+          "remaining": 82,
           "total": 200
         }
       ]
