@@ -20455,7 +20455,7 @@
   "37024": {
     "snapshot": {
       "price": 290,
-      "remain": 196,
+      "remain": 188,
       "total": 200,
       "prizes": [
         {
@@ -20495,17 +20495,17 @@
         },
         {
           "name": "H賞 戰鬥陀螺 UX-16 時鐘幻象隨機強化組-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 188,
+          "remaining": 181,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 188,
           "total": 200
         }
       ]
