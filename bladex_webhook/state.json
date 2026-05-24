@@ -19320,7 +19320,7 @@
   "36935": {
     "snapshot": {
       "price": 290,
-      "remain": 51,
+      "remain": 47,
       "total": 200,
       "prizes": [
         {
@@ -19330,7 +19330,7 @@
         },
         {
           "name": "B賞 UX-00涉谷爆刃1-60A(綠黑全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -19365,12 +19365,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 49,
+          "remaining": 46,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 51,
+          "remaining": 47,
           "total": 200
         }
       ]
@@ -20160,7 +20160,7 @@
   "37002": {
     "snapshot": {
       "price": 250,
-      "remain": 156,
+      "remain": 154,
       "total": 200,
       "prizes": [
         {
@@ -20205,12 +20205,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 149,
+          "remaining": 147,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 156,
+          "remaining": 154,
           "total": 200
         }
       ]
@@ -20810,7 +20810,7 @@
   "37052": {
     "snapshot": {
       "price": 290,
-      "remain": 170,
+      "remain": 169,
       "total": 200,
       "prizes": [
         {
@@ -20855,12 +20855,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 163,
+          "remaining": 162,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 170,
+          "remaining": 169,
           "total": 200
         }
       ]
