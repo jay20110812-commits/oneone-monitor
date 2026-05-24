@@ -20345,12 +20345,12 @@
   "37003": {
     "snapshot": {
       "price": 190,
-      "remain": 242,
+      "remain": 208,
       "total": 260,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 BX-00鳳凰飛翼 黑鳳凰★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -20390,12 +20390,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 235,
+          "remaining": 202,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 242,
+          "remaining": 208,
           "total": 260
         }
       ]
@@ -20405,7 +20405,7 @@
   "37001": {
     "snapshot": {
       "price": 300,
-      "remain": 40,
+      "remain": 36,
       "total": 40,
       "prizes": [
         {
@@ -20415,12 +20415,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 35,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 36,
           "total": 40
         }
       ]
