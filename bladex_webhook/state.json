@@ -18980,7 +18980,7 @@
   "36916": {
     "snapshot": {
       "price": 250,
-      "remain": 160,
+      "remain": 146,
       "total": 200,
       "prizes": [
         {
@@ -19005,7 +19005,7 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -19025,12 +19025,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 153,
+          "remaining": 140,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 160,
+          "remaining": 146,
           "total": 200
         }
       ]
@@ -20810,7 +20810,7 @@
   "37052": {
     "snapshot": {
       "price": 290,
-      "remain": 169,
+      "remain": 159,
       "total": 200,
       "prizes": [
         {
@@ -20845,7 +20845,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -20855,12 +20855,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 162,
+          "remaining": 153,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 169,
+          "remaining": 159,
           "total": 200
         }
       ]
