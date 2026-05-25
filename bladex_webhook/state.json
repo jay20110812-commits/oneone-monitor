@@ -13360,7 +13360,7 @@
         },
         {
           "name": "E賞 日版 CX-10 銀狼狩獵★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -13380,12 +13380,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 52,
+          "remaining": 49,
           "total": 109
         },
         {
           "name": "合計",
-          "remaining": 57,
+          "remaining": 53,
           "total": 120
         }
       ]
@@ -20810,7 +20810,7 @@
   "37052": {
     "snapshot": {
       "price": 290,
-      "remain": 104,
+      "remain": 103,
       "total": 200,
       "prizes": [
         {
@@ -20855,12 +20855,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 100,
+          "remaining": 99,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 104,
+          "remaining": 103,
           "total": 200
         }
       ]
@@ -22035,22 +22035,22 @@
   "37096": {
     "snapshot": {
       "price": 250,
-      "remain": 29,
+      "remain": 15,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-11帝王威能(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 15,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 15,
           "total": 30
         }
       ]
