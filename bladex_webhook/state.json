@@ -20870,22 +20870,22 @@
   "37057": {
     "snapshot": {
       "price": 300,
-      "remain": 22,
+      "remain": 11,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-00巴賽隆納爆刃★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 21,
+          "remaining": 11,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 22,
+          "remaining": 11,
           "total": 40
         }
       ]
