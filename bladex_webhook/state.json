@@ -21565,7 +21565,7 @@
   "37103": {
     "snapshot": {
       "price": 350,
-      "remain": 199,
+      "remain": 195,
       "total": 320,
       "prizes": [
         {
@@ -21590,7 +21590,7 @@
         },
         {
           "name": "E賞UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -21615,12 +21615,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 185,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 199,
+          "remaining": 195,
           "total": 320
         }
       ]
