@@ -20160,7 +20160,7 @@
   "37002": {
     "snapshot": {
       "price": 250,
-      "remain": 56,
+      "remain": 52,
       "total": 200,
       "prizes": [
         {
@@ -20205,12 +20205,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 54,
+          "remaining": 50,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 52,
           "total": 200
         }
       ]
