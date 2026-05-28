@@ -21280,22 +21280,22 @@
   "37070": {
     "snapshot": {
       "price": 350,
-      "remain": 115,
+      "remain": 14,
       "total": 150,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺X UX-15絞鯊狂鱗★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 戰鬥陀螺CX-16 極限衝擊對戰組C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 CX-11帝王威能★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -21305,42 +21305,42 @@
         },
         {
           "name": "D賞 CX-01 蒼龍勇氣★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "F賞 戰鬥陀螺X(隨機一款)☆",
-          "remaining": 1,
+          "remaining": 0,
           "total": 4
         },
         {
           "name": "G賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 20,
+          "remaining": 4,
           "total": 30
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 18,
+          "remaining": 1,
           "total": 20
         },
         {
           "name": "I賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 69,
+          "remaining": 8,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 115,
+          "remaining": 14,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1779915484.9304023
+    "last_notified_at": 1779998893.5668097
   },
   "37069": {
     "snapshot": {
