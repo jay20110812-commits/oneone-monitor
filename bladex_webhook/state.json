@@ -21565,7 +21565,7 @@
   "37103": {
     "snapshot": {
       "price": 350,
-      "remain": 188,
+      "remain": 186,
       "total": 320,
       "prizes": [
         {
@@ -21615,12 +21615,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 179,
+          "remaining": 177,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 188,
+          "remaining": 186,
           "total": 320
         }
       ]
@@ -23030,7 +23030,7 @@
   "37209": {
     "snapshot": {
       "price": 350,
-      "remain": 231,
+      "remain": 221,
       "total": 320,
       "prizes": [
         {
@@ -23060,7 +23060,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -23080,12 +23080,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 219,
+          "remaining": 210,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 231,
+          "remaining": 221,
           "total": 320
         }
       ]
@@ -23520,7 +23520,7 @@
   "37237": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -23530,12 +23530,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
