@@ -22965,7 +22965,7 @@
   "37210": {
     "snapshot": {
       "price": 350,
-      "remain": 320,
+      "remain": 319,
       "total": 320,
       "prizes": [
         {
@@ -23030,7 +23030,7 @@
   "37209": {
     "snapshot": {
       "price": 350,
-      "remain": 221,
+      "remain": 220,
       "total": 320,
       "prizes": [
         {
@@ -23080,12 +23080,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 210,
+          "remaining": 209,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 221,
+          "remaining": 220,
           "total": 320
         }
       ]
@@ -23832,6 +23832,31 @@
           "name": "合計",
           "remaining": 200,
           "total": 200
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37246": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
