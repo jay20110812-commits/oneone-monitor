@@ -17830,7 +17830,7 @@
   "36712": {
     "snapshot": {
       "price": 250,
-      "remain": 110,
+      "remain": 102,
       "total": 200,
       "prizes": [
         {
@@ -17875,12 +17875,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 106,
+          "remaining": 98,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 110,
+          "remaining": 102,
           "total": 200
         }
       ]
@@ -25325,22 +25325,22 @@
   "37335": {
     "snapshot": {
       "price": 150,
-      "remain": 15,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X CX-07 天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 14,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 4,
           "total": 20
         }
       ]
