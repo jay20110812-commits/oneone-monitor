@@ -24825,12 +24825,12 @@
   "37309": {
     "snapshot": {
       "price": 350,
-      "remain": 250,
+      "remain": 225,
       "total": 320,
       "prizes": [
         {
           "name": "A賞全新澀谷爆刃紫色+綠色+藍色3顆-無外盒&無QRcode★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -24855,7 +24855,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -24875,12 +24875,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 237,
+          "remaining": 214,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 250,
+          "remaining": 225,
           "total": 320
         }
       ]
