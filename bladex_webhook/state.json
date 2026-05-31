@@ -24890,7 +24890,7 @@
   "37302": {
     "snapshot": {
       "price": 150,
-      "remain": 162,
+      "remain": 142,
       "total": 200,
       "prizes": [
         {
@@ -24905,7 +24905,7 @@
         },
         {
           "name": "B賞 CX-13龍王閃擊(代理版可掃QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -24935,12 +24935,12 @@
         },
         {
           "name": "H賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 153,
+          "remaining": 134,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 162,
+          "remaining": 142,
           "total": 200
         }
       ]
