@@ -17370,7 +17370,7 @@
   "36793": {
     "snapshot": {
       "price": 320,
-      "remain": 63,
+      "remain": 58,
       "total": 120,
       "prizes": [
         {
@@ -17405,12 +17405,12 @@
         },
         {
           "name": "G賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 60,
+          "remaining": 55,
           "total": 113
         },
         {
           "name": "合計",
-          "remaining": 63,
+          "remaining": 58,
           "total": 120
         }
       ]
