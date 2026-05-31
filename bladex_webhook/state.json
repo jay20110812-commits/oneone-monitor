@@ -24825,7 +24825,7 @@
   "37309": {
     "snapshot": {
       "price": 350,
-      "remain": 252,
+      "remain": 250,
       "total": 320,
       "prizes": [
         {
@@ -24875,12 +24875,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 239,
+          "remaining": 237,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 252,
+          "remaining": 250,
           "total": 320
         }
       ]
@@ -25755,22 +25755,22 @@
   "37350": {
     "snapshot": {
       "price": 350,
-      "remain": 30,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 戰鬥陀螺X CX-00蒼龍翱翔S6-60V★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 24,
           "total": 30
         }
       ]
