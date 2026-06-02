@@ -23865,7 +23865,7 @@
   "37259": {
     "snapshot": {
       "price": 350,
-      "remain": 106,
+      "remain": 58,
       "total": 320,
       "prizes": [
         {
@@ -23875,7 +23875,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -23885,7 +23885,7 @@
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -23915,12 +23915,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 98,
+          "remaining": 56,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 102,
+          "remaining": 58,
           "total": 320
         }
       ]
@@ -24825,7 +24825,7 @@
   "37309": {
     "snapshot": {
       "price": 350,
-      "remain": 219,
+      "remain": 213,
       "total": 320,
       "prizes": [
         {
@@ -24875,12 +24875,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 208,
+          "remaining": 202,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 219,
+          "remaining": 213,
           "total": 320
         }
       ]
@@ -25550,7 +25550,7 @@
   "37341": {
     "snapshot": {
       "price": 350,
-      "remain": 231,
+      "remain": 219,
       "total": 320,
       "prizes": [
         {
@@ -25600,12 +25600,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 219,
+          "remaining": 207,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 231,
+          "remaining": 219,
           "total": 320
         }
       ]
@@ -26305,22 +26305,22 @@
   "37393": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 21,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 21,
           "total": 30
         }
       ]
