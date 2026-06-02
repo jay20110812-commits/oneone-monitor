@@ -21030,7 +21030,7 @@
   "37045": {
     "snapshot": {
       "price": 299,
-      "remain": 269,
+      "remain": 267,
       "total": 300,
       "prizes": [
         {
@@ -21065,12 +21065,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 260,
+          "remaining": 258,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 269,
+          "remaining": 267,
           "total": 300
         }
       ]
