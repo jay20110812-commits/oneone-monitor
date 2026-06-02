@@ -20895,7 +20895,7 @@
   "37051": {
     "snapshot": {
       "price": 360,
-      "remain": 272,
+      "remain": 265,
       "total": 300,
       "prizes": [
         {
@@ -20940,12 +20940,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 265,
+          "remaining": 258,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 272,
+          "remaining": 265,
           "total": 300
         }
       ]
@@ -21030,7 +21030,7 @@
   "37045": {
     "snapshot": {
       "price": 299,
-      "remain": 272,
+      "remain": 269,
       "total": 300,
       "prizes": [
         {
@@ -21065,12 +21065,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 263,
+          "remaining": 260,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 272,
+          "remaining": 269,
           "total": 300
         }
       ]
@@ -24415,7 +24415,7 @@
   "37294": {
     "snapshot": {
       "price": 250,
-      "remain": 128,
+      "remain": 127,
       "total": 200,
       "prizes": [
         {
@@ -24460,12 +24460,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 122,
+          "remaining": 121,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 128,
+          "remaining": 127,
           "total": 200
         }
       ]
@@ -25375,7 +25375,7 @@
   "37337": {
     "snapshot": {
       "price": 290,
-      "remain": 162,
+      "remain": 154,
       "total": 200,
       "prizes": [
         {
@@ -25420,12 +25420,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 156,
+          "remaining": 148,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 162,
+          "remaining": 154,
           "total": 200
         }
       ]
@@ -26762,6 +26762,156 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37429": {
+    "snapshot": {
+      "price": 190,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00獅王戰牙+switch遊戲片(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37431": {
+    "snapshot": {
+      "price": 350,
+      "remain": 320,
+      "total": 320,
+      "prizes": [
+        {
+          "name": "A賞全新澀谷爆刃紫色+綠色+藍色3顆-無外盒&無QRcode★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 BX-49蒼龍突擊★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 3-70A紅色空力天馬★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞UX-03魔導神杖★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 UX-19子彈獅鷲★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 CX-00天馬爆擊焰紅版★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "H賞 BX-23鳳凰飛翼豪華組★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "I賞 CX-16 極限衝擊對戰組C★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "J賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 303,
+          "total": 303
+        },
+        {
+          "name": "合計",
+          "remaining": 320,
+          "total": 320
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37430": {
+    "snapshot": {
+      "price": 150,
+      "remain": 200,
+      "total": 200,
+      "prizes": [
+        {
+          "name": "SP賞 BX-34蒼穹龍騎士豪華組(代理版可掃QR)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "A賞 CX-12鳳凰閃焰(代理版可掃QR)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-13龍王閃擊(代理版可掃QR)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 CX-14騎士堡壘(代理版可掃QR)★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 CX-15邪神狂怒(代理版可掃QR)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 日版BX-45 武士魂斬★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 日版 BX-38 赫燃天鳳★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 日版 BX-44 三角強襲★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "H賞 不限IP隨機小賞(隨機一款)",
+          "remaining": 188,
+          "total": 188
+        },
+        {
+          "name": "合計",
+          "remaining": 200,
+          "total": 200
         }
       ]
     },
