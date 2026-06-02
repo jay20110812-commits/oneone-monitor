@@ -25025,7 +25025,7 @@
   "37306": {
     "snapshot": {
       "price": 350,
-      "remain": 35,
+      "remain": 33,
       "total": 40,
       "prizes": [
         {
@@ -25035,12 +25035,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 34,
+          "remaining": 32,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 35,
+          "remaining": 33,
           "total": 40
         }
       ]
@@ -25550,7 +25550,7 @@
   "37341": {
     "snapshot": {
       "price": 350,
-      "remain": 235,
+      "remain": 234,
       "total": 320,
       "prizes": [
         {
@@ -25600,12 +25600,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 222,
+          "remaining": 221,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 235,
+          "remaining": 234,
           "total": 320
         }
       ]
@@ -26230,22 +26230,22 @@
   "37392": {
     "snapshot": {
       "price": 350,
-      "remain": 25,
+      "remain": 22,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 戰鬥陀螺X CX-00蒼龍翱翔S6-60V★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 22,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 22,
           "total": 30
         }
       ]
@@ -26912,6 +26912,31 @@
           "name": "合計",
           "remaining": 200,
           "total": 200
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37433": {
+    "snapshot": {
+      "price": 350,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版 戰鬥陀螺X CX-00蒼龍翱翔S6-60V★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
