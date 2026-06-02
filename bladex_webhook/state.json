@@ -24415,7 +24415,7 @@
   "37294": {
     "snapshot": {
       "price": 250,
-      "remain": 130,
+      "remain": 128,
       "total": 200,
       "prizes": [
         {
@@ -24460,12 +24460,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 124,
+          "remaining": 122,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 130,
+          "remaining": 128,
           "total": 200
         }
       ]
@@ -25375,7 +25375,7 @@
   "37337": {
     "snapshot": {
       "price": 290,
-      "remain": 165,
+      "remain": 162,
       "total": 200,
       "prizes": [
         {
@@ -25390,7 +25390,7 @@
         },
         {
           "name": "C賞 UX-00涉谷爆刃1-60A(藍青全新整顆)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -25420,12 +25420,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 158,
+          "remaining": 156,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 165,
+          "remaining": 162,
           "total": 200
         }
       ]
