@@ -22965,7 +22965,7 @@
   "37210": {
     "snapshot": {
       "price": 350,
-      "remain": 290,
+      "remain": 289,
       "total": 320,
       "prizes": [
         {
@@ -23015,12 +23015,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 275,
+          "remaining": 274,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 290,
+          "remaining": 289,
           "total": 320
         }
       ]
