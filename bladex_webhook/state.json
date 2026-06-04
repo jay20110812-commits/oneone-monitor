@@ -26860,7 +26860,7 @@
   "37430": {
     "snapshot": {
       "price": 150,
-      "remain": 140,
+      "remain": 136,
       "total": 200,
       "prizes": [
         {
@@ -26880,7 +26880,7 @@
         },
         {
           "name": "C賞 CX-14騎士堡壘(代理版可掃QR)★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -26905,12 +26905,12 @@
         },
         {
           "name": "H賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 130,
+          "remaining": 127,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 140,
+          "remaining": 136,
           "total": 200
         }
       ]
