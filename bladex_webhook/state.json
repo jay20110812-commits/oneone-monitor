@@ -25690,7 +25690,7 @@
   "37340": {
     "snapshot": {
       "price": 350,
-      "remain": 319,
+      "remain": 285,
       "total": 320,
       "prizes": [
         {
@@ -25705,7 +25705,7 @@
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -25720,7 +25720,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -25740,12 +25740,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 302,
+          "remaining": 270,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 319,
+          "remaining": 285,
           "total": 320
         }
       ]
@@ -26795,7 +26795,7 @@
   "37431": {
     "snapshot": {
       "price": 350,
-      "remain": 247,
+      "remain": 240,
       "total": 320,
       "prizes": [
         {
@@ -26840,17 +26840,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 233,
+          "remaining": 227,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 247,
+          "remaining": 240,
           "total": 320
         }
       ]
@@ -26860,7 +26860,7 @@
   "37430": {
     "snapshot": {
       "price": 150,
-      "remain": 200,
+      "remain": 152,
       "total": 200,
       "prizes": [
         {
@@ -26890,12 +26890,12 @@
         },
         {
           "name": "E賞 日版BX-45 武士魂斬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "F賞 日版 BX-38 赫燃天鳳★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -26905,12 +26905,12 @@
         },
         {
           "name": "H賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 142,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 152,
           "total": 200
         }
       ]
