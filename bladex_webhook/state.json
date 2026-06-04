@@ -16125,7 +16125,7 @@
   "36714": {
     "snapshot": {
       "price": 299,
-      "remain": 70,
+      "remain": 44,
       "total": 149,
       "prizes": [
         {
@@ -16140,7 +16140,7 @@
         },
         {
           "name": "C賞 日版 BX-38 赫燃天鳳 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16165,12 +16165,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 67,
+          "remaining": 42,
           "total": 142
         },
         {
           "name": "合計",
-          "remaining": 70,
+          "remaining": 44,
           "total": 149
         }
       ]
@@ -26430,12 +26430,12 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 228,
+      "remain": 208,
       "total": 230,
       "prizes": [
         {
           "name": "SP賞 UX-00涉谷爆刃1-60A(紫粉全新整顆)無碼無盒★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -26485,22 +26485,22 @@
         },
         {
           "name": "J賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         },
         {
           "name": "K賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 170,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 228,
+          "remaining": 208,
           "total": 230
         }
       ]
     },
-    "last_notified_at": 1780563485.1674554
+    "last_notified_at": 1780617202.1430938
   },
   "37424": {
     "snapshot": {
