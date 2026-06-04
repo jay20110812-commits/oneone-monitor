@@ -23780,7 +23780,7 @@
   "37214": {
     "snapshot": {
       "price": 250,
-      "remain": 49,
+      "remain": 44,
       "total": 200,
       "prizes": [
         {
@@ -23825,12 +23825,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 48,
+          "remaining": 43,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 49,
+          "remaining": 44,
           "total": 200
         }
       ]
