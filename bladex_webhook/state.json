@@ -25690,7 +25690,7 @@
   "37340": {
     "snapshot": {
       "price": 350,
-      "remain": 281,
+      "remain": 253,
       "total": 320,
       "prizes": [
         {
@@ -25730,22 +25730,22 @@
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 266,
+          "remaining": 240,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 281,
+          "remaining": 253,
           "total": 320
         }
       ]
