@@ -21030,7 +21030,7 @@
   "37045": {
     "snapshot": {
       "price": 299,
-      "remain": 212,
+      "remain": 209,
       "total": 300,
       "prizes": [
         {
@@ -21065,12 +21065,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 204,
+          "remaining": 201,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 212,
+          "remaining": 209,
           "total": 300
         }
       ]
@@ -26130,22 +26130,22 @@
   "37381": {
     "snapshot": {
       "price": 200,
-      "remain": 28,
+      "remain": 16,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 BX-23 鳳凰飛翼 豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 16,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 16,
           "total": 30
         }
       ]
