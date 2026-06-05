@@ -26575,7 +26575,7 @@
   "37423": {
     "snapshot": {
       "price": 350,
-      "remain": 142,
+      "remain": 118,
       "total": 150,
       "prizes": [
         {
@@ -26585,7 +26585,7 @@
         },
         {
           "name": "A賞 UX-15 鮫鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -26600,7 +26600,7 @@
         },
         {
           "name": "D賞 CX-07 天馬爆擊★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -26615,32 +26615,32 @@
         },
         {
           "name": "G賞 戰鬥陀螺X(隨機一款)☆",
-          "remaining": 7,
+          "remaining": 6,
           "total": 8
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 20
         },
         {
           "name": "I賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 20,
+          "remaining": 16,
           "total": 20
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 86,
+          "remaining": 70,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 142,
+          "remaining": 118,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1780675714.4400227
+    "last_notified_at": 1780684192.895499
   },
   "37422": {
     "snapshot": {
@@ -26795,7 +26795,7 @@
   "37431": {
     "snapshot": {
       "price": 350,
-      "remain": 73,
+      "remain": 63,
       "total": 320,
       "prizes": [
         {
@@ -26845,12 +26845,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 71,
+          "remaining": 61,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 63,
           "total": 320
         }
       ]
@@ -27905,7 +27905,7 @@
   "37524": {
     "snapshot": {
       "price": 250,
-      "remain": 193,
+      "remain": 190,
       "total": 200,
       "prizes": [
         {
@@ -27950,12 +27950,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 184,
+          "remaining": 181,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 193,
+          "remaining": 190,
           "total": 200
         }
       ]
