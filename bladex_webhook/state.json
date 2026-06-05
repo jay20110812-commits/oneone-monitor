@@ -16125,12 +16125,12 @@
   "36714": {
     "snapshot": {
       "price": 299,
-      "remain": 44,
+      "remain": 17,
       "total": 149,
       "prizes": [
         {
           "name": "A賞 韓版UX-00 FC巴塞隆納套裝 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16150,7 +16150,7 @@
         },
         {
           "name": "E賞 日版CX-05隨機強化組 Vol. 06 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -16165,12 +16165,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 42,
+          "remaining": 17,
           "total": 142
         },
         {
           "name": "合計",
-          "remaining": 44,
+          "remaining": 17,
           "total": 149
         }
       ]
@@ -17830,7 +17830,7 @@
   "36712": {
     "snapshot": {
       "price": 250,
-      "remain": 101,
+      "remain": 100,
       "total": 200,
       "prizes": [
         {
@@ -17875,12 +17875,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 97,
+          "remaining": 96,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 101,
+          "remaining": 100,
           "total": 200
         }
       ]
