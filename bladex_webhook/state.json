@@ -20895,7 +20895,7 @@
   "37051": {
     "snapshot": {
       "price": 360,
-      "remain": 237,
+      "remain": 234,
       "total": 300,
       "prizes": [
         {
@@ -20940,12 +20940,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 230,
+          "remaining": 228,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 236,
+          "remaining": 234,
           "total": 300
         }
       ]
@@ -23865,7 +23865,7 @@
   "37259": {
     "snapshot": {
       "price": 350,
-      "remain": 57,
+      "remain": 54,
       "total": 320,
       "prizes": [
         {
@@ -23915,12 +23915,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 56,
+          "remaining": 53,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 57,
+          "remaining": 54,
           "total": 320
         }
       ]
@@ -24825,7 +24825,7 @@
   "37309": {
     "snapshot": {
       "price": 350,
-      "remain": 213,
+      "remain": 209,
       "total": 320,
       "prizes": [
         {
@@ -24850,7 +24850,7 @@
         },
         {
           "name": "E賞UX-03魔導神杖★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -24875,12 +24875,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 202,
+          "remaining": 199,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 213,
+          "remaining": 209,
           "total": 320
         }
       ]
@@ -25200,22 +25200,22 @@
   "37329": {
     "snapshot": {
       "price": 320,
-      "remain": 20,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X CX-17隨機強化組★",
-          "remaining": 3,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 2,
           "total": 17
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 20
         }
       ]
@@ -25550,7 +25550,7 @@
   "37341": {
     "snapshot": {
       "price": 350,
-      "remain": 100,
+      "remain": 92,
       "total": 320,
       "prizes": [
         {
@@ -25560,7 +25560,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -25600,12 +25600,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 95,
+          "remaining": 88,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 92,
           "total": 320
         }
       ]
@@ -27565,22 +27565,22 @@
   "37504": {
     "snapshot": {
       "price": 350,
-      "remain": 40,
+      "remain": 11,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 11,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 11,
           "total": 40
         }
       ]
@@ -27840,7 +27840,7 @@
   "37529": {
     "snapshot": {
       "price": 350,
-      "remain": 309,
+      "remain": 268,
       "total": 320,
       "prizes": [
         {
@@ -27850,7 +27850,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -27885,17 +27885,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 293,
+          "remaining": 254,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 309,
+          "remaining": 268,
           "total": 320
         }
       ]
