@@ -26795,7 +26795,7 @@
   "37431": {
     "snapshot": {
       "price": 350,
-      "remain": 60,
+      "remain": 56,
       "total": 320,
       "prizes": [
         {
@@ -26845,12 +26845,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 58,
+          "remaining": 54,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 60,
+          "remaining": 56,
           "total": 320
         }
       ]
