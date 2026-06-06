@@ -24415,7 +24415,7 @@
   "37294": {
     "snapshot": {
       "price": 250,
-      "remain": 23,
+      "remain": 22,
       "total": 200,
       "prizes": [
         {
@@ -24460,12 +24460,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 22,
+          "remaining": 21,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 23,
+          "remaining": 22,
           "total": 200
         }
       ]
@@ -27905,7 +27905,7 @@
   "37524": {
     "snapshot": {
       "price": 250,
-      "remain": 87,
+      "remain": 85,
       "total": 200,
       "prizes": [
         {
@@ -27940,7 +27940,7 @@
         },
         {
           "name": "G賞 CX-16 極限衝擊對戰組C ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -27950,12 +27950,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 83,
+          "remaining": 82,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 87,
+          "remaining": 85,
           "total": 200
         }
       ]
