@@ -27840,7 +27840,7 @@
   "37529": {
     "snapshot": {
       "price": 350,
-      "remain": 196,
+      "remain": 176,
       "total": 320,
       "prizes": [
         {
@@ -27875,7 +27875,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -27890,12 +27890,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 187,
+          "remaining": 165,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 173,
           "total": 320
         }
       ]
@@ -28000,7 +28000,7 @@
   "37525": {
     "snapshot": {
       "price": 490,
-      "remain": 89,
+      "remain": 88,
       "total": 99,
       "prizes": [
         {
@@ -28030,12 +28030,12 @@
         },
         {
           "name": "F賞 不限IP隨機小賞一個",
-          "remaining": 85,
+          "remaining": 84,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 89,
+          "remaining": 88,
           "total": 99
         }
       ]
