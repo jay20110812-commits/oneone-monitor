@@ -24109,7 +24109,7 @@
   },
   "37251": {
     "snapshot": {
-      "price": 220,
+      "price": 210,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -27540,7 +27540,7 @@
   "37502": {
     "snapshot": {
       "price": 190,
-      "remain": 22,
+      "remain": 21,
       "total": 25,
       "prizes": [
         {
@@ -27550,12 +27550,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 21,
+          "remaining": 20,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 22,
+          "remaining": 21,
           "total": 25
         }
       ]
@@ -27905,7 +27905,7 @@
   "37524": {
     "snapshot": {
       "price": 250,
-      "remain": 85,
+      "remain": 63,
       "total": 200,
       "prizes": [
         {
@@ -27945,17 +27945,17 @@
         },
         {
           "name": "H賞 BX-49 蒼龍突擊 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 82,
+          "remaining": 61,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 85,
+          "remaining": 63,
           "total": 200
         }
       ]
@@ -28145,7 +28145,7 @@
   "37568": {
     "snapshot": {
       "price": 190,
-      "remain": 29,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
@@ -28155,12 +28155,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 20,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 21,
           "total": 30
         }
       ]
@@ -28220,7 +28220,7 @@
   "37582": {
     "snapshot": {
       "price": 280,
-      "remain": 200,
+      "remain": 197,
       "total": 200,
       "prizes": [
         {
@@ -28255,12 +28255,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 188,
+          "remaining": 185,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 197,
           "total": 200
         }
       ]
