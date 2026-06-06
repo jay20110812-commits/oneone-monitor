@@ -28000,7 +28000,7 @@
   "37525": {
     "snapshot": {
       "price": 490,
-      "remain": 92,
+      "remain": 90,
       "total": 99,
       "prizes": [
         {
@@ -28030,12 +28030,12 @@
         },
         {
           "name": "F賞 不限IP隨機小賞一個",
-          "remaining": 86,
+          "remaining": 85,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 91,
+          "remaining": 90,
           "total": 99
         }
       ]
