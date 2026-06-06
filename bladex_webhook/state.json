@@ -26430,7 +26430,7 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 208,
+      "remain": 206,
       "total": 230,
       "prizes": [
         {
@@ -26490,17 +26490,17 @@
         },
         {
           "name": "K賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 170,
+          "remaining": 168,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 208,
+          "remaining": 206,
           "total": 230
         }
       ]
     },
-    "last_notified_at": 1780617202.1430938
+    "last_notified_at": 1780750098.7535458
   },
   "37424": {
     "snapshot": {
