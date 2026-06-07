@@ -23470,22 +23470,22 @@
   "37240": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 14,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 14,
           "total": 20
         }
       ]
@@ -27290,22 +27290,22 @@
   "37469": {
     "snapshot": {
       "price": 180,
-      "remain": 20,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-13 龍王閃擊(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 7,
           "total": 20
         }
       ]
