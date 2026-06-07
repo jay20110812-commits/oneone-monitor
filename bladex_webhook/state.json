@@ -28220,7 +28220,7 @@
   "37582": {
     "snapshot": {
       "price": 280,
-      "remain": 195,
+      "remain": 194,
       "total": 200,
       "prizes": [
         {
@@ -28245,7 +28245,7 @@
         },
         {
           "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -28260,7 +28260,7 @@
         },
         {
           "name": "合計",
-          "remaining": 195,
+          "remaining": 194,
           "total": 200
         }
       ]
