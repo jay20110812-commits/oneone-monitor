@@ -27390,22 +27390,22 @@
   "37484": {
     "snapshot": {
       "price": 190,
-      "remain": 16,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X UX-17 隕星龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 13,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 14,
+          "remaining": 7,
           "total": 20
         }
       ]
