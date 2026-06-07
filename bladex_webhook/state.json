@@ -26380,7 +26380,7 @@
   "37398": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -26390,17 +26390,17 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 36,
+          "remaining": 35,
           "total": 36
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1780865119.7241783
   },
   "37418": {
     "snapshot": {
