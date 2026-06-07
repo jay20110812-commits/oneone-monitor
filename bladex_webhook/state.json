@@ -27905,7 +27905,7 @@
   "37524": {
     "snapshot": {
       "price": 250,
-      "remain": 47,
+      "remain": 45,
       "total": 200,
       "prizes": [
         {
@@ -27950,12 +27950,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 46,
+          "remaining": 44,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 47,
+          "remaining": 45,
           "total": 200
         }
       ]
