@@ -20895,7 +20895,7 @@
   "37051": {
     "snapshot": {
       "price": 360,
-      "remain": 215,
+      "remain": 214,
       "total": 300,
       "prizes": [
         {
@@ -20940,12 +20940,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 209,
+          "remaining": 208,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 215,
+          "remaining": 214,
           "total": 300
         }
       ]
@@ -28195,22 +28195,22 @@
   "37566": {
     "snapshot": {
       "price": 320,
-      "remain": 19,
+      "remain": 1,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X CX-17隨機強化組★",
-          "remaining": 3,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 16,
+          "remaining": 1,
           "total": 17
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 1,
           "total": 20
         }
       ]
