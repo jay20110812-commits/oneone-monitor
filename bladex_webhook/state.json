@@ -20895,7 +20895,7 @@
   "37051": {
     "snapshot": {
       "price": 360,
-      "remain": 226,
+      "remain": 217,
       "total": 300,
       "prizes": [
         {
@@ -20940,12 +20940,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 220,
+          "remaining": 211,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 226,
+          "remaining": 217,
           "total": 300
         }
       ]
@@ -25375,7 +25375,7 @@
   "37337": {
     "snapshot": {
       "price": 290,
-      "remain": 114,
+      "remain": 113,
       "total": 200,
       "prizes": [
         {
@@ -25420,12 +25420,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 110,
+          "remaining": 109,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 114,
+          "remaining": 113,
           "total": 200
         }
       ]
@@ -26505,7 +26505,7 @@
   "37424": {
     "snapshot": {
       "price": 250,
-      "remain": 160,
+      "remain": 159,
       "total": 160,
       "prizes": [
         {
@@ -26560,17 +26560,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 102,
+          "remaining": 101,
           "total": 102
         },
         {
           "name": "合計",
-          "remaining": 160,
+          "remaining": 159,
           "total": 160
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1780811262.856283
   },
   "37423": {
     "snapshot": {
@@ -27440,17 +27440,17 @@
   "37488": {
     "snapshot": {
       "price": 280,
-      "remain": 82,
+      "remain": 30,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "B賞 BX-23 鳳凰飛翼 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -27470,17 +27470,17 @@
         },
         {
           "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 77,
+          "remaining": 28,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 82,
+          "remaining": 30,
           "total": 200
         }
       ]
@@ -28000,7 +28000,7 @@
   "37525": {
     "snapshot": {
       "price": 490,
-      "remain": 88,
+      "remain": 81,
       "total": 99,
       "prizes": [
         {
@@ -28030,12 +28030,12 @@
         },
         {
           "name": "F賞 不限IP隨機小賞一個",
-          "remaining": 84,
+          "remaining": 77,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 88,
+          "remaining": 81,
           "total": 99
         }
       ]
@@ -28462,6 +28462,56 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37598": {
+    "snapshot": {
+      "price": 350,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版 戰鬥陀螺X CX-00蒼龍翱翔S6-60V★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37599": {
+    "snapshot": {
+      "price": 260,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺BX-46 對戰入門套裝★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
