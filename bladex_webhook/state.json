@@ -27220,7 +27220,7 @@
   "37452": {
     "snapshot": {
       "price": 380,
-      "remain": 250,
+      "remain": 245,
       "total": 250,
       "prizes": [
         {
@@ -27250,12 +27250,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 239,
+          "remaining": 234,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 250,
+          "remaining": 245,
           "total": 250
         }
       ]
