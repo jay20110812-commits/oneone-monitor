@@ -20895,7 +20895,7 @@
   "37051": {
     "snapshot": {
       "price": 360,
-      "remain": 209,
+      "remain": 204,
       "total": 300,
       "prizes": [
         {
@@ -20920,7 +20920,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -20940,12 +20940,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 203,
+          "remaining": 199,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 209,
+          "remaining": 204,
           "total": 300
         }
       ]
@@ -29095,22 +29095,22 @@
   "37641": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 BX-23 鳳凰飛翼 豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
