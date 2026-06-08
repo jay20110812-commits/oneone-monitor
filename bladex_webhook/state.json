@@ -28885,7 +28885,7 @@
   "37634": {
     "snapshot": {
       "price": 350,
-      "remain": 97,
+      "remain": 91,
       "total": 100,
       "prizes": [
         {
@@ -28915,7 +28915,7 @@
         },
         {
           "name": "F賞 日版 CX-01 蒼龍勇氣★★★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -28930,17 +28930,17 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 82,
+          "remaining": 77,
           "total": 85
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 91,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1780917445.5479448
+    "last_notified_at": 1780960786.7191598
   },
   "37635": {
     "snapshot": {
