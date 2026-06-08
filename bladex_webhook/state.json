@@ -28881,5 +28881,65 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "37634": {
+    "snapshot": {
+      "price": 350,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 日版紫羅蘭色發射器★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "B賞 代理版 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 日版戰鬥陀螺X BX-34蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 日版 CX-14騎士堡壘★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 日版 CX-03 英仙幽冥★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 日版 CX-01 蒼龍勇氣★★★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "G賞 日版 CX-12鳳凰閃焰★★★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "H賞 日版 BX-38 赫燃天鳳★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "I賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 85,
+          "total": 85
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
