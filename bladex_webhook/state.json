@@ -28885,7 +28885,7 @@
   "37634": {
     "snapshot": {
       "price": 350,
-      "remain": 91,
+      "remain": 88,
       "total": 100,
       "prizes": [
         {
@@ -28920,7 +28920,7 @@
         },
         {
           "name": "G賞 日版 CX-12鳳凰閃焰★★★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -28930,17 +28930,17 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 77,
+          "remaining": 75,
           "total": 85
         },
         {
           "name": "合計",
-          "remaining": 91,
+          "remaining": 88,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1780960786.7191598
+    "last_notified_at": 1780961494.1691256
   },
   "37635": {
     "snapshot": {
