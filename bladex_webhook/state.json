@@ -28220,12 +28220,12 @@
   "37582": {
     "snapshot": {
       "price": 280,
-      "remain": 156,
+      "remain": 131,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -28235,7 +28235,7 @@
         },
         {
           "name": "C賞 UX-01 蒼龍爆刃 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -28255,12 +28255,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 147,
+          "remaining": 124,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 156,
+          "remaining": 131,
           "total": 200
         }
       ]
