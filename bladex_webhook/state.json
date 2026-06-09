@@ -26505,7 +26505,7 @@
   "37424": {
     "snapshot": {
       "price": 250,
-      "remain": 112,
+      "remain": 108,
       "total": 160,
       "prizes": [
         {
@@ -26525,7 +26525,7 @@
         },
         {
           "name": "C賞 BX-00 蒼穹龍騎士 2-60C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -26560,17 +26560,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 69,
+          "remaining": 66,
           "total": 102
         },
         {
           "name": "合計",
-          "remaining": 112,
+          "remaining": 108,
           "total": 160
         }
       ]
     },
-    "last_notified_at": 1781021533.8353379
+    "last_notified_at": 1781022242.2015429
   },
   "37423": {
     "snapshot": {
