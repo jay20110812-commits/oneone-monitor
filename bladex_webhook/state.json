@@ -21345,7 +21345,7 @@
   "37069": {
     "snapshot": {
       "price": 290,
-      "remain": 117,
+      "remain": 116,
       "total": 300,
       "prizes": [
         {
@@ -21390,12 +21390,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 114,
+          "remaining": 113,
           "total": 292
         },
         {
           "name": "合計",
-          "remaining": 117,
+          "remaining": 116,
           "total": 300
         }
       ]
@@ -27220,7 +27220,7 @@
   "37452": {
     "snapshot": {
       "price": 380,
-      "remain": 240,
+      "remain": 233,
       "total": 250,
       "prizes": [
         {
@@ -27250,12 +27250,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 230,
+          "remaining": 223,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 240,
+          "remaining": 233,
           "total": 250
         }
       ]
@@ -28220,7 +28220,7 @@
   "37582": {
     "snapshot": {
       "price": 280,
-      "remain": 103,
+      "remain": 90,
       "total": 200,
       "prizes": [
         {
@@ -28250,17 +28250,17 @@
         },
         {
           "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 97,
+          "remaining": 85,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 103,
+          "remaining": 90,
           "total": 200
         }
       ]
@@ -28394,7 +28394,7 @@
   },
   "37587": {
     "snapshot": {
-      "price": 170,
+      "price": 160,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -28545,7 +28545,7 @@
   "37603": {
     "snapshot": {
       "price": 350,
-      "remain": 189,
+      "remain": 173,
       "total": 320,
       "prizes": [
         {
@@ -28580,7 +28580,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -28595,12 +28595,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 179,
+          "remaining": 164,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 189,
+          "remaining": 173,
           "total": 320
         }
       ]
@@ -28760,7 +28760,7 @@
   "37621": {
     "snapshot": {
       "price": 350,
-      "remain": 40,
+      "remain": 38,
       "total": 40,
       "prizes": [
         {
@@ -28770,12 +28770,12 @@
         },
         {
           "name": "B賞 不限IP隨機小賞一個",
-          "remaining": 39,
+          "remaining": 37,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 38,
           "total": 40
         }
       ]
@@ -28945,7 +28945,7 @@
   "37635": {
     "snapshot": {
       "price": 350,
-      "remain": 29,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -28955,12 +28955,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 28,
           "total": 30
         }
       ]
@@ -29650,6 +29650,131 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37690": {
+    "snapshot": {
+      "price": 280,
+      "remain": 189,
+      "total": 200,
+      "prizes": [
+        {
+          "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "B賞 BX-23 鳳凰飛翼 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 UX-01 蒼龍爆刃 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 BX-49 蒼龍突擊 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
+          "remaining": 1,
+          "total": 2
+        },
+        {
+          "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 178,
+          "total": 188
+        },
+        {
+          "name": "合計",
+          "remaining": 189,
+          "total": 200
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37696": {
+    "snapshot": {
+      "price": 250,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-11帝王威能(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37691": {
+    "snapshot": {
+      "price": 199,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37684": {
+    "snapshot": {
+      "price": 220,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【日版】戰鬥陀螺X CX-13 龍王閃擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
           "remaining": 19,
           "total": 19
         },
