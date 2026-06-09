@@ -25375,7 +25375,7 @@
   "37337": {
     "snapshot": {
       "price": 290,
-      "remain": 97,
+      "remain": 88,
       "total": 200,
       "prizes": [
         {
@@ -25410,7 +25410,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -25420,12 +25420,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 93,
+          "remaining": 85,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 88,
           "total": 200
         }
       ]
@@ -25550,7 +25550,7 @@
   "37341": {
     "snapshot": {
       "price": 350,
-      "remain": 83,
+      "remain": 60,
       "total": 320,
       "prizes": [
         {
@@ -25570,7 +25570,7 @@
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -25595,17 +25595,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 79,
+          "remaining": 58,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 83,
+          "remaining": 60,
           "total": 320
         }
       ]
