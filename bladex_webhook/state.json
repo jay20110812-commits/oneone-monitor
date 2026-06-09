@@ -25550,7 +25550,7 @@
   "37341": {
     "snapshot": {
       "price": 350,
-      "remain": 91,
+      "remain": 83,
       "total": 320,
       "prizes": [
         {
@@ -25600,12 +25600,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 87,
+          "remaining": 79,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 91,
+          "remaining": 83,
           "total": 320
         }
       ]
@@ -27965,7 +27965,7 @@
   "37527": {
     "snapshot": {
       "price": 360,
-      "remain": 39,
+      "remain": 34,
       "total": 40,
       "prizes": [
         {
@@ -27985,12 +27985,12 @@
         },
         {
           "name": "D賞 不限IP隨機小賞一個",
-          "remaining": 36,
+          "remaining": 31,
           "total": 37
         },
         {
           "name": "合計",
-          "remaining": 39,
+          "remaining": 34,
           "total": 40
         }
       ]
@@ -28545,12 +28545,12 @@
   "37603": {
     "snapshot": {
       "price": 350,
-      "remain": 173,
+      "remain": 87,
       "total": 320,
       "prizes": [
         {
           "name": "A賞全新澀谷爆刃紫色+綠色+藍色3顆-無外盒&無QRcode★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -28560,12 +28560,12 @@
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -28580,7 +28580,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -28590,17 +28590,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 164,
+          "remaining": 83,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 173,
+          "remaining": 87,
           "total": 320
         }
       ]
@@ -29770,6 +29770,31 @@
       "prizes": [
         {
           "name": "A賞【日版】戰鬥陀螺X CX-13 龍王閃擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37701": {
+    "snapshot": {
+      "price": 210,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X BX-00 猛獁獠牙 2-80E(亞洲版)★",
           "remaining": 1,
           "total": 1
         },
