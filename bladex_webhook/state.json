@@ -26430,7 +26430,7 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 182,
+      "remain": 179,
       "total": 230,
       "prizes": [
         {
@@ -26490,17 +26490,17 @@
         },
         {
           "name": "K賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 151,
+          "remaining": 148,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 182,
+          "remaining": 179,
           "total": 230
         }
       ]
     },
-    "last_notified_at": 1781095492.734618
+    "last_notified_at": 1781120647.4563546
   },
   "37424": {
     "snapshot": {
@@ -29445,7 +29445,7 @@
   "37677": {
     "snapshot": {
       "price": 250,
-      "remain": 200,
+      "remain": 185,
       "total": 200,
       "prizes": [
         {
@@ -29485,17 +29485,17 @@
         },
         {
           "name": "H賞 BX-49 蒼龍突擊 ★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 177,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 185,
           "total": 200
         }
       ]
@@ -30460,7 +30460,7 @@
   "37764": {
     "snapshot": {
       "price": 350,
-      "remain": 277,
+      "remain": 260,
       "total": 314,
       "prizes": [
         {
@@ -30495,7 +30495,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -30505,12 +30505,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 264,
+          "remaining": 248,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 277,
+          "remaining": 260,
           "total": 314
         }
       ]
