@@ -30545,7 +30545,7 @@
   "37770": {
     "snapshot": {
       "price": 350,
-      "remain": 314,
+      "remain": 278,
       "total": 320,
       "prizes": [
         {
@@ -30565,7 +30565,7 @@
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -30590,17 +30590,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 297,
+          "remaining": 263,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 314,
+          "remaining": 278,
           "total": 320
         }
       ]
