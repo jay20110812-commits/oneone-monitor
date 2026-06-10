@@ -29715,22 +29715,22 @@
   "37696": {
     "snapshot": {
       "price": 250,
-      "remain": 26,
+      "remain": 4,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-11帝王威能(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 4,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 4,
           "total": 30
         }
       ]
