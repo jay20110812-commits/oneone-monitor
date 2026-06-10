@@ -29530,7 +29530,7 @@
   "37679": {
     "snapshot": {
       "price": 280,
-      "remain": 200,
+      "remain": 194,
       "total": 200,
       "prizes": [
         {
@@ -29565,12 +29565,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 188,
+          "remaining": 182,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 194,
           "total": 200
         }
       ]
@@ -29700,12 +29700,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 169,
+          "remaining": 168,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 180,
+          "remaining": 179,
           "total": 200
         }
       ]
@@ -30512,6 +30512,31 @@
           "name": "合計",
           "remaining": 314,
           "total": 314
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37765": {
+    "snapshot": {
+      "price": 220,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 【日版】戰鬥陀螺 UX-01 蒼龍爆刃★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
