@@ -30460,7 +30460,7 @@
   "37764": {
     "snapshot": {
       "price": 350,
-      "remain": 222,
+      "remain": 221,
       "total": 314,
       "prizes": [
         {
@@ -30480,7 +30480,7 @@
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -30510,7 +30510,7 @@
         },
         {
           "name": "合計",
-          "remaining": 222,
+          "remaining": 221,
           "total": 314
         }
       ]
