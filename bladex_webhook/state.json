@@ -31126,5 +31126,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "37811": {
+    "snapshot": {
+      "price": 220,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 【日版】戰鬥陀螺 UX-01 蒼龍爆刃★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
