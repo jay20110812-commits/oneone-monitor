@@ -30185,7 +30185,7 @@
   "37743": {
     "snapshot": {
       "price": 250,
-      "remain": 144,
+      "remain": 120,
       "total": 200,
       "prizes": [
         {
@@ -30220,7 +30220,7 @@
         },
         {
           "name": "G賞 CX-16 極限衝擊對戰組C ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30230,12 +30230,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 138,
+          "remaining": 115,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 144,
+          "remaining": 120,
           "total": 200
         }
       ]
