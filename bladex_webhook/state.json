@@ -30275,7 +30275,7 @@
   "37528": {
     "snapshot": {
       "price": 190,
-      "remain": 259,
+      "remain": 246,
       "total": 260,
       "prizes": [
         {
@@ -30320,12 +30320,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 251,
+          "remaining": 238,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 259,
+          "remaining": 246,
           "total": 260
         }
       ]
