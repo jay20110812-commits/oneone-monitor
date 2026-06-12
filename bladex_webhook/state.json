@@ -21695,7 +21695,7 @@
   "37099": {
     "snapshot": {
       "price": 350,
-      "remain": 98,
+      "remain": 97,
       "total": 320,
       "prizes": [
         {
@@ -29395,7 +29395,7 @@
   "37666": {
     "snapshot": {
       "price": 190,
-      "remain": 29,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -29405,12 +29405,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 28,
           "total": 30
         }
       ]
