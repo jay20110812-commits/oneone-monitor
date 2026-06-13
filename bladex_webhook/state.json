@@ -30790,7 +30790,7 @@
   "37771": {
     "snapshot": {
       "price": 299,
-      "remain": 271,
+      "remain": 267,
       "total": 300,
       "prizes": [
         {
@@ -30825,12 +30825,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 261,
+          "remaining": 257,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 271,
+          "remaining": 267,
           "total": 300
         }
       ]
