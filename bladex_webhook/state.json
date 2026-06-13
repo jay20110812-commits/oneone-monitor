@@ -30245,12 +30245,12 @@
   "37530": {
     "snapshot": {
       "price": 599,
-      "remain": 40,
+      "remain": 26,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 BX-00鳳凰飛翼 黑鳳凰★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30260,12 +30260,12 @@
         },
         {
           "name": "C賞 不限IP隨機小賞一個",
-          "remaining": 38,
+          "remaining": 25,
           "total": 38
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 26,
           "total": 40
         }
       ]
@@ -32010,22 +32010,22 @@
   "37902": {
     "snapshot": {
       "price": 210,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 亞洲版 BX-23 鳳凰飛翼 豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -32195,6 +32195,31 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37915": {
+    "snapshot": {
+      "price": 210,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 亞洲版 BX-23 鳳凰飛翼 豪華組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
           "remaining": 19,
           "total": 19
         },
