@@ -26430,7 +26430,7 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 177,
+      "remain": 175,
       "total": 230,
       "prizes": [
         {
@@ -26450,7 +26450,7 @@
         },
         {
           "name": "C賞 UX-15 鮫鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -26485,7 +26485,7 @@
         },
         {
           "name": "J賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 14,
+          "remaining": 13,
           "total": 20
         },
         {
@@ -26495,12 +26495,12 @@
         },
         {
           "name": "合計",
-          "remaining": 177,
+          "remaining": 175,
           "total": 230
         }
       ]
     },
-    "last_notified_at": 1781291844.8478591
+    "last_notified_at": 1781367868.912958
   },
   "37424": {
     "snapshot": {
@@ -30610,7 +30610,7 @@
   "37769": {
     "snapshot": {
       "price": 350,
-      "remain": 288,
+      "remain": 281,
       "total": 320,
       "prizes": [
         {
@@ -30655,17 +30655,17 @@
         },
         {
           "name": "I賞 CX-16 極限衝擊對戰組C★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 273,
+          "remaining": 267,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 288,
+          "remaining": 281,
           "total": 320
         }
       ]
@@ -31275,7 +31275,7 @@
   "37839": {
     "snapshot": {
       "price": 280,
-      "remain": 132,
+      "remain": 131,
       "total": 200,
       "prizes": [
         {
@@ -31310,12 +31310,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 124,
+          "remaining": 123,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 132,
+          "remaining": 131,
           "total": 200
         }
       ]
@@ -31325,7 +31325,7 @@
   "37852": {
     "snapshot": {
       "price": 280,
-      "remain": 153,
+      "remain": 152,
       "total": 160,
       "prizes": [
         {
@@ -31340,7 +31340,7 @@
         },
         {
           "name": "C賞 CX-13 龍王閃擊 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -31365,7 +31365,7 @@
         },
         {
           "name": "合計",
-          "remaining": 153,
+          "remaining": 152,
           "total": 160
         }
       ]
