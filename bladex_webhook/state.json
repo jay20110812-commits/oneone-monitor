@@ -30890,7 +30890,7 @@
   "37774": {
     "snapshot": {
       "price": 290,
-      "remain": 21,
+      "remain": 14,
       "total": 30,
       "prizes": [
         {
@@ -30900,12 +30900,12 @@
         },
         {
           "name": "B賞不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 13,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 14,
           "total": 30
         }
       ]
