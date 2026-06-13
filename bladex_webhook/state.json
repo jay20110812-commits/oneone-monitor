@@ -30015,22 +30015,22 @@
   "37728": {
     "snapshot": {
       "price": 120,
-      "remain": 19,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-15 邪神狂怒(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -30545,7 +30545,7 @@
   "37770": {
     "snapshot": {
       "price": 350,
-      "remain": 62,
+      "remain": 60,
       "total": 320,
       "prizes": [
         {
@@ -30595,12 +30595,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 60,
+          "remaining": 58,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 62,
+          "remaining": 60,
           "total": 320
         }
       ]
@@ -30790,12 +30790,12 @@
   "37771": {
     "snapshot": {
       "price": 299,
-      "remain": 267,
+      "remain": 232,
       "total": 300,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30820,17 +30820,17 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 257,
+          "remaining": 224,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 267,
+          "remaining": 232,
           "total": 300
         }
       ]
@@ -31275,7 +31275,7 @@
   "37839": {
     "snapshot": {
       "price": 280,
-      "remain": 156,
+      "remain": 154,
       "total": 200,
       "prizes": [
         {
@@ -31310,12 +31310,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 146,
+          "remaining": 144,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 156,
+          "remaining": 154,
           "total": 200
         }
       ]
