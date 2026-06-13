@@ -31275,7 +31275,7 @@
   "37839": {
     "snapshot": {
       "price": 280,
-      "remain": 154,
+      "remain": 137,
       "total": 200,
       "prizes": [
         {
@@ -31305,17 +31305,17 @@
         },
         {
           "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 144,
+          "remaining": 128,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 154,
+          "remaining": 137,
           "total": 200
         }
       ]
@@ -31835,7 +31835,7 @@
   "37883": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -31845,12 +31845,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
