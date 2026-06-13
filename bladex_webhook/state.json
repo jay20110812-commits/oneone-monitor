@@ -13080,7 +13080,7 @@
   "36545": {
     "snapshot": {
       "price": 350,
-      "remain": 130,
+      "remain": 128,
       "total": 250,
       "prizes": [
         {
@@ -13110,12 +13110,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 125,
+          "remaining": 123,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 130,
+          "remaining": 128,
           "total": 250
         }
       ]
@@ -30185,12 +30185,12 @@
   "37743": {
     "snapshot": {
       "price": 250,
-      "remain": 108,
+      "remain": 56,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 鮫鯊狂鱗改造組 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30205,12 +30205,12 @@
         },
         {
           "name": "D賞 CX-11帝王威能 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30230,12 +30230,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 103,
+          "remaining": 54,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 108,
+          "remaining": 56,
           "total": 200
         }
       ]
