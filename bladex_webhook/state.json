@@ -29665,27 +29665,27 @@
   "37690": {
     "snapshot": {
       "price": 280,
-      "remain": 104,
+      "remain": 50,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "B賞 BX-23 鳳凰飛翼 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "C賞 UX-01 蒼龍爆刃 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 BX-49 蒼龍突擊 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -29700,12 +29700,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 99,
+          "remaining": 49,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 104,
+          "remaining": 50,
           "total": 200
         }
       ]
