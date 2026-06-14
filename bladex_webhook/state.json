@@ -29170,7 +29170,7 @@
   "37664": {
     "snapshot": {
       "price": 160,
-      "remain": 17,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -29180,12 +29180,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 16,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 17,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -31275,7 +31275,7 @@
   "37839": {
     "snapshot": {
       "price": 280,
-      "remain": 110,
+      "remain": 107,
       "total": 200,
       "prizes": [
         {
@@ -31310,12 +31310,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 103,
+          "remaining": 100,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 110,
+          "remaining": 107,
           "total": 200
         }
       ]
@@ -32302,6 +32302,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37922": {
+    "snapshot": {
+      "price": 500,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-00武士軍刀5-60K★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
