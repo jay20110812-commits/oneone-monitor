@@ -31325,7 +31325,7 @@
   "37852": {
     "snapshot": {
       "price": 280,
-      "remain": 145,
+      "remain": 137,
       "total": 160,
       "prizes": [
         {
@@ -31355,17 +31355,17 @@
         },
         {
           "name": "F賞 CX-01 蒼龍勇氣 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 136,
+          "remaining": 129,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 145,
+          "remaining": 137,
           "total": 160
         }
       ]
@@ -31700,7 +31700,7 @@
   "37877": {
     "snapshot": {
       "price": 500,
-      "remain": 39,
+      "remain": 37,
       "total": 40,
       "prizes": [
         {
@@ -31710,12 +31710,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 38,
+          "remaining": 36,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 39,
+          "remaining": 37,
           "total": 40
         }
       ]
