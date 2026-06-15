@@ -29445,12 +29445,12 @@
   "37677": {
     "snapshot": {
       "price": 250,
-      "remain": 159,
+      "remain": 155,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 鮫鯊狂鱗改造組 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -29490,12 +29490,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 152,
+          "remaining": 149,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 159,
+          "remaining": 155,
           "total": 200
         }
       ]
@@ -29965,7 +29965,7 @@
   "37729": {
     "snapshot": {
       "price": 280,
-      "remain": 170,
+      "remain": 167,
       "total": 200,
       "prizes": [
         {
@@ -30000,12 +30000,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 160,
+          "remaining": 157,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 170,
+          "remaining": 167,
           "total": 200
         }
       ]
@@ -31205,7 +31205,7 @@
   "37821": {
     "snapshot": {
       "price": 450,
-      "remain": 243,
+      "remain": 240,
       "total": 250,
       "prizes": [
         {
@@ -31230,17 +31230,17 @@
         },
         {
           "name": "E賞 戰鬥陀螺X UX-15鮫鯊狂鱗改造組不限版本★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 4
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 232,
+          "remaining": 230,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 243,
+          "remaining": 240,
           "total": 250
         }
       ]
