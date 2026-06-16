@@ -28635,7 +28635,7 @@
   "37606": {
     "snapshot": {
       "price": 110,
-      "remain": 19,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -28645,12 +28645,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -29370,22 +29370,22 @@
   "37667": {
     "snapshot": {
       "price": 210,
-      "remain": 20,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-49 蒼龍突擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 2,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 20
         }
       ]
@@ -29395,7 +29395,7 @@
   "37666": {
     "snapshot": {
       "price": 190,
-      "remain": 28,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
@@ -29405,12 +29405,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 23,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 24,
           "total": 30
         }
       ]
@@ -29965,7 +29965,7 @@
   "37729": {
     "snapshot": {
       "price": 280,
-      "remain": 128,
+      "remain": 125,
       "total": 200,
       "prizes": [
         {
@@ -30000,12 +30000,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 121,
+          "remaining": 118,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 128,
+          "remaining": 125,
           "total": 200
         }
       ]
@@ -30610,7 +30610,7 @@
   "37769": {
     "snapshot": {
       "price": 350,
-      "remain": 193,
+      "remain": 189,
       "total": 320,
       "prizes": [
         {
@@ -30660,12 +30660,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 183,
+          "remaining": 179,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 193,
+          "remaining": 189,
           "total": 320
         }
       ]
@@ -31725,7 +31725,7 @@
   "37884": {
     "snapshot": {
       "price": 280,
-      "remain": 179,
+      "remain": 177,
       "total": 200,
       "prizes": [
         {
@@ -31760,12 +31760,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 169,
+          "remaining": 167,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 179,
+          "remaining": 177,
           "total": 200
         }
       ]
@@ -31910,7 +31910,7 @@
   "37891": {
     "snapshot": {
       "price": 299,
-      "remain": 290,
+      "remain": 280,
       "total": 300,
       "prizes": [
         {
@@ -31945,12 +31945,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 280,
+          "remaining": 270,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 290,
+          "remaining": 280,
           "total": 300
         }
       ]
@@ -32235,22 +32235,22 @@
   "37919": {
     "snapshot": {
       "price": 290,
-      "remain": 26,
+      "remain": 7,
       "total": 30,
       "prizes": [
         {
           "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 7,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 7,
           "total": 30
         }
       ]
@@ -32657,6 +32657,106 @@
           "name": "合計",
           "remaining": 160,
           "total": 160
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37955": {
+    "snapshot": {
+      "price": 200,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37954": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37960": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37957": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺 X CX-01 蒼龍勇氣★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
