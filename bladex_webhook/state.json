@@ -28635,22 +28635,22 @@
   "37606": {
     "snapshot": {
       "price": 110,
-      "remain": 16,
+      "remain": 1,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-15 邪神狂怒(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 15,
+          "remaining": 1,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 16,
+          "remaining": 1,
           "total": 20
         }
       ]
