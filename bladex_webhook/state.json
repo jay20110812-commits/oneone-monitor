@@ -22210,7 +22210,7 @@
   "37105": {
     "snapshot": {
       "price": 300,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -22220,12 +22220,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -30610,7 +30610,7 @@
   "37769": {
     "snapshot": {
       "price": 350,
-      "remain": 142,
+      "remain": 136,
       "total": 320,
       "prizes": [
         {
@@ -30660,12 +30660,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 135,
+          "remaining": 129,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 142,
+          "remaining": 136,
           "total": 320
         }
       ]
@@ -31500,7 +31500,7 @@
   "37863": {
     "snapshot": {
       "price": 170,
-      "remain": 20,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -31510,12 +31510,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -32957,6 +32957,31 @@
           "name": "合計",
           "remaining": 18,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "37980": {
+    "snapshot": {
+      "price": 500,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-00武士軍刀5-60K★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
