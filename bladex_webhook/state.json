@@ -26430,7 +26430,7 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 173,
+      "remain": 170,
       "total": 230,
       "prizes": [
         {
@@ -26500,7 +26500,7 @@
         }
       ]
     },
-    "last_notified_at": 1781731532.701524
+    "last_notified_at": 1781736651.413654
   },
   "37424": {
     "snapshot": {
