@@ -23865,7 +23865,7 @@
   "37259": {
     "snapshot": {
       "price": 350,
-      "remain": 53,
+      "remain": 41,
       "total": 320,
       "prizes": [
         {
@@ -23915,12 +23915,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 52,
+          "remaining": 40,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 53,
+          "remaining": 41,
           "total": 320
         }
       ]
@@ -23930,7 +23930,7 @@
   "37258": {
     "snapshot": {
       "price": 350,
-      "remain": 289,
+      "remain": 287,
       "total": 320,
       "prizes": [
         {
@@ -23980,12 +23980,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 274,
+          "remaining": 272,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 289,
+          "remaining": 287,
           "total": 320
         }
       ]
@@ -24825,7 +24825,7 @@
   "37309": {
     "snapshot": {
       "price": 350,
-      "remain": 159,
+      "remain": 157,
       "total": 320,
       "prizes": [
         {
@@ -24865,7 +24865,7 @@
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -24875,12 +24875,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 151,
+          "remaining": 150,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 159,
+          "remaining": 157,
           "total": 320
         }
       ]
@@ -26380,7 +26380,7 @@
   "37398": {
     "snapshot": {
       "price": 250,
-      "remain": 27,
+      "remain": 25,
       "total": 40,
       "prizes": [
         {
@@ -26390,17 +26390,17 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 22,
           "total": 36
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 25,
           "total": 40
         }
       ]
     },
-    "last_notified_at": 1781690364.3475387
+    "last_notified_at": 1781728057.1772938
   },
   "37418": {
     "snapshot": {
@@ -30275,7 +30275,7 @@
   "37528": {
     "snapshot": {
       "price": 190,
-      "remain": 104,
+      "remain": 95,
       "total": 260,
       "prizes": [
         {
@@ -30320,12 +30320,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 101,
+          "remaining": 92,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 104,
+          "remaining": 95,
           "total": 260
         }
       ]
@@ -31325,7 +31325,7 @@
   "37852": {
     "snapshot": {
       "price": 280,
-      "remain": 127,
+      "remain": 124,
       "total": 160,
       "prizes": [
         {
@@ -31360,12 +31360,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 120,
+          "remaining": 117,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 127,
+          "remaining": 124,
           "total": 160
         }
       ]
@@ -31725,7 +31725,7 @@
   "37884": {
     "snapshot": {
       "price": 280,
-      "remain": 99,
+      "remain": 93,
       "total": 200,
       "prizes": [
         {
@@ -31735,7 +31735,7 @@
         },
         {
           "name": "B賞 BX-23 鳳凰飛翼 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -31760,12 +31760,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 94,
+          "remaining": 89,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 99,
+          "remaining": 93,
           "total": 200
         }
       ]
@@ -31910,7 +31910,7 @@
   "37891": {
     "snapshot": {
       "price": 299,
-      "remain": 201,
+      "remain": 182,
       "total": 300,
       "prizes": [
         {
@@ -31920,7 +31920,7 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -31945,12 +31945,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 194,
+          "remaining": 176,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 201,
+          "remaining": 182,
           "total": 300
         }
       ]
@@ -33240,7 +33240,7 @@
   "38011": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 38,
       "total": 40,
       "prizes": [
         {
@@ -33250,12 +33250,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 37,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 38,
           "total": 40
         }
       ]
