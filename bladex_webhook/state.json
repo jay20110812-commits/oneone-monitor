@@ -31725,7 +31725,7 @@
   "37884": {
     "snapshot": {
       "price": 280,
-      "remain": 157,
+      "remain": 144,
       "total": 200,
       "prizes": [
         {
@@ -31750,7 +31750,7 @@
         },
         {
           "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -31760,12 +31760,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 148,
+          "remaining": 136,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 157,
+          "remaining": 144,
           "total": 200
         }
       ]
