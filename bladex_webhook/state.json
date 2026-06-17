@@ -30275,7 +30275,7 @@
   "37528": {
     "snapshot": {
       "price": 190,
-      "remain": 135,
+      "remain": 109,
       "total": 260,
       "prizes": [
         {
@@ -30295,7 +30295,7 @@
         },
         {
           "name": "D賞 戰鬥陀螺 CX-13 龍王閃擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30320,12 +30320,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 131,
+          "remaining": 106,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 135,
+          "remaining": 109,
           "total": 260
         }
       ]
