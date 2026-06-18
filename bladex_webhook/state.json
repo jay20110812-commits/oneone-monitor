@@ -33440,22 +33440,22 @@
   "37999": {
     "snapshot": {
       "price": 190,
-      "remain": 19,
+      "remain": 11,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X BX-23 鳳凰飛翼 豪華組(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 11,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 11,
           "total": 30
         }
       ]
@@ -33665,7 +33665,7 @@
   "38023": {
     "snapshot": {
       "price": 190,
-      "remain": 250,
+      "remain": 235,
       "total": 260,
       "prizes": [
         {
@@ -33685,7 +33685,7 @@
         },
         {
           "name": "D賞 戰鬥陀螺 CX-13 龍王閃擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -33710,12 +33710,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 242,
+          "remaining": 228,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 250,
+          "remaining": 235,
           "total": 260
         }
       ]
