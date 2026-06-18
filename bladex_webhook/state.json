@@ -26380,27 +26380,27 @@
   "37398": {
     "snapshot": {
       "price": 250,
-      "remain": 25,
+      "remain": 19,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 X CX-13(不限版本)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 4
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 22,
+          "remaining": 17,
           "total": 36
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 19,
           "total": 40
         }
       ]
     },
-    "last_notified_at": 1781728057.1772938
+    "last_notified_at": 1781744325.1636255
   },
   "37418": {
     "snapshot": {
@@ -32510,7 +32510,7 @@
   "37948": {
     "snapshot": {
       "price": 250,
-      "remain": 200,
+      "remain": 197,
       "total": 200,
       "prizes": [
         {
@@ -32555,12 +32555,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 190,
+          "remaining": 188,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 199,
+          "remaining": 197,
           "total": 200
         }
       ]
