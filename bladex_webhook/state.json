@@ -30115,7 +30115,7 @@
   "37732": {
     "snapshot": {
       "price": 490,
-      "remain": 80,
+      "remain": 77,
       "total": 99,
       "prizes": [
         {
@@ -30145,12 +30145,12 @@
         },
         {
           "name": "F賞 不限IP隨機小賞一個",
-          "remaining": 76,
+          "remaining": 73,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 77,
           "total": 99
         }
       ]
@@ -33515,22 +33515,22 @@
   "38026": {
     "snapshot": {
       "price": 250,
-      "remain": 37,
+      "remain": 4,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 36,
+          "remaining": 4,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 37,
+          "remaining": 4,
           "total": 40
         }
       ]
@@ -33900,11 +33900,86 @@
   "38046": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 6,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 CX-08 隨機強化組 vol.7(代理版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 6,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 6,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38050": {
+    "snapshot": {
+      "price": 199,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X BX-50隨機強化包★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38049": {
+    "snapshot": {
+      "price": 250,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38048": {
+    "snapshot": {
+      "price": 170,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-13 龍王閃擊(不限版本)★",
           "remaining": 1,
           "total": 1
         },
@@ -33916,6 +33991,31 @@
         {
           "name": "合計",
           "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38047": {
+    "snapshot": {
+      "price": 130,
+      "remain": 3,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 CX-08 隨機強化組 vol.7(代理版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 3,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 3,
           "total": 20
         }
       ]
