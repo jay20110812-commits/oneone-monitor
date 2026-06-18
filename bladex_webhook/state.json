@@ -26380,22 +26380,22 @@
   "37398": {
     "snapshot": {
       "price": 250,
-      "remain": 19,
+      "remain": 13,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 X CX-13(不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 4
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 17,
+          "remaining": 12,
           "total": 36
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 13,
           "total": 40
         }
       ]
@@ -29965,7 +29965,7 @@
   "37729": {
     "snapshot": {
       "price": 280,
-      "remain": 108,
+      "remain": 105,
       "total": 200,
       "prizes": [
         {
@@ -29995,17 +29995,17 @@
         },
         {
           "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 102,
+          "remaining": 100,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 108,
+          "remaining": 105,
           "total": 200
         }
       ]
@@ -31725,12 +31725,12 @@
   "37884": {
     "snapshot": {
       "price": 280,
-      "remain": 85,
+      "remain": 65,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -31760,12 +31760,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 81,
+          "remaining": 62,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 85,
+          "remaining": 65,
           "total": 200
         }
       ]
@@ -31775,7 +31775,7 @@
   "37879": {
     "snapshot": {
       "price": 350,
-      "remain": 280,
+      "remain": 277,
       "total": 314,
       "prizes": [
         {
@@ -31820,12 +31820,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 267,
+          "remaining": 264,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 280,
+          "remaining": 277,
           "total": 314
         }
       ]
@@ -31860,7 +31860,7 @@
   "37892": {
     "snapshot": {
       "price": 299,
-      "remain": 263,
+      "remain": 262,
       "total": 300,
       "prizes": [
         {
@@ -31895,12 +31895,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 254,
+          "remaining": 253,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 263,
+          "remaining": 262,
           "total": 300
         }
       ]
@@ -33665,7 +33665,7 @@
   "38023": {
     "snapshot": {
       "price": 190,
-      "remain": 235,
+      "remain": 234,
       "total": 260,
       "prizes": [
         {
@@ -33710,12 +33710,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 228,
+          "remaining": 227,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 235,
+          "remaining": 234,
           "total": 260
         }
       ]
