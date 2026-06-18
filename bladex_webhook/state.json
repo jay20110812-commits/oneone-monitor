@@ -30275,12 +30275,12 @@
   "37528": {
     "snapshot": {
       "price": 190,
-      "remain": 95,
+      "remain": 62,
       "total": 260,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 BX-00鳳凰飛翼 黑鳳凰★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30305,7 +30305,7 @@
         },
         {
           "name": "F賞 戰鬥陀螺 BX-48 隨機強化組Vol.09★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -30320,12 +30320,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 92,
+          "remaining": 61,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 95,
+          "remaining": 62,
           "total": 260
         }
       ]
@@ -32555,12 +32555,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 190,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 199,
           "total": 200
         }
       ]
