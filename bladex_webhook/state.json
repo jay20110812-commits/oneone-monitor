@@ -31910,7 +31910,7 @@
   "37891": {
     "snapshot": {
       "price": 299,
-      "remain": 182,
+      "remain": 162,
       "total": 300,
       "prizes": [
         {
@@ -31930,7 +31930,7 @@
         },
         {
           "name": "D賞 CX-11帝王威能★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -31945,12 +31945,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 176,
+          "remaining": 157,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 182,
+          "remaining": 162,
           "total": 300
         }
       ]
