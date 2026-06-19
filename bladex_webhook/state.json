@@ -31860,7 +31860,7 @@
   "37892": {
     "snapshot": {
       "price": 299,
-      "remain": 262,
+      "remain": 259,
       "total": 300,
       "prizes": [
         {
@@ -31895,12 +31895,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 253,
+          "remaining": 250,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 262,
+          "remaining": 259,
           "total": 300
         }
       ]
@@ -33835,7 +33835,7 @@
   "38044": {
     "snapshot": {
       "price": 350,
-      "remain": 208,
+      "remain": 206,
       "total": 320,
       "prizes": [
         {
@@ -33885,12 +33885,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 197,
+          "remaining": 195,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 208,
+          "remaining": 206,
           "total": 320
         }
       ]
@@ -34667,6 +34667,31 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38095": {
+    "snapshot": {
+      "price": 260,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺BX-46 對戰入門套裝★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
