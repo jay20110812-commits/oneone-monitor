@@ -26430,7 +26430,7 @@
   "37425": {
     "snapshot": {
       "price": 350,
-      "remain": 163,
+      "remain": 155,
       "total": 230,
       "prizes": [
         {
@@ -26460,7 +26460,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -26490,17 +26490,17 @@
         },
         {
           "name": "K賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 135,
+          "remaining": 128,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 163,
+          "remaining": 155,
           "total": 230
         }
       ]
     },
-    "last_notified_at": 1781846248.693484
+    "last_notified_at": 1781969095.4916627
   },
   "37424": {
     "snapshot": {
@@ -34550,22 +34550,22 @@
   "38086": {
     "snapshot": {
       "price": 180,
-      "remain": 13,
+      "remain": 3,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版 UX-16 時鐘幻象 隨機強貨組(隨機一款)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 12,
+          "remaining": 3,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 13,
+          "remaining": 3,
           "total": 20
         }
       ]
