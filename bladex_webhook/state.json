@@ -34550,7 +34550,7 @@
   "38086": {
     "snapshot": {
       "price": 180,
-      "remain": 20,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
@@ -34560,12 +34560,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 13,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 14,
           "total": 20
         }
       ]
