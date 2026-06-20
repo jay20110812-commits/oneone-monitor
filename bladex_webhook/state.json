@@ -26995,22 +26995,22 @@
   "37435": {
     "snapshot": {
       "price": 200,
-      "remain": 29,
+      "remain": 7,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-01 蒼龍爆刃(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 27,
+          "remaining": 7,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 7,
           "total": 30
         }
       ]
@@ -32595,7 +32595,7 @@
   "37951": {
     "snapshot": {
       "price": 250,
-      "remain": 97,
+      "remain": 94,
       "total": 160,
       "prizes": [
         {
@@ -32640,7 +32640,7 @@
         },
         {
           "name": "H賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 12,
+          "remaining": 11,
           "total": 20
         },
         {
@@ -32650,17 +32650,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 66,
+          "remaining": 64,
           "total": 102
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 94,
           "total": 160
         }
       ]
     },
-    "last_notified_at": 1781954726.1164079
+    "last_notified_at": 1781975022.9534416
   },
   "37955": {
     "snapshot": {
