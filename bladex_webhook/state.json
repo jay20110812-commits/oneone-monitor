@@ -32595,12 +32595,12 @@
   "37951": {
     "snapshot": {
       "price": 250,
-      "remain": 54,
+      "remain": 45,
       "total": 160,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺CX-16 極限衝擊對戰組C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -32645,22 +32645,22 @@
         },
         {
           "name": "I賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 6,
+          "remaining": 4,
           "total": 20
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 29,
           "total": 102
         },
         {
           "name": "合計",
-          "remaining": 54,
+          "remaining": 45,
           "total": 160
         }
       ]
     },
-    "last_notified_at": 1782047780.5779932
+    "last_notified_at": 1782048478.2466345
   },
   "37955": {
     "snapshot": {
