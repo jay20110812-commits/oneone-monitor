@@ -33665,7 +33665,7 @@
   "38023": {
     "snapshot": {
       "price": 190,
-      "remain": 214,
+      "remain": 204,
       "total": 260,
       "prizes": [
         {
@@ -33710,12 +33710,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 208,
+          "remaining": 198,
           "total": 252
         },
         {
           "name": "合計",
-          "remaining": 214,
+          "remaining": 204,
           "total": 260
         }
       ]
