@@ -28835,7 +28835,7 @@
   "37625": {
     "snapshot": {
       "price": 190,
-      "remain": 21,
+      "remain": 20,
       "total": 25,
       "prizes": [
         {
@@ -28845,12 +28845,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 19,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 20,
           "total": 25
         }
       ]
@@ -31775,7 +31775,7 @@
   "37879": {
     "snapshot": {
       "price": 350,
-      "remain": 207,
+      "remain": 199,
       "total": 314,
       "prizes": [
         {
@@ -31820,12 +31820,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 197,
+          "remaining": 189,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 207,
+          "remaining": 199,
           "total": 314
         }
       ]
@@ -34050,7 +34050,7 @@
   "38053": {
     "snapshot": {
       "price": 280,
-      "remain": 150,
+      "remain": 124,
       "total": 200,
       "prizes": [
         {
@@ -34060,7 +34060,7 @@
         },
         {
           "name": "B賞 BX-23 鳳凰飛翼 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -34075,7 +34075,7 @@
         },
         {
           "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -34085,12 +34085,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 142,
+          "remaining": 118,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 124,
           "total": 200
         }
       ]
@@ -35600,7 +35600,7 @@
   "38198": {
     "snapshot": {
       "price": 299,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -35610,12 +35610,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
