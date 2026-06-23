@@ -26575,7 +26575,7 @@
   "37423": {
     "snapshot": {
       "price": 350,
-      "remain": 107,
+      "remain": 106,
       "total": 150,
       "prizes": [
         {
@@ -26615,7 +26615,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺X(隨機一款)☆",
-          "remaining": 4,
+          "remaining": 3,
           "total": 8
         },
         {
@@ -26630,17 +26630,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 63,
+          "remaining": 62,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 107,
+          "remaining": 105,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1782132375.0390303
+    "last_notified_at": 1782249578.610881
   },
   "37422": {
     "snapshot": {
