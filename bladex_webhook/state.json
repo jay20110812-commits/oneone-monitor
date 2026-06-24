@@ -27765,7 +27765,7 @@
   "37519": {
     "snapshot": {
       "price": 299,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -27775,12 +27775,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -27790,7 +27790,7 @@
   "37518": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -27800,12 +27800,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -33725,7 +33725,7 @@
   "38043": {
     "snapshot": {
       "price": 290,
-      "remain": 194,
+      "remain": 193,
       "total": 200,
       "prizes": [
         {
@@ -33770,12 +33770,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 187,
+          "remaining": 186,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 194,
+          "remaining": 193,
           "total": 200
         }
       ]
@@ -35835,7 +35835,7 @@
   "38209": {
     "snapshot": {
       "price": 280,
-      "remain": 188,
+      "remain": 183,
       "total": 200,
       "prizes": [
         {
@@ -35870,12 +35870,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 177,
+          "remaining": 172,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 188,
+          "remaining": 183,
           "total": 200
         }
       ]
@@ -36180,7 +36180,7 @@
   "38250": {
     "snapshot": {
       "price": 280,
-      "remain": 132,
+      "remain": 129,
       "total": 160,
       "prizes": [
         {
@@ -36215,12 +36215,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 124,
+          "remaining": 121,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 132,
+          "remaining": 129,
           "total": 160
         }
       ]
