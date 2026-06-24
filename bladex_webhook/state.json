@@ -33725,7 +33725,7 @@
   "38043": {
     "snapshot": {
       "price": 290,
-      "remain": 197,
+      "remain": 194,
       "total": 200,
       "prizes": [
         {
@@ -33760,7 +33760,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺 BX-31隨機強化組 Vol.03-版本隨機★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -33770,12 +33770,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞一個",
-          "remaining": 189,
+          "remaining": 187,
           "total": 192
         },
         {
           "name": "合計",
-          "remaining": 197,
+          "remaining": 194,
           "total": 200
         }
       ]
@@ -35025,7 +35025,7 @@
   "38125": {
     "snapshot": {
       "price": 200,
-      "remain": 21,
+      "remain": 20,
       "total": 30,
       "prizes": [
         {
@@ -35035,12 +35035,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 20,
+          "remaining": 19,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 20,
           "total": 30
         }
       ]
@@ -36180,7 +36180,7 @@
   "38250": {
     "snapshot": {
       "price": 280,
-      "remain": 153,
+      "remain": 139,
       "total": 160,
       "prizes": [
         {
@@ -36215,12 +36215,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 144,
+          "remaining": 130,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 153,
+          "remaining": 139,
           "total": 160
         }
       ]
