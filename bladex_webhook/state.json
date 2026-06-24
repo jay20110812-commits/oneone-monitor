@@ -35025,7 +35025,7 @@
   "38125": {
     "snapshot": {
       "price": 200,
-      "remain": 24,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
@@ -35035,12 +35035,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 23,
+          "remaining": 20,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 24,
+          "remaining": 21,
           "total": 30
         }
       ]
@@ -35475,7 +35475,7 @@
   "38166": {
     "snapshot": {
       "price": 199,
-      "remain": 26,
+      "remain": 25,
       "total": 30,
       "prizes": [
         {
@@ -35485,12 +35485,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 25,
           "total": 30
         }
       ]
@@ -36070,22 +36070,22 @@
   "38254": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 11,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-11帝王威能(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 11,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 11,
           "total": 30
         }
       ]
