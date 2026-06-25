@@ -35835,12 +35835,12 @@
   "38209": {
     "snapshot": {
       "price": 280,
-      "remain": 181,
+      "remain": 179,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -35870,12 +35870,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 170,
+          "remaining": 169,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 181,
+          "remaining": 179,
           "total": 200
         }
       ]
@@ -36095,7 +36095,7 @@
   "38253": {
     "snapshot": {
       "price": 250,
-      "remain": 78,
+      "remain": 75,
       "total": 200,
       "prizes": [
         {
@@ -36140,12 +36140,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 75,
+          "remaining": 72,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 78,
+          "remaining": 75,
           "total": 200
         }
       ]
@@ -36155,7 +36155,7 @@
   "38251": {
     "snapshot": {
       "price": 180,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -36165,12 +36165,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
