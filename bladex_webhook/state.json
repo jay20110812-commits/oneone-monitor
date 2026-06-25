@@ -27775,12 +27775,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 25,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 26,
           "total": 30
         }
       ]
@@ -31205,7 +31205,7 @@
   "37821": {
     "snapshot": {
       "price": 399,
-      "remain": 28,
+      "remain": 27,
       "total": 250,
       "prizes": [
         {
@@ -31235,12 +31235,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 26,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 27,
           "total": 250
         }
       ]
@@ -36880,22 +36880,22 @@
   "38300": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 CX-08 隨機強化組 vol.7(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 9,
           "total": 20
         }
       ]
@@ -36955,7 +36955,7 @@
   "38312": {
     "snapshot": {
       "price": 299,
-      "remain": 199,
+      "remain": 198,
       "total": 200,
       "prizes": [
         {
@@ -36995,12 +36995,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 189,
+          "remaining": 188,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 199,
+          "remaining": 198,
           "total": 200
         }
       ]
