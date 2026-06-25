@@ -36180,12 +36180,12 @@
   "38250": {
     "snapshot": {
       "price": 280,
-      "remain": 127,
+      "remain": 120,
       "total": 160,
       "prizes": [
         {
           "name": "A賞 CX-00蒼龍翱翔S6-60V 日版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -36215,12 +36215,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 119,
+          "remaining": 113,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 127,
+          "remaining": 120,
           "total": 160
         }
       ]
