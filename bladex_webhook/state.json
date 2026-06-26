@@ -36630,7 +36630,7 @@
   "38295": {
     "snapshot": {
       "price": 280,
-      "remain": 188,
+      "remain": 178,
       "total": 200,
       "prizes": [
         {
@@ -36665,12 +36665,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 177,
+          "remaining": 167,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 188,
+          "remaining": 178,
           "total": 200
         }
       ]
@@ -36955,7 +36955,7 @@
   "38312": {
     "snapshot": {
       "price": 299,
-      "remain": 198,
+      "remain": 197,
       "total": 200,
       "prizes": [
         {
@@ -36995,12 +36995,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 188,
+          "remaining": 187,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 198,
+          "remaining": 197,
           "total": 200
         }
       ]
