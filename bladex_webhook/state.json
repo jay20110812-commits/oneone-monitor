@@ -36630,7 +36630,7 @@
   "38295": {
     "snapshot": {
       "price": 280,
-      "remain": 120,
+      "remain": 119,
       "total": 200,
       "prizes": [
         {
@@ -36665,12 +36665,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 113,
+          "remaining": 112,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 120,
+          "remaining": 119,
           "total": 200
         }
       ]
@@ -37385,7 +37385,7 @@
   "38335": {
     "snapshot": {
       "price": 280,
-      "remain": 200,
+      "remain": 191,
       "total": 200,
       "prizes": [
         {
@@ -37415,17 +37415,17 @@
         },
         {
           "name": "F賞 UX-02 惡魔戰錘 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 188,
+          "remaining": 180,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 191,
           "total": 200
         }
       ]
@@ -37510,7 +37510,7 @@
   "38343": {
     "snapshot": {
       "price": 350,
-      "remain": 313,
+      "remain": 310,
       "total": 314,
       "prizes": [
         {
@@ -37555,12 +37555,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 298,
+          "remaining": 295,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 313,
+          "remaining": 310,
           "total": 314
         }
       ]
@@ -38175,7 +38175,7 @@
   "38182": {
     "snapshot": {
       "price": 150,
-      "remain": 200,
+      "remain": 199,
       "total": 200,
       "prizes": [
         {
@@ -38225,12 +38225,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 190,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 199,
           "total": 200
         }
       ]
