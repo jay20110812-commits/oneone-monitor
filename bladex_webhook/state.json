@@ -31325,7 +31325,7 @@
   "37852": {
     "snapshot": {
       "price": 280,
-      "remain": 62,
+      "remain": 60,
       "total": 160,
       "prizes": [
         {
@@ -31345,7 +31345,7 @@
         },
         {
           "name": "D賞 CX-07 天馬爆擊 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -31360,12 +31360,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 58,
+          "remaining": 57,
           "total": 150
         },
         {
           "name": "合計",
-          "remaining": 62,
+          "remaining": 60,
           "total": 160
         }
       ]
