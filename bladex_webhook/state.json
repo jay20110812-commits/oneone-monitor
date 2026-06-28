@@ -38305,11 +38305,36 @@
   "38397": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 38,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 39,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38398": {
+    "snapshot": {
+      "price": 399,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-00武士軍刀5-60K★",
           "remaining": 1,
           "total": 1
         },
