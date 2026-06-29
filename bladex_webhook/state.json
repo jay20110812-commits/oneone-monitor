@@ -37725,22 +37725,22 @@
   "38346": {
     "snapshot": {
       "price": 160,
-      "remain": 19,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 9,
           "total": 20
         }
       ]
