@@ -38405,7 +38405,7 @@
   "38414": {
     "snapshot": {
       "price": 220,
-      "remain": 16,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
@@ -38415,12 +38415,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 16,
+          "remaining": 14,
           "total": 20
         }
       ]
