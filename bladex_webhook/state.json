@@ -38570,7 +38570,7 @@
   "38408": {
     "snapshot": {
       "price": 350,
-      "remain": 141,
+      "remain": 138,
       "total": 150,
       "prizes": [
         {
@@ -38605,7 +38605,7 @@
         },
         {
           "name": "F賞 UX-14天蠍長矛★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -38615,7 +38615,7 @@
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 20
         },
         {
@@ -38625,17 +38625,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 87,
+          "remaining": 86,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 141,
+          "remaining": 138,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1782757184.2070801
+    "last_notified_at": 1782757881.3734024
   },
   "38407": {
     "snapshot": {
