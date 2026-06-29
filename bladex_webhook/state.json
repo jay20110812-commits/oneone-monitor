@@ -38175,7 +38175,7 @@
   "38182": {
     "snapshot": {
       "price": 150,
-      "remain": 151,
+      "remain": 125,
       "total": 200,
       "prizes": [
         {
@@ -38185,7 +38185,7 @@
         },
         {
           "name": "A賞 BX-23 鳳凰飛翼★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38210,7 +38210,7 @@
         },
         {
           "name": "F賞 CX-14 騎士堡壘★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38225,12 +38225,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 144,
+          "remaining": 119,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 151,
+          "remaining": 124,
           "total": 200
         }
       ]
