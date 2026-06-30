@@ -37385,12 +37385,12 @@
   "38335": {
     "snapshot": {
       "price": 280,
-      "remain": 178,
+      "remain": 133,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -37410,7 +37410,7 @@
         },
         {
           "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -37420,12 +37420,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 168,
+          "remaining": 126,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 178,
+          "remaining": 133,
           "total": 200
         }
       ]
