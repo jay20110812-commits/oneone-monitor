@@ -37235,7 +37235,7 @@
   "38324": {
     "snapshot": {
       "price": 210,
-      "remain": 14,
+      "remain": 13,
       "total": 20,
       "prizes": [
         {
@@ -37245,12 +37245,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 13,
+          "remaining": 12,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 14,
+          "remaining": 13,
           "total": 20
         }
       ]
