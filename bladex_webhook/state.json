@@ -37510,42 +37510,42 @@
   "38343": {
     "snapshot": {
       "price": 350,
-      "remain": 298,
+      "remain": 94,
       "total": 314,
       "prizes": [
         {
           "name": "A賞全新澀谷爆刃紫色+綠色+藍色3顆-無外盒&無QRcode★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "E賞 UX-03魔導神杖★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -37555,12 +37555,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 284,
+          "remaining": 92,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 298,
+          "remaining": 94,
           "total": 314
         }
       ]
