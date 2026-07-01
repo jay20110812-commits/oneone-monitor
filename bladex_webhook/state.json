@@ -38730,7 +38730,7 @@
   "38434": {
     "snapshot": {
       "price": 360,
-      "remain": 196,
+      "remain": 191,
       "total": 200,
       "prizes": [
         {
@@ -38765,12 +38765,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 184,
+          "remaining": 179,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 191,
           "total": 200
         }
       ]
