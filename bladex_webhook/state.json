@@ -38570,7 +38570,7 @@
   "38408": {
     "snapshot": {
       "price": 350,
-      "remain": 116,
+      "remain": 110,
       "total": 150,
       "prizes": [
         {
@@ -38615,27 +38615,27 @@
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 16,
-          "total": 20
-        },
-        {
-          "name": "I賞 吉伊卡哇系列周邊(隨機一款)",
           "remaining": 15,
           "total": 20
         },
         {
+          "name": "I賞 吉伊卡哇系列周邊(隨機一款)",
+          "remaining": 14,
+          "total": 20
+        },
+        {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 72,
+          "remaining": 68,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 116,
+          "remaining": 110,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1782901840.1941106
+    "last_notified_at": 1782921688.060922
   },
   "38407": {
     "snapshot": {
