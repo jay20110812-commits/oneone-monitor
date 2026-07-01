@@ -38780,7 +38780,7 @@
   "38435": {
     "snapshot": {
       "price": 350,
-      "remain": 239,
+      "remain": 234,
       "total": 320,
       "prizes": [
         {
@@ -38830,12 +38830,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 226,
+          "remaining": 221,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 239,
+          "remaining": 234,
           "total": 320
         }
       ]
