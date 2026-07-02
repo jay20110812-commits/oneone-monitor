@@ -39305,7 +39305,7 @@
   "38504": {
     "snapshot": {
       "price": 350,
-      "remain": 299,
+      "remain": 298,
       "total": 314,
       "prizes": [
         {
@@ -39350,12 +39350,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 285,
+          "remaining": 284,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 299,
+          "remaining": 298,
           "total": 314
         }
       ]
@@ -39365,12 +39365,12 @@
   "38517": {
     "snapshot": {
       "price": 350,
-      "remain": 68,
+      "remain": 55,
       "total": 320,
       "prizes": [
         {
           "name": "A賞 黃金神杖(無外盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -39390,7 +39390,7 @@
         },
         {
           "name": "E賞UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39415,12 +39415,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 62,
+          "remaining": 54,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 65,
+          "remaining": 55,
           "total": 320
         }
       ]
