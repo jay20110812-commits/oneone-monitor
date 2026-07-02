@@ -39365,7 +39365,7 @@
   "38517": {
     "snapshot": {
       "price": 350,
-      "remain": 139,
+      "remain": 68,
       "total": 320,
       "prizes": [
         {
@@ -39380,12 +39380,12 @@
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 CX-00蒼龍翱翔★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39395,7 +39395,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39405,7 +39405,7 @@
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39415,12 +39415,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 132,
+          "remaining": 62,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 139,
+          "remaining": 65,
           "total": 320
         }
       ]
