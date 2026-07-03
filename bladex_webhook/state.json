@@ -39505,7 +39505,7 @@
   "38526": {
     "snapshot": {
       "price": 350,
-      "remain": 276,
+      "remain": 274,
       "total": 320,
       "prizes": [
         {
@@ -39555,12 +39555,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 261,
+          "remaining": 259,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 276,
+          "remaining": 274,
           "total": 320
         }
       ]
