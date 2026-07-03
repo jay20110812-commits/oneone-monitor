@@ -37260,7 +37260,7 @@
   "38329": {
     "snapshot": {
       "price": 199,
-      "remain": 26,
+      "remain": 25,
       "total": 30,
       "prizes": [
         {
@@ -37270,12 +37270,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 25,
           "total": 30
         }
       ]
@@ -40080,22 +40080,22 @@
   "38573": {
     "snapshot": {
       "price": 250,
-      "remain": 39,
+      "remain": 29,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 38,
+          "remaining": 29,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 39,
+          "remaining": 29,
           "total": 40
         }
       ]
@@ -40265,22 +40265,22 @@
   "38601": {
     "snapshot": {
       "price": 300,
-      "remain": 50,
+      "remain": 7,
       "total": 50,
       "prizes": [
         {
           "name": "A賞代理版 戰鬥陀螺X BXH-14 戰神伏特s4-70v★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 49,
+          "remaining": 7,
           "total": 49
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 7,
           "total": 50
         }
       ]
@@ -40340,7 +40340,7 @@
   "38598": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
@@ -40350,12 +40350,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 23,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 24,
           "total": 30
         }
       ]
