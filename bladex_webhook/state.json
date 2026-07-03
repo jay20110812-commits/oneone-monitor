@@ -37825,22 +37825,22 @@
   "38356": {
     "snapshot": {
       "price": 190,
-      "remain": 29,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X BX-23 鳳凰飛翼 豪華組(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 6,
           "total": 30
         }
       ]
@@ -38730,7 +38730,7 @@
   "38434": {
     "snapshot": {
       "price": 360,
-      "remain": 100,
+      "remain": 84,
       "total": 200,
       "prizes": [
         {
@@ -38745,7 +38745,7 @@
         },
         {
           "name": "C賞 UX-01 蒼龍爆刃 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -38765,12 +38765,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 94,
+          "remaining": 79,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 84,
           "total": 200
         }
       ]
@@ -39020,7 +39020,7 @@
   "38447": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -39030,12 +39030,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -39695,7 +39695,7 @@
   "38538": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -39705,12 +39705,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -39950,7 +39950,7 @@
   "38552": {
     "snapshot": {
       "price": 299,
-      "remain": 381,
+      "remain": 371,
       "total": 400,
       "prizes": [
         {
@@ -40005,12 +40005,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 363,
+          "remaining": 353,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 381,
+          "remaining": 371,
           "total": 400
         }
       ]
