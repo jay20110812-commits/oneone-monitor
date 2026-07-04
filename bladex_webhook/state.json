@@ -41155,22 +41155,22 @@
   "38637": {
     "snapshot": {
       "price": 140,
-      "remain": 20,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 不限版本 CX-07 天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 4,
           "total": 20
         }
       ]
@@ -41205,7 +41205,7 @@
   "38639": {
     "snapshot": {
       "price": 350,
-      "remain": 314,
+      "remain": 312,
       "total": 314,
       "prizes": [
         {
@@ -41250,12 +41250,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 299,
+          "remaining": 297,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 314,
+          "remaining": 312,
           "total": 314
         }
       ]
