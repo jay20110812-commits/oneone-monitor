@@ -40990,7 +40990,7 @@
   "38635": {
     "snapshot": {
       "price": 299,
-      "remain": 341,
+      "remain": 311,
       "total": 400,
       "prizes": [
         {
@@ -41000,12 +41000,12 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "C賞 UX-03魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -41045,12 +41045,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 325,
+          "remaining": 297,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 341,
+          "remaining": 311,
           "total": 400
         }
       ]
