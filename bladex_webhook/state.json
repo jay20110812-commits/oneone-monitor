@@ -39305,7 +39305,7 @@
   "38504": {
     "snapshot": {
       "price": 350,
-      "remain": 89,
+      "remain": 23,
       "total": 314,
       "prizes": [
         {
@@ -39315,12 +39315,12 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39330,7 +39330,7 @@
         },
         {
           "name": "E賞 UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39350,12 +39350,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 86,
+          "remaining": 23,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 89,
+          "remaining": 23,
           "total": 314
         }
       ]
