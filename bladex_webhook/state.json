@@ -40865,7 +40865,7 @@
   "38631": {
     "snapshot": {
       "price": 299,
-      "remain": 289,
+      "remain": 288,
       "total": 300,
       "prizes": [
         {
@@ -40885,7 +40885,7 @@
         },
         {
           "name": "D賞 CX-11帝王威能★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -40905,7 +40905,7 @@
         },
         {
           "name": "合計",
-          "remaining": 289,
+          "remaining": 288,
           "total": 300
         }
       ]
@@ -41265,7 +41265,7 @@
   "38640": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 18,
       "total": 40,
       "prizes": [
         {
@@ -41275,12 +41275,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 17,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 18,
           "total": 40
         }
       ]
