@@ -40725,7 +40725,7 @@
   "38621": {
     "snapshot": {
       "price": 350,
-      "remain": 282,
+      "remain": 202,
       "total": 320,
       "prizes": [
         {
@@ -40745,22 +40745,22 @@
         },
         {
           "name": "D賞 CX-00蒼龍翱翔★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "E賞UX-03魔導神杖★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -40775,12 +40775,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 267,
+          "remaining": 192,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 282,
+          "remaining": 202,
           "total": 320
         }
       ]
