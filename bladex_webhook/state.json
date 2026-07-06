@@ -41205,12 +41205,12 @@
   "38639": {
     "snapshot": {
       "price": 350,
-      "remain": 293,
+      "remain": 256,
       "total": 314,
       "prizes": [
         {
           "name": "A賞全新澀谷爆刃紫色+綠色+藍色3顆-無外盒&無QRcode★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -41225,7 +41225,7 @@
         },
         {
           "name": "D賞 BX-34 蒼穹龍騎士★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -41250,12 +41250,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 279,
+          "remaining": 244,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 293,
+          "remaining": 256,
           "total": 314
         }
       ]
