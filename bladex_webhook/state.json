@@ -36955,7 +36955,7 @@
   "38312": {
     "snapshot": {
       "price": 299,
-      "remain": 172,
+      "remain": 165,
       "total": 200,
       "prizes": [
         {
@@ -36990,17 +36990,17 @@
         },
         {
           "name": "G賞 CX-08 隨機強化組 vol.7 (不限版本)",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 163,
+          "remaining": 157,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 172,
+          "remaining": 165,
           "total": 200
         }
       ]
@@ -37600,12 +37600,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 199,
+          "remaining": 198,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 208,
+          "remaining": 207,
           "total": 250
         }
       ]
