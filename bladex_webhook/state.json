@@ -41935,7 +41935,7 @@
   "38723": {
     "snapshot": {
       "price": 360,
-      "remain": 46,
+      "remain": 44,
       "total": 50,
       "prizes": [
         {
@@ -41945,12 +41945,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 45,
+          "remaining": 43,
           "total": 49
         },
         {
           "name": "合計",
-          "remaining": 46,
+          "remaining": 44,
           "total": 50
         }
       ]
@@ -42035,7 +42035,7 @@
   "38730": {
     "snapshot": {
       "price": 220,
-      "remain": 147,
+      "remain": 142,
       "total": 150,
       "prizes": [
         {
@@ -42075,17 +42075,17 @@
         },
         {
           "name": "H賞 BX-47 左迴旋風發射器(紅)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 139,
+          "remaining": 135,
           "total": 142
         },
         {
           "name": "合計",
-          "remaining": 147,
+          "remaining": 142,
           "total": 150
         }
       ]
