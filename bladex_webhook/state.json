@@ -42241,5 +42241,60 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "38769": {
+    "snapshot": {
+      "price": 299,
+      "remain": 200,
+      "total": 200,
+      "prizes": [
+        {
+          "name": "A賞 UX-00 武士軍刀 (日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-00 蒼龍翱翔 (日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-15絞鯊狂鱗改造組 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 CX-18 腕龍鞭打 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 UX-19 子彈獅鷲 (不限版本)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 CX-08 隨機強化組 vol.7 (不限版本)",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 190,
+          "total": 190
+        },
+        {
+          "name": "合計",
+          "remaining": 200,
+          "total": 200
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
