@@ -37570,7 +37570,7 @@
   "38342": {
     "snapshot": {
       "price": 399,
-      "remain": 240,
+      "remain": 228,
       "total": 250,
       "prizes": [
         {
@@ -37595,17 +37595,17 @@
         },
         {
           "name": "E賞 戰鬥陀螺X UX-15鮫鯊狂鱗改造組不限版本★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 4
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 229,
+          "remaining": 218,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 240,
+          "remaining": 228,
           "total": 250
         }
       ]
