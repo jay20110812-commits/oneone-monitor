@@ -37570,7 +37570,7 @@
   "38342": {
     "snapshot": {
       "price": 399,
-      "remain": 200,
+      "remain": 195,
       "total": 250,
       "prizes": [
         {
@@ -37600,12 +37600,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 186,
           "total": 239
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 195,
           "total": 250
         }
       ]
@@ -41060,12 +41060,12 @@
   "38634": {
     "snapshot": {
       "price": 299,
-      "remain": 341,
+      "remain": 338,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -41115,12 +41115,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 324,
+          "remaining": 323,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 340,
+          "remaining": 338,
           "total": 400
         }
       ]
@@ -42620,6 +42620,31 @@
       "prizes": [
         {
           "name": "A賞代理版 戰鬥陀螺X BXH-14 戰神伏特s4-70v★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 49,
+          "total": 49
+        },
+        {
+          "name": "合計",
+          "remaining": 50,
+          "total": 50
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38793": {
+    "snapshot": {
+      "price": 360,
+      "remain": 50,
+      "total": 50,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
           "remaining": 1,
           "total": 1
         },
