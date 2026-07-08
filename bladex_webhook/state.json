@@ -41515,7 +41515,7 @@
   "38662": {
     "snapshot": {
       "price": 299,
-      "remain": 177,
+      "remain": 129,
       "total": 400,
       "prizes": [
         {
@@ -41525,7 +41525,7 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -41555,12 +41555,12 @@
         },
         {
           "name": "H賞 UX-19子彈獅鷲★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "I賞 CX-18腕龍鞭打★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -41570,12 +41570,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 168,
+          "remaining": 123,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 177,
+          "remaining": 129,
           "total": 400
         }
       ]
@@ -42300,7 +42300,7 @@
   "38771": {
     "snapshot": {
       "price": 299,
-      "remain": 385,
+      "remain": 384,
       "total": 400,
       "prizes": [
         {
@@ -42355,12 +42355,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 367,
+          "remaining": 366,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 385,
+          "remaining": 384,
           "total": 400
         }
       ]
@@ -42395,7 +42395,7 @@
   "38775": {
     "snapshot": {
       "price": 350,
-      "remain": 349,
+      "remain": 329,
       "total": 350,
       "prizes": [
         {
@@ -42405,7 +42405,7 @@
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42445,12 +42445,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 327,
+          "remaining": 308,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 349,
+          "remaining": 329,
           "total": 350
         }
       ]
