@@ -37570,7 +37570,7 @@
   "38342": {
     "snapshot": {
       "price": 399,
-      "remain": 195,
+      "remain": 193,
       "total": 250,
       "prizes": [
         {
@@ -41515,7 +41515,7 @@
   "38662": {
     "snapshot": {
       "price": 299,
-      "remain": 181,
+      "remain": 180,
       "total": 400,
       "prizes": [
         {
@@ -41570,12 +41570,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 172,
+          "remaining": 168,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 181,
+          "remaining": 177,
           "total": 400
         }
       ]
