@@ -34125,7 +34125,7 @@
   "38057": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -34135,12 +34135,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -41515,7 +41515,7 @@
   "38662": {
     "snapshot": {
       "price": 299,
-      "remain": 129,
+      "remain": 126,
       "total": 400,
       "prizes": [
         {
@@ -41570,12 +41570,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 123,
+          "remaining": 120,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 129,
+          "remaining": 126,
           "total": 400
         }
       ]
@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 200,
+      "remain": 193,
       "total": 200,
       "prizes": [
         {
@@ -42270,7 +42270,7 @@
         },
         {
           "name": "E賞 BX-34 蒼穹龍騎士 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 190,
+          "remaining": 184,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 193,
           "total": 200
         }
       ]
