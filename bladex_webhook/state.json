@@ -40865,12 +40865,12 @@
   "38631": {
     "snapshot": {
       "price": 299,
-      "remain": 277,
+      "remain": 257,
       "total": 300,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -40900,12 +40900,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 267,
+          "remaining": 248,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 277,
+          "remaining": 257,
           "total": 300
         }
       ]
@@ -41515,7 +41515,7 @@
   "38662": {
     "snapshot": {
       "price": 299,
-      "remain": 180,
+      "remain": 177,
       "total": 400,
       "prizes": [
         {
