@@ -42300,7 +42300,7 @@
   "38771": {
     "snapshot": {
       "price": 299,
-      "remain": 356,
+      "remain": 327,
       "total": 400,
       "prizes": [
         {
@@ -42320,7 +42320,7 @@
         },
         {
           "name": "D賞 UX-00日本武士軍刀★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -42355,12 +42355,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 340,
+          "remaining": 312,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 356,
+          "remaining": 327,
           "total": 400
         }
       ]
