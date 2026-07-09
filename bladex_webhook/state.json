@@ -42485,7 +42485,7 @@
   "38783": {
     "snapshot": {
       "price": 220,
-      "remain": 35,
+      "remain": 33,
       "total": 40,
       "prizes": [
         {
@@ -42495,12 +42495,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 34,
+          "remaining": 32,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 35,
+          "remaining": 33,
           "total": 40
         }
       ]
@@ -43017,6 +43017,56 @@
           "name": "合計",
           "remaining": 50,
           "total": 50
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38856": {
+    "snapshot": {
+      "price": 250,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38852": {
+    "snapshot": {
+      "price": 220,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
