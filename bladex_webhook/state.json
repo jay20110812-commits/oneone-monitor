@@ -39770,7 +39770,7 @@
   "38468": {
     "snapshot": {
       "price": 320,
-      "remain": 305,
+      "remain": 301,
       "total": 350,
       "prizes": [
         {
@@ -39815,12 +39815,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 292,
+          "remaining": 288,
           "total": 335
         },
         {
           "name": "合計",
-          "remaining": 305,
+          "remaining": 301,
           "total": 350
         }
       ]
@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 193,
+      "remain": 184,
       "total": 200,
       "prizes": [
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 184,
+          "remaining": 175,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 193,
+          "remaining": 184,
           "total": 200
         }
       ]
@@ -42300,12 +42300,12 @@
   "38771": {
     "snapshot": {
       "price": 299,
-      "remain": 201,
+      "remain": 152,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -42330,7 +42330,7 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42350,17 +42350,17 @@
         },
         {
           "name": "J賞 CX-00蒼龍翱翔★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 145,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 201,
+          "remaining": 152,
           "total": 400
         }
       ]
