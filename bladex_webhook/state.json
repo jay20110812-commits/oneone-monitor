@@ -39770,7 +39770,7 @@
   "38468": {
     "snapshot": {
       "price": 320,
-      "remain": 306,
+      "remain": 305,
       "total": 350,
       "prizes": [
         {
@@ -39815,12 +39815,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 293,
+          "remaining": 292,
           "total": 335
         },
         {
           "name": "合計",
-          "remaining": 306,
+          "remaining": 305,
           "total": 350
         }
       ]
@@ -40675,22 +40675,22 @@
   "38614": {
     "snapshot": {
       "price": 199,
-      "remain": 16,
+      "remain": 13,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 16,
+          "remaining": 13,
           "total": 20
         }
       ]
@@ -42890,22 +42890,22 @@
   "38812": {
     "snapshot": {
       "price": 150,
-      "remain": 10,
+      "remain": 3,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 CX-08 隨機強化組 vol.7(代理版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 9,
+          "remaining": 3,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 10,
+          "remaining": 3,
           "total": 20
         }
       ]
@@ -43000,22 +43000,22 @@
   "38818": {
     "snapshot": {
       "price": 380,
-      "remain": 50,
+      "remain": 15,
       "total": 50,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺X BXH-14戰神伏特s4-70v(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 49,
+          "remaining": 15,
           "total": 49
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 15,
           "total": 50
         }
       ]
