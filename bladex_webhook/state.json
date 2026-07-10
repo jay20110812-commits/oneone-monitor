@@ -42600,17 +42600,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 70,
+          "remaining": 69,
           "total": 70
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 79,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1783705206.9941654
   },
   "38792": {
     "snapshot": {
@@ -43360,7 +43360,7 @@
   "38883": {
     "snapshot": {
       "price": 280,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -43370,12 +43370,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
