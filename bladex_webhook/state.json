@@ -42560,7 +42560,7 @@
   "38786": {
     "snapshot": {
       "price": 340,
-      "remain": 72,
+      "remain": 67,
       "total": 80,
       "prizes": [
         {
@@ -42580,7 +42580,7 @@
         },
         {
           "name": "D賞 UX-01蒼龍爆刃★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42600,17 +42600,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 60,
+          "remaining": 58,
           "total": 70
         },
         {
           "name": "合計",
-          "remaining": 70,
+          "remaining": 67,
           "total": 80
         }
       ]
     },
-    "last_notified_at": 1783705910.5252101
+    "last_notified_at": 1783706614.2035387
   },
   "38792": {
     "snapshot": {
