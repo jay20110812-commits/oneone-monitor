@@ -41515,7 +41515,7 @@
   "38662": {
     "snapshot": {
       "price": 299,
-      "remain": 121,
+      "remain": 115,
       "total": 400,
       "prizes": [
         {
@@ -41570,12 +41570,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 116,
+          "remaining": 110,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 121,
+          "remaining": 115,
           "total": 400
         }
       ]
@@ -41785,7 +41785,7 @@
   "38688": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 37,
       "total": 40,
       "prizes": [
         {
@@ -41795,12 +41795,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 36,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 37,
           "total": 40
         }
       ]
@@ -42915,7 +42915,7 @@
   "38820": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 34,
       "total": 40,
       "prizes": [
         {
@@ -42925,12 +42925,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 33,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 34,
           "total": 40
         }
       ]
@@ -43125,7 +43125,7 @@
   "38864": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -43135,12 +43135,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -43175,7 +43175,7 @@
   "38871": {
     "snapshot": {
       "price": 220,
-      "remain": 40,
+      "remain": 29,
       "total": 40,
       "prizes": [
         {
@@ -43185,12 +43185,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 28,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 29,
           "total": 40
         }
       ]
@@ -43252,6 +43252,31 @@
           "name": "合計",
           "remaining": 314,
           "total": 314
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38877": {
+    "snapshot": {
+      "price": 190,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00獅王戰牙+switch遊戲片(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
         }
       ]
     },
