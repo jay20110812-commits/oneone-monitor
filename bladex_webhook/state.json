@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 180,
+      "remain": 165,
       "total": 200,
       "prizes": [
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 166,
+          "remaining": 157,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 174,
+          "remaining": 165,
           "total": 200
         }
       ]
