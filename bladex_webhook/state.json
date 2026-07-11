@@ -42095,7 +42095,7 @@
   "38735": {
     "snapshot": {
       "price": 280,
-      "remain": 200,
+      "remain": 199,
       "total": 200,
       "prizes": [
         {
@@ -42130,12 +42130,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 188,
+          "remaining": 187,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 199,
           "total": 200
         }
       ]
