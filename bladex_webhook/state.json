@@ -42395,7 +42395,7 @@
   "38775": {
     "snapshot": {
       "price": 350,
-      "remain": 286,
+      "remain": 258,
       "total": 350,
       "prizes": [
         {
@@ -42420,7 +42420,7 @@
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -42445,12 +42445,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 268,
+          "remaining": 241,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 286,
+          "remaining": 258,
           "total": 350
         }
       ]
