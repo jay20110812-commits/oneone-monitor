@@ -40700,7 +40700,7 @@
   "38619": {
     "snapshot": {
       "price": 199,
-      "remain": 27,
+      "remain": 26,
       "total": 30,
       "prizes": [
         {
@@ -40710,12 +40710,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 26,
+          "remaining": 25,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 26,
           "total": 30
         }
       ]
@@ -40865,7 +40865,7 @@
   "38631": {
     "snapshot": {
       "price": 299,
-      "remain": 223,
+      "remain": 180,
       "total": 300,
       "prizes": [
         {
@@ -40890,22 +40890,22 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 215,
+          "remaining": 174,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 223,
+          "remaining": 180,
           "total": 300
         }
       ]
@@ -42765,7 +42765,7 @@
   "38807": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -42775,12 +42775,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -43727,6 +43727,31 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38913": {
+    "snapshot": {
+      "price": 199,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X BX-50隨機強化包★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
