@@ -40865,7 +40865,7 @@
   "38631": {
     "snapshot": {
       "price": 299,
-      "remain": 163,
+      "remain": 79,
       "total": 300,
       "prizes": [
         {
@@ -40875,12 +40875,12 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "C賞 UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -40890,22 +40890,22 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 157,
+          "remaining": 77,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 163,
+          "remaining": 79,
           "total": 300
         }
       ]
@@ -42395,7 +42395,7 @@
   "38775": {
     "snapshot": {
       "price": 350,
-      "remain": 249,
+      "remain": 223,
       "total": 350,
       "prizes": [
         {
@@ -42410,7 +42410,7 @@
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42430,7 +42430,7 @@
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -42445,12 +42445,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 233,
+          "remaining": 209,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 249,
+          "remaining": 223,
           "total": 350
         }
       ]
