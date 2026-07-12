@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 156,
+      "remain": 154,
       "total": 200,
       "prizes": [
         {
@@ -42275,7 +42275,7 @@
         },
         {
           "name": "F賞 UX-19 子彈獅鷲 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 148,
+          "remaining": 147,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 156,
+          "remaining": 154,
           "total": 200
         }
       ]
