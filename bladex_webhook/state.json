@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 165,
+      "remain": 156,
       "total": 200,
       "prizes": [
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 157,
+          "remaining": 148,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 165,
+          "remaining": 156,
           "total": 200
         }
       ]
@@ -42395,12 +42395,12 @@
   "38775": {
     "snapshot": {
       "price": 350,
-      "remain": 223,
+      "remain": 218,
       "total": 350,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -42445,12 +42445,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 209,
+          "remaining": 205,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 223,
+          "remaining": 218,
           "total": 350
         }
       ]
@@ -43735,7 +43735,7 @@
   "38913": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -43745,12 +43745,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
