@@ -39720,22 +39720,22 @@
   "38535": {
     "snapshot": {
       "price": 290,
-      "remain": 21,
+      "remain": 8,
       "total": 30,
       "prizes": [
         {
           "name": "A賞日版 TTA 戰鬥陀螺 CX-16 極限衝擊對戰組C★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞不限IP一番賞小賞(隨機一款)",
-          "remaining": 20,
+          "remaining": 8,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 21,
+          "remaining": 8,
           "total": 30
         }
       ]
@@ -43200,7 +43200,7 @@
   "38872": {
     "snapshot": {
       "price": 350,
-      "remain": 265,
+      "remain": 251,
       "total": 314,
       "prizes": [
         {
@@ -43230,7 +43230,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -43245,12 +43245,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 252,
+          "remaining": 239,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 265,
+          "remaining": 251,
           "total": 314
         }
       ]
