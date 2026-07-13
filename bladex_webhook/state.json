@@ -39120,7 +39120,7 @@
   "38489": {
     "snapshot": {
       "price": 300,
-      "remain": 159,
+      "remain": 152,
       "total": 160,
       "prizes": [
         {
@@ -39175,7 +39175,7 @@
         }
       ]
     },
-    "last_notified_at": 1783916637.5202556
+    "last_notified_at": 1783917335.229026
   },
   "38496": {
     "snapshot": {
@@ -43200,7 +43200,7 @@
   "38872": {
     "snapshot": {
       "price": 350,
-      "remain": 251,
+      "remain": 238,
       "total": 314,
       "prizes": [
         {
@@ -43220,7 +43220,7 @@
         },
         {
           "name": "D賞 BX-34 蒼穹龍騎士★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -43245,12 +43245,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 239,
+          "remaining": 227,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 251,
+          "remaining": 238,
           "total": 314
         }
       ]
