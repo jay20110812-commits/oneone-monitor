@@ -39135,7 +39135,7 @@
         },
         {
           "name": "B賞 戰鬥陀螺X BX-37 雙重極限衝擊戰鬥盤 豪華組 ★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -39165,17 +39165,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 137,
+          "remaining": 131,
           "total": 138
         },
         {
           "name": "合計",
-          "remaining": 159,
+          "remaining": 152,
           "total": 160
         }
       ]
     },
-    "last_notified_at": 1783728445.9372935
+    "last_notified_at": 1783916637.5202556
   },
   "38496": {
     "snapshot": {
@@ -43885,7 +43885,7 @@
   "38920": {
     "snapshot": {
       "price": 350,
-      "remain": 290,
+      "remain": 286,
       "total": 300,
       "prizes": [
         {
@@ -43920,12 +43920,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 279,
+          "remaining": 275,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 290,
+          "remaining": 286,
           "total": 300
         }
       ]
@@ -44160,7 +44160,7 @@
   "38943": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 36,
       "total": 40,
       "prizes": [
         {
@@ -44170,12 +44170,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 35,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 36,
           "total": 40
         }
       ]
