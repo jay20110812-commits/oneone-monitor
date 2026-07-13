@@ -42245,7 +42245,7 @@
   "38769": {
     "snapshot": {
       "price": 299,
-      "remain": 153,
+      "remain": 122,
       "total": 200,
       "prizes": [
         {
@@ -42265,7 +42265,7 @@
         },
         {
           "name": "D賞 CX-18 腕龍鞭打 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -42285,12 +42285,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 146,
+          "remaining": 116,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 153,
+          "remaining": 122,
           "total": 200
         }
       ]
@@ -42940,7 +42940,7 @@
   "38829": {
     "snapshot": {
       "price": 299,
-      "remain": 299,
+      "remain": 296,
       "total": 300,
       "prizes": [
         {
@@ -42985,12 +42985,12 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 285,
+          "remaining": 282,
           "total": 286
         },
         {
           "name": "合計",
-          "remaining": 299,
+          "remaining": 296,
           "total": 300
         }
       ]
@@ -43150,7 +43150,7 @@
   "38865": {
     "snapshot": {
       "price": 260,
-      "remain": 28,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -43200,7 +43200,7 @@
   "38872": {
     "snapshot": {
       "price": 350,
-      "remain": 238,
+      "remain": 219,
       "total": 314,
       "prizes": [
         {
@@ -43210,7 +43210,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -43245,12 +43245,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 227,
+          "remaining": 209,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 238,
+          "remaining": 219,
           "total": 314
         }
       ]
@@ -43485,7 +43485,7 @@
   "38893": {
     "snapshot": {
       "price": 199,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -43495,12 +43495,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -43735,7 +43735,7 @@
   "38913": {
     "snapshot": {
       "price": 199,
-      "remain": 29,
+      "remain": 23,
       "total": 30,
       "prizes": [
         {
@@ -43745,12 +43745,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 22,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 23,
           "total": 30
         }
       ]
@@ -43885,7 +43885,7 @@
   "38920": {
     "snapshot": {
       "price": 350,
-      "remain": 286,
+      "remain": 285,
       "total": 300,
       "prizes": [
         {
@@ -43895,7 +43895,7 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -43925,7 +43925,7 @@
         },
         {
           "name": "合計",
-          "remaining": 286,
+          "remaining": 285,
           "total": 300
         }
       ]
@@ -44160,7 +44160,32 @@
   "38943": {
     "snapshot": {
       "price": 250,
-      "remain": 36,
+      "remain": 10,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 10,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 10,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "38950": {
+    "snapshot": {
+      "price": 250,
+      "remain": 40,
       "total": 40,
       "prizes": [
         {
@@ -44170,12 +44195,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 39,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 36,
+          "remaining": 40,
           "total": 40
         }
       ]
