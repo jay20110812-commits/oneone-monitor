@@ -39770,12 +39770,12 @@
   "38468": {
     "snapshot": {
       "price": 320,
-      "remain": 262,
+      "remain": 128,
       "total": 350,
       "prizes": [
         {
           "name": "A賞 UX-00飛龍翱翔★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -39790,7 +39790,7 @@
         },
         {
           "name": "D賞 CX-00蒼龍翱翔★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -39800,27 +39800,27 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 251,
+          "remaining": 124,
           "total": 335
         },
         {
           "name": "合計",
-          "remaining": 262,
+          "remaining": 128,
           "total": 350
         }
       ]
@@ -43885,7 +43885,7 @@
   "38920": {
     "snapshot": {
       "price": 350,
-      "remain": 282,
+      "remain": 277,
       "total": 300,
       "prizes": [
         {
@@ -43920,12 +43920,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 272,
+          "remaining": 267,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 282,
+          "remaining": 277,
           "total": 300
         }
       ]
