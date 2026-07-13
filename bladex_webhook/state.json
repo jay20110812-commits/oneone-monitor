@@ -43200,7 +43200,7 @@
   "38872": {
     "snapshot": {
       "price": 350,
-      "remain": 209,
+      "remain": 207,
       "total": 314,
       "prizes": [
         {
@@ -43245,12 +43245,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 199,
+          "remaining": 197,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 209,
+          "remaining": 207,
           "total": 314
         }
       ]
@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 350,
+      "remain": 349,
       "total": 350,
       "prizes": [
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 328,
+          "remaining": 327,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 350,
+          "remaining": 349,
           "total": 350
         }
       ]
