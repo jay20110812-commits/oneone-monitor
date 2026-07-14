@@ -44850,22 +44850,22 @@
   "39001": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 3,
       "total": 40,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-20 榮耀女武神LF★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 3,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 3,
           "total": 40
         }
       ]
@@ -45122,6 +45122,71 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39036": {
+    "snapshot": {
+      "price": 350,
+      "remain": 120,
+      "total": 120,
+      "prizes": [
+        {
+          "name": "A賞 UX-20 女武神 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-00蒼龍翱翔S6-60V 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-01 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 BX-50 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 CX-07 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 CX-10 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 UX-08 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "H賞 BX-37 電動盤 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "I賞 絨毛吊飾 不限IP隨機一款",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "J賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
+          "remaining": 107,
+          "total": 107
+        },
+        {
+          "name": "合計",
+          "remaining": 120,
+          "total": 120
         }
       ]
     },
