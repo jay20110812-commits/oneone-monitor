@@ -44595,7 +44595,7 @@
   "38980": {
     "snapshot": {
       "price": 220,
-      "remain": 40,
+      "remain": 30,
       "total": 40,
       "prizes": [
         {
@@ -44605,12 +44605,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 29,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 30,
           "total": 40
         }
       ]
