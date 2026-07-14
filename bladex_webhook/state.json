@@ -43935,7 +43935,7 @@
   "38926": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 38,
       "total": 40,
       "prizes": [
         {
@@ -43945,12 +43945,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 37,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 38,
           "total": 40
         }
       ]
@@ -44595,22 +44595,22 @@
   "38980": {
     "snapshot": {
       "price": 220,
-      "remain": 30,
+      "remain": 7,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 7,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 7,
           "total": 40
         }
       ]
