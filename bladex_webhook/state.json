@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 358,
+      "remain": 356,
       "total": 400,
       "prizes": [
         {
@@ -44290,12 +44290,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 341,
+          "remaining": 339,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 358,
+          "remaining": 356,
           "total": 400
         }
       ]
@@ -45047,6 +45047,31 @@
           "name": "合計",
           "remaining": 300,
           "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39028": {
+    "snapshot": {
+      "price": 199,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 韓版BX-21惡魔鎖鏈改造組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
