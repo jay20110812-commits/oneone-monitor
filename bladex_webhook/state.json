@@ -38570,7 +38570,7 @@
   "38408": {
     "snapshot": {
       "price": 350,
-      "remain": 92,
+      "remain": 86,
       "total": 150,
       "prizes": [
         {
@@ -38615,7 +38615,7 @@
         },
         {
           "name": "H賞 隨機IP扭蛋或盲盒(隨機一款)",
-          "remaining": 15,
+          "remaining": 12,
           "total": 20
         },
         {
@@ -38625,17 +38625,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 54,
+          "remaining": 51,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 92,
+          "remaining": 86,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1783954492.556155
+    "last_notified_at": 1784050563.1750228
   },
   "38407": {
     "snapshot": {
