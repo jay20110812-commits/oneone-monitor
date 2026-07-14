@@ -44545,22 +44545,22 @@
   "38982": {
     "snapshot": {
       "price": 280,
-      "remain": 28,
+      "remain": 10,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 10,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 10,
           "total": 30
         }
       ]
