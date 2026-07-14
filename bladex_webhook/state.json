@@ -42095,7 +42095,7 @@
   "38735": {
     "snapshot": {
       "price": 280,
-      "remain": 196,
+      "remain": 194,
       "total": 200,
       "prizes": [
         {
@@ -42110,7 +42110,7 @@
         },
         {
           "name": "C賞 UX-01 蒼龍爆刃 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -42130,12 +42130,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 184,
+          "remaining": 183,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 194,
           "total": 200
         }
       ]
@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 362,
+      "remain": 358,
       "total": 400,
       "prizes": [
         {
@@ -44290,12 +44290,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 345,
+          "remaining": 341,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 362,
+          "remaining": 358,
           "total": 400
         }
       ]
