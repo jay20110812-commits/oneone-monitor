@@ -43885,12 +43885,12 @@
   "38920": {
     "snapshot": {
       "price": 350,
-      "remain": 199,
+      "remain": 94,
       "total": 300,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -43900,12 +43900,12 @@
         },
         {
           "name": "C賞 UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 CX-11帝王威能★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -43915,17 +43915,17 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 192,
+          "remaining": 91,
           "total": 289
         },
         {
           "name": "合計",
-          "remaining": 199,
+          "remaining": 94,
           "total": 300
         }
       ]
@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 349,
+      "remain": 340,
       "total": 350,
       "prizes": [
         {
@@ -44335,7 +44335,7 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 327,
+          "remaining": 319,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 349,
+          "remaining": 340,
           "total": 350
         }
       ]
@@ -44670,7 +44670,7 @@
   "38983": {
     "snapshot": {
       "price": 299,
-      "remain": 200,
+      "remain": 199,
       "total": 200,
       "prizes": [
         {
@@ -44710,12 +44710,12 @@
         },
         {
           "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 190,
+          "remaining": 189,
           "total": 190
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 199,
           "total": 200
         }
       ]
@@ -45470,22 +45470,22 @@
   "39046": {
     "snapshot": {
       "price": 250,
-      "remain": 31,
+      "remain": 8,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 30,
+          "remaining": 8,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 31,
+          "remaining": 8,
           "total": 40
         }
       ]
