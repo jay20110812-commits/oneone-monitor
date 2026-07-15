@@ -38570,7 +38570,7 @@
   "38408": {
     "snapshot": {
       "price": 350,
-      "remain": 86,
+      "remain": 83,
       "total": 150,
       "prizes": [
         {
@@ -38600,7 +38600,7 @@
         },
         {
           "name": "E賞 戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38610,7 +38610,7 @@
         },
         {
           "name": "G賞 戰鬥陀螺X(隨機一款)☆",
-          "remaining": 6,
+          "remaining": 5,
           "total": 8
         },
         {
@@ -38625,17 +38625,17 @@
         },
         {
           "name": "J賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 51,
+          "remaining": 50,
           "total": 92
         },
         {
           "name": "合計",
-          "remaining": 86,
+          "remaining": 83,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1784050563.1750228
+    "last_notified_at": 1784133613.5965576
   },
   "38407": {
     "snapshot": {
@@ -42560,7 +42560,7 @@
   "38786": {
     "snapshot": {
       "price": 340,
-      "remain": 67,
+      "remain": 64,
       "total": 80,
       "prizes": [
         {
@@ -42610,7 +42610,7 @@
         }
       ]
     },
-    "last_notified_at": 1784132911.1819458
+    "last_notified_at": 1784133612.2112477
   },
   "38792": {
     "snapshot": {
@@ -45957,6 +45957,31 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39087": {
+    "snapshot": {
+      "price": 199,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 韓版BX-21惡魔鎖鏈改造組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
