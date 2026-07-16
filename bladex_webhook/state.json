@@ -45680,7 +45680,7 @@
   "39058": {
     "snapshot": {
       "price": 250,
-      "remain": 80,
+      "remain": 79,
       "total": 80,
       "prizes": [
         {
@@ -45700,12 +45700,12 @@
         },
         {
           "name": "D賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 77,
+          "remaining": 76,
           "total": 77
         },
         {
           "name": "合計",
-          "remaining": 80,
+          "remaining": 79,
           "total": 80
         }
       ]
