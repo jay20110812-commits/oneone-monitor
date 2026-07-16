@@ -45630,22 +45630,22 @@
   "39056": {
     "snapshot": {
       "price": 4900,
-      "remain": 40,
+      "remain": 30,
       "total": 40,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺 黃金神杖整顆(拆袋全新未下場)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 28,
           "total": 37
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 30,
           "total": 40
         }
       ]
@@ -46065,7 +46065,7 @@
   "39097": {
     "snapshot": {
       "price": 200,
-      "remain": 30,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -46075,12 +46075,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 29,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 28,
           "total": 30
         }
       ]
