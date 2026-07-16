@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 338,
+      "remain": 335,
       "total": 350,
       "prizes": [
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 317,
+          "remaining": 314,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 338,
+          "remaining": 335,
           "total": 350
         }
       ]
@@ -45130,7 +45130,7 @@
   "39036": {
     "snapshot": {
       "price": 350,
-      "remain": 120,
+      "remain": 105,
       "total": 120,
       "prizes": [
         {
@@ -45145,7 +45145,7 @@
         },
         {
           "name": "C賞 UX-01 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -45175,22 +45175,22 @@
         },
         {
           "name": "I賞 絨毛吊飾 不限IP隨機一款",
-          "remaining": 5,
+          "remaining": 4,
           "total": 5
         },
         {
           "name": "J賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 107,
+          "remaining": 94,
           "total": 107
         },
         {
           "name": "合計",
-          "remaining": 120,
+          "remaining": 105,
           "total": 120
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1784172757.9125907
   },
   "39037": {
     "snapshot": {
@@ -45715,7 +45715,7 @@
   "39059": {
     "snapshot": {
       "price": 250,
-      "remain": 38,
+      "remain": 33,
       "total": 40,
       "prizes": [
         {
@@ -45725,12 +45725,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 32,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 38,
+          "remaining": 33,
           "total": 40
         }
       ]
