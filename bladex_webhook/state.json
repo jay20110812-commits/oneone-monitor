@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 289,
+      "remain": 279,
       "total": 350,
       "prizes": [
         {
@@ -44315,7 +44315,7 @@
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 271,
+          "remaining": 262,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 289,
+          "remaining": 279,
           "total": 350
         }
       ]
