@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 249,
+      "remain": 224,
       "total": 350,
       "prizes": [
         {
@@ -44320,7 +44320,7 @@
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -44350,17 +44350,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 233,
+          "remaining": 210,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 249,
+          "remaining": 224,
           "total": 350
         }
       ]
