@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 231,
+      "remain": 228,
       "total": 400,
       "prizes": [
         {
@@ -44290,12 +44290,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 221,
+          "remaining": 218,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 231,
+          "remaining": 228,
           "total": 400
         }
       ]
