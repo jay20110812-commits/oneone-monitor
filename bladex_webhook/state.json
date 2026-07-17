@@ -41390,7 +41390,7 @@
   "38650": {
     "snapshot": {
       "price": 350,
-      "remain": 40,
+      "remain": 39,
       "total": 40,
       "prizes": [
         {
@@ -41400,12 +41400,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 38,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 39,
           "total": 40
         }
       ]
@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 265,
+      "remain": 257,
       "total": 350,
       "prizes": [
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 249,
+          "remaining": 241,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 265,
+          "remaining": 257,
           "total": 350
         }
       ]
@@ -45030,22 +45030,22 @@
   "39025": {
     "snapshot": {
       "price": 299,
-      "remain": 288,
+      "remain": 264,
       "total": 300,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-20 榮耀女武神LF ★",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
           "name": "B賞 隨機小賞",
-          "remaining": 279,
+          "remaining": 256,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 288,
+          "remaining": 264,
           "total": 300
         }
       ]
@@ -46401,6 +46401,31 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39176": {
+    "snapshot": {
+      "price": 199,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X UX-09 武士星劍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
