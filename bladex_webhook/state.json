@@ -43200,7 +43200,7 @@
   "38872": {
     "snapshot": {
       "price": 350,
-      "remain": 163,
+      "remain": 161,
       "total": 314,
       "prizes": [
         {
@@ -43225,7 +43225,7 @@
         },
         {
           "name": "E賞 UX-03魔導神杖★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -43245,12 +43245,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 156,
+          "remaining": 155,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 163,
+          "remaining": 161,
           "total": 314
         }
       ]
@@ -44305,32 +44305,32 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 196,
+      "remain": 85,
       "total": 350,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "C賞 BX-49 蒼龍突擊 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -44340,27 +44340,27 @@
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 2,
-          "total": 3
-        },
-        {
-          "name": "H賞 BX-31隨機強化組 Vol.03★",
           "remaining": 1,
           "total": 3
         },
         {
+          "name": "H賞 BX-31隨機強化組 Vol.03★",
+          "remaining": 0,
+          "total": 3
+        },
+        {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 184,
+          "remaining": 82,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 85,
           "total": 350
         }
       ]
