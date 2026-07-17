@@ -45130,7 +45130,7 @@
   "39036": {
     "snapshot": {
       "price": 350,
-      "remain": 91,
+      "remain": 86,
       "total": 120,
       "prizes": [
         {
@@ -45155,7 +45155,7 @@
         },
         {
           "name": "E賞 CX-07 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -45180,12 +45180,12 @@
         },
         {
           "name": "J賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 82,
+          "remaining": 78,
           "total": 107
         },
         {
           "name": "合計",
-          "remaining": 91,
+          "remaining": 86,
           "total": 120
         }
       ]
