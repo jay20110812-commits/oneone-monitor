@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 243,
+      "remain": 237,
       "total": 400,
       "prizes": [
         {
@@ -44290,12 +44290,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 232,
+          "remaining": 226,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 243,
+          "remaining": 237,
           "total": 400
         }
       ]
@@ -44305,7 +44305,7 @@
   "38968": {
     "snapshot": {
       "price": 350,
-      "remain": 224,
+      "remain": 216,
       "total": 350,
       "prizes": [
         {
@@ -44330,7 +44330,7 @@
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -44355,12 +44355,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 210,
+          "remaining": 203,
           "total": 328
         },
         {
           "name": "合計",
-          "remaining": 224,
+          "remaining": 216,
           "total": 350
         }
       ]
