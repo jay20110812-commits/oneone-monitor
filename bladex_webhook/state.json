@@ -46074,7 +46074,7 @@
   "39095": {
     "snapshot": {
       "price": 280,
-      "remain": 150,
+      "remain": 142,
       "total": 200,
       "prizes": [
         {
@@ -46094,7 +46094,7 @@
         },
         {
           "name": "D賞 BX-49 蒼龍突擊 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46109,12 +46109,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 141,
+          "remaining": 134,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 142,
           "total": 200
         }
       ]
