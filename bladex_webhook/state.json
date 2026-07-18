@@ -42940,7 +42940,7 @@
   "38829": {
     "snapshot": {
       "price": 299,
-      "remain": 259,
+      "remain": 258,
       "total": 300,
       "prizes": [
         {
@@ -42985,12 +42985,12 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 247,
+          "remaining": 246,
           "total": 286
         },
         {
           "name": "合計",
-          "remaining": 259,
+          "remaining": 258,
           "total": 300
         }
       ]
