@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 220,
+      "remain": 219,
       "total": 400,
       "prizes": [
         {
@@ -44245,7 +44245,7 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -44295,7 +44295,7 @@
         },
         {
           "name": "合計",
-          "remaining": 220,
+          "remaining": 219,
           "total": 400
         }
       ]
