@@ -42940,7 +42940,7 @@
   "38829": {
     "snapshot": {
       "price": 299,
-      "remain": 272,
+      "remain": 259,
       "total": 300,
       "prizes": [
         {
@@ -42950,7 +42950,7 @@
         },
         {
           "name": "B賞 涉谷限定-藍色爆刃★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -42985,12 +42985,12 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 259,
+          "remaining": 247,
           "total": 286
         },
         {
           "name": "合計",
-          "remaining": 272,
+          "remaining": 259,
           "total": 300
         }
       ]
