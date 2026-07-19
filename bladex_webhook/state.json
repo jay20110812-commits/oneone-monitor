@@ -46074,12 +46074,12 @@
   "39095": {
     "snapshot": {
       "price": 280,
-      "remain": 117,
+      "remain": 110,
       "total": 200,
       "prizes": [
         {
           "name": "A賞 UX-15 絞鯊狂鱗改造組 (不限版本)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46109,12 +46109,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 111,
+          "remaining": 105,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 117,
+          "remaining": 110,
           "total": 200
         }
       ]
