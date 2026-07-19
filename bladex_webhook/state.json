@@ -45030,7 +45030,7 @@
   "39025": {
     "snapshot": {
       "price": 299,
-      "remain": 261,
+      "remain": 257,
       "total": 300,
       "prizes": [
         {
@@ -45040,12 +45040,12 @@
         },
         {
           "name": "B賞 隨機小賞",
-          "remaining": 253,
+          "remaining": 249,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 261,
+          "remaining": 257,
           "total": 300
         }
       ]
