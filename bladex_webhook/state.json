@@ -42940,7 +42940,7 @@
   "38829": {
     "snapshot": {
       "price": 299,
-      "remain": 258,
+      "remain": 243,
       "total": 300,
       "prizes": [
         {
@@ -42960,7 +42960,7 @@
         },
         {
           "name": "D賞 CX-00黑金蒼龍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -42985,12 +42985,12 @@
         },
         {
           "name": "I賞 隨機IP一番賞小賞",
-          "remaining": 246,
+          "remaining": 232,
           "total": 286
         },
         {
           "name": "合計",
-          "remaining": 258,
+          "remaining": 243,
           "total": 300
         }
       ]
