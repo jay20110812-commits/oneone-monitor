@@ -45030,22 +45030,22 @@
   "39025": {
     "snapshot": {
       "price": 299,
-      "remain": 257,
+      "remain": 228,
       "total": 300,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-20 榮耀女武神LF ★",
-          "remaining": 8,
+          "remaining": 7,
           "total": 9
         },
         {
           "name": "B賞 隨機小賞",
-          "remaining": 249,
+          "remaining": 221,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 257,
+          "remaining": 228,
           "total": 300
         }
       ]
