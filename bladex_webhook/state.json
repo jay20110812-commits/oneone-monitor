@@ -44995,7 +44995,7 @@
   "39027": {
     "snapshot": {
       "price": 250,
-      "remain": 76,
+      "remain": 72,
       "total": 80,
       "prizes": [
         {
@@ -45010,17 +45010,17 @@
         },
         {
           "name": "C賞 BX-50 天堂圓環(隨機強化組 Vol.11)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 73,
+          "remaining": 70,
           "total": 77
         },
         {
           "name": "合計",
-          "remaining": 76,
+          "remaining": 72,
           "total": 80
         }
       ]
