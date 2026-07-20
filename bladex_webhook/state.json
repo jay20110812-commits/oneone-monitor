@@ -46779,22 +46779,22 @@
   "39273": {
     "snapshot": {
       "price": 160,
-      "remain": 15,
+      "remain": 13,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 14,
+          "remaining": 13,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 13,
           "total": 20
         }
       ]
