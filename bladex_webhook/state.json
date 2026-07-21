@@ -46739,17 +46739,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 133,
+          "remaining": 123,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 140,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1784593037.7760167
   },
   "39274": {
     "snapshot": {
