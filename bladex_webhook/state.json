@@ -44995,17 +44995,17 @@
   "39027": {
     "snapshot": {
       "price": 199,
-      "remain": 56,
+      "remain": 17,
       "total": 80,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-20 榮耀女武神LF★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 BXG-47 暴風天馬 3-70RA★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -45015,12 +45015,12 @@
         },
         {
           "name": "D賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 54,
+          "remaining": 17,
           "total": 77
         },
         {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 17,
           "total": 80
         }
       ]
