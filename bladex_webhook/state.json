@@ -46694,7 +46694,7 @@
   "39259": {
     "snapshot": {
       "price": 280,
-      "remain": 150,
+      "remain": 122,
       "total": 150,
       "prizes": [
         {
@@ -46704,7 +46704,7 @@
         },
         {
           "name": "A賞 UX-20 榮耀女武神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -46729,7 +46729,7 @@
         },
         {
           "name": "F賞 CX-05隨機強化組★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -46739,17 +46739,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 123,
+          "remaining": 107,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 140,
+          "remaining": 122,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1784593037.7760167
+    "last_notified_at": 1784593755.0444806
   },
   "39274": {
     "snapshot": {
