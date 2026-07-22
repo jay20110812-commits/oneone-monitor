@@ -47314,7 +47314,7 @@
   "39344": {
     "snapshot": {
       "price": 350,
-      "remain": 364,
+      "remain": 363,
       "total": 400,
       "prizes": [
         {
@@ -47364,12 +47364,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 344,
+          "remaining": 343,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 364,
+          "remaining": 363,
           "total": 400
         }
       ]
@@ -47546,6 +47546,41 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39366": {
+    "snapshot": {
+      "price": 199,
+      "remain": 80,
+      "total": 80,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 BXG-47 暴風天馬 3-70RA★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 BX-50 天堂圓環(隨機強化組 Vol.11)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 77,
+          "total": 77
+        },
+        {
+          "name": "合計",
+          "remaining": 80,
+          "total": 80
         }
       ]
     },
