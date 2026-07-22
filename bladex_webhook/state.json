@@ -41735,22 +41735,22 @@
   "38696": {
     "snapshot": {
       "price": 300,
-      "remain": 24,
+      "remain": 11,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X 日版BX-00 4-60F 蒼穹龍神 透明★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 23,
+          "remaining": 11,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 24,
+          "remaining": 11,
           "total": 40
         }
       ]
