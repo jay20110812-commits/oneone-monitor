@@ -44235,7 +44235,7 @@
   "38970": {
     "snapshot": {
       "price": 299,
-      "remain": 206,
+      "remain": 200,
       "total": 400,
       "prizes": [
         {
@@ -44250,7 +44250,7 @@
         },
         {
           "name": "C賞 UX-03魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -44290,12 +44290,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 197,
+          "remaining": 192,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 206,
+          "remaining": 200,
           "total": 400
         }
       ]
