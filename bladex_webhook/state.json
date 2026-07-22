@@ -46979,7 +46979,7 @@
   "39314": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 32,
       "total": 40,
       "prizes": [
         {
@@ -46989,12 +46989,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 31,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 32,
           "total": 40
         }
       ]
@@ -47029,7 +47029,7 @@
   "39319": {
     "snapshot": {
       "price": 199,
-      "remain": 75,
+      "remain": 70,
       "total": 80,
       "prizes": [
         {
@@ -47049,12 +47049,12 @@
         },
         {
           "name": "D賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 72,
+          "remaining": 67,
           "total": 77
         },
         {
           "name": "合計",
-          "remaining": 75,
+          "remaining": 70,
           "total": 80
         }
       ]
@@ -47144,6 +47144,106 @@
       "prizes": [
         {
           "name": "A賞 韓版BX-21惡魔鎖鏈改造組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39336": {
+    "snapshot": {
+      "price": 160,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39335": {
+    "snapshot": {
+      "price": 260,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X BX-37雙重極限衝擊戰鬥盤-豪華版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39338": {
+    "snapshot": {
+      "price": 160,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 UX-19 子彈獅鷲(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39337": {
+    "snapshot": {
+      "price": 170,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-13 龍王閃擊(不限版本)★",
           "remaining": 1,
           "total": 1
         },
