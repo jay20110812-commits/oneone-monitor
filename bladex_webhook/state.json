@@ -43860,7 +43860,7 @@
   "38917": {
     "snapshot": {
       "price": 150,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -43870,12 +43870,12 @@
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -46074,7 +46074,7 @@
   "39095": {
     "snapshot": {
       "price": 280,
-      "remain": 110,
+      "remain": 109,
       "total": 200,
       "prizes": [
         {
@@ -46109,12 +46109,12 @@
         },
         {
           "name": "G賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 105,
+          "remaining": 104,
           "total": 188
         },
         {
           "name": "合計",
-          "remaining": 110,
+          "remaining": 109,
           "total": 200
         }
       ]
@@ -46334,22 +46334,22 @@
   "39146": {
     "snapshot": {
       "price": 170,
-      "remain": 15,
+      "remain": 3,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-13 龍王閃擊(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 14,
+          "remaining": 3,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 3,
           "total": 20
         }
       ]
