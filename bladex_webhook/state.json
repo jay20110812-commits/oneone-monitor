@@ -40155,7 +40155,7 @@
   "38577": {
     "snapshot": {
       "price": 350,
-      "remain": 232,
+      "remain": 223,
       "total": 314,
       "prizes": [
         {
@@ -40200,12 +40200,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 222,
+          "remaining": 213,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 232,
+          "remaining": 223,
           "total": 314
         }
       ]
@@ -43960,7 +43960,7 @@
   "38925": {
     "snapshot": {
       "price": 200,
-      "remain": 40,
+      "remain": 38,
       "total": 40,
       "prizes": [
         {
@@ -43970,12 +43970,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 37,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 38,
           "total": 40
         }
       ]
