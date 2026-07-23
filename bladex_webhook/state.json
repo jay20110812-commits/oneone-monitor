@@ -45130,17 +45130,17 @@
   "39036": {
     "snapshot": {
       "price": 350,
-      "remain": 81,
+      "remain": 26,
       "total": 120,
       "prizes": [
         {
           "name": "A賞 UX-20 女武神 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 CX-00蒼龍翱翔S6-60V 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -45170,27 +45170,27 @@
         },
         {
           "name": "H賞 BX-37 電動盤 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 絨毛吊飾 不限IP隨機一款",
-          "remaining": 2,
+          "remaining": 1,
           "total": 5
         },
         {
           "name": "J賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 74,
+          "remaining": 23,
           "total": 107
         },
         {
           "name": "合計",
-          "remaining": 81,
+          "remaining": 26,
           "total": 120
         }
       ]
     },
-    "last_notified_at": 1784172757.9125907
+    "last_notified_at": 1784830635.75788
   },
   "39037": {
     "snapshot": {
