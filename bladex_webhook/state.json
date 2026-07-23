@@ -47804,12 +47804,12 @@
   "39389": {
     "snapshot": {
       "price": 299,
-      "remain": 375,
+      "remain": 332,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -47824,7 +47824,7 @@
         },
         {
           "name": "D賞 UX-00日本武士軍刀★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -47854,17 +47854,17 @@
         },
         {
           "name": "J賞 BX-50×天堂圓環★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 357,
+          "remaining": 317,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 375,
+          "remaining": 332,
           "total": 400
         }
       ]
