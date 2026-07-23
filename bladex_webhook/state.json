@@ -48205,5 +48205,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "39399": {
+    "snapshot": {
+      "price": 199,
+      "remain": 10,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00天蠍長矛★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 10,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 10,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
