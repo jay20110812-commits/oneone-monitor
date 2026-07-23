@@ -45105,22 +45105,22 @@
   "39035": {
     "snapshot": {
       "price": 270,
-      "remain": 30,
+      "remain": 19,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 19,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 19,
           "total": 30
         }
       ]
@@ -46309,7 +46309,7 @@
   "39150": {
     "snapshot": {
       "price": 150,
-      "remain": 19,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -46319,12 +46319,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 350,
-      "remain": 353,
+      "remain": 322,
       "total": 398,
       "prizes": [
         {
@@ -46519,7 +46519,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 341,
+          "remaining": 311,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 353,
+          "remaining": 322,
           "total": 398
         }
       ]
@@ -47314,22 +47314,22 @@
   "39344": {
     "snapshot": {
       "price": 350,
-      "remain": 351,
+      "remain": 130,
       "total": 400,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -47339,37 +47339,37 @@
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 3,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
-          "total": 3
-        },
-        {
-          "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 3,
-          "total": 3
-        },
-        {
-          "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 3,
-          "total": 3
-        },
-        {
-          "name": "H賞 BX-31隨機強化組 Vol.03★",
           "remaining": 2,
           "total": 3
         },
         {
+          "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
+          "remaining": 1,
+          "total": 3
+        },
+        {
+          "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
+          "remaining": 1,
+          "total": 3
+        },
+        {
+          "name": "H賞 BX-31隨機強化組 Vol.03★",
+          "remaining": 1,
+          "total": 3
+        },
+        {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 332,
+          "remaining": 124,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 351,
+          "remaining": 130,
           "total": 400
         }
       ]
@@ -47701,6 +47701,31 @@
           "name": "合計",
           "remaining": 400,
           "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39376": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 不限版本 CX-07 天馬爆擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
