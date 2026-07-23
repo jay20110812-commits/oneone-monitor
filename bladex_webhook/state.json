@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 350,
-      "remain": 319,
+      "remain": 314,
       "total": 398,
       "prizes": [
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 308,
+          "remaining": 303,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 319,
+          "remaining": 314,
           "total": 398
         }
       ]
@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 396,
+      "remain": 395,
       "total": 400,
       "prizes": [
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 374,
+          "remaining": 373,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 396,
+          "remaining": 395,
           "total": 400
         }
       ]
@@ -48159,22 +48159,22 @@
   "39402": {
     "snapshot": {
       "price": 160,
-      "remain": 19,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 7,
           "total": 20
         }
       ]
