@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 350,
-      "remain": 371,
+      "remain": 353,
       "total": 398,
       "prizes": [
         {
@@ -46524,7 +46524,7 @@
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 348,
+          "remaining": 341,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 361,
+          "remaining": 353,
           "total": 398
         }
       ]
