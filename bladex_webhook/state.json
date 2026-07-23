@@ -45580,22 +45580,22 @@
   "39051": {
     "snapshot": {
       "price": 199,
-      "remain": 27,
+      "remain": 7,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 【代理版】戰鬥陀螺X BX-50隨機強化包★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 26,
+          "remaining": 7,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 7,
           "total": 30
         }
       ]
