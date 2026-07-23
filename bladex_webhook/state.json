@@ -40155,7 +40155,7 @@
   "38577": {
     "snapshot": {
       "price": 350,
-      "remain": 185,
+      "remain": 176,
       "total": 314,
       "prizes": [
         {
@@ -40195,17 +40195,17 @@
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 177,
+          "remaining": 169,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 185,
+          "remaining": 176,
           "total": 314
         }
       ]
@@ -47804,7 +47804,7 @@
   "39389": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 375,
       "total": 400,
       "prizes": [
         {
@@ -47819,7 +47819,7 @@
         },
         {
           "name": "C賞 UX-03魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -47859,12 +47859,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 381,
+          "remaining": 357,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 375,
           "total": 400
         }
       ]
