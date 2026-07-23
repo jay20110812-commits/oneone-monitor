@@ -43860,22 +43860,22 @@
   "38917": {
     "snapshot": {
       "price": 150,
-      "remain": 19,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 不限版本 CX-07 天馬爆擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/便條紙/盲盒筆(隨機IP一款)",
-          "remaining": 18,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 7,
           "total": 20
         }
       ]
@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 350,
-      "remain": 395,
+      "remain": 371,
       "total": 398,
       "prizes": [
         {
@@ -46529,7 +46529,7 @@
         },
         {
           "name": "D賞 BX-34 蒼穹龍騎士★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46539,7 +46539,7 @@
         },
         {
           "name": "F賞 UX-19子彈獅鷲★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 380,
+          "remaining": 348,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 395,
+          "remaining": 361,
           "total": 398
         }
       ]
