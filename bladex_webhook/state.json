@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 394,
+      "remain": 378,
       "total": 400,
       "prizes": [
         {
@@ -48089,17 +48089,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 372,
+          "remaining": 357,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 394,
+          "remaining": 378,
           "total": 400
         }
       ]
@@ -48899,23 +48899,168 @@
   "39438": {
     "snapshot": {
       "price": 170,
-      "remain": 20,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X BX-50隨機強化包(不限版本)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 7,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 7,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39444": {
+    "snapshot": {
+      "price": 280,
+      "remain": 300,
+      "total": 300,
+      "prizes": [
+        {
+          "name": "SP賞 戰鬥陀螺 UX-00紅空力天馬★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "A賞 UX-00 騎士圓甲 3-85BS（夜藍版金屬塗層）★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-00天馬爆擊焰紅版★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 UX-20 榮耀女武神 (附發射器)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 BX-49 蒼龍突擊 (附發射器)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 CX-05隨機強化組Vol.6★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "G賞 BX-14 (隨機出貨)★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "H賞 BX-31隨機強化組 Vol.03★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "I賞 不限IP隨機小賞(隨機一款)",
+          "remaining": 281,
+          "total": 281
+        },
+        {
+          "name": "合計",
+          "remaining": 300,
+          "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39455": {
+    "snapshot": {
+      "price": 250,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
           "remaining": 1,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
-          "total": 19
+          "remaining": 39,
+          "total": 39
         },
         {
           "name": "合計",
-          "remaining": 20,
-          "total": 20
+          "remaining": 40,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39456": {
+    "snapshot": {
+      "price": 280,
+      "remain": 180,
+      "total": 180,
+      "prizes": [
+        {
+          "name": "A賞 UX-15 絞鯊狂鱗改造組★★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-20 榮耀女武神★★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-03 魔導神杖★★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 UX-11 衝擊龍神★★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 BX-50 隨機強化包★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 BX-35 隨機強化組 vol.4★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 CX-18 腕龍鞭打 隨機強化組★★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "H賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 170,
+          "total": 170
+        },
+        {
+          "name": "合計",
+          "remaining": 180,
+          "total": 180
         }
       ]
     },
