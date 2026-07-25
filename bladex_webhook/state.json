@@ -49224,7 +49224,7 @@
   "39472": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -49234,12 +49234,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -49729,7 +49729,7 @@
   "39497": {
     "snapshot": {
       "price": 299,
-      "remain": 200,
+      "remain": 197,
       "total": 200,
       "prizes": [
         {
@@ -49779,12 +49779,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 188,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 197,
           "total": 200
         }
       ]
@@ -50090,6 +50090,31 @@
         {
           "name": "合計",
           "remaining": 8,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39525": {
+    "snapshot": {
+      "price": 350,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 UX-21 地獄幽冥三陀螺套組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
           "total": 40
         }
       ]
