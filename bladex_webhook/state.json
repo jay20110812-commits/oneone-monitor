@@ -47734,7 +47734,7 @@
   "39390": {
     "snapshot": {
       "price": 350,
-      "remain": 344,
+      "remain": 340,
       "total": 400,
       "prizes": [
         {
@@ -47779,7 +47779,7 @@
         },
         {
           "name": "I賞CX-18腕龍鞭打★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -47789,12 +47789,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 327,
+          "remaining": 324,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 344,
+          "remaining": 340,
           "total": 400
         }
       ]
@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 363,
+      "remain": 362,
       "total": 400,
       "prizes": [
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 343,
+          "remaining": 342,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 363,
+          "remaining": 362,
           "total": 400
         }
       ]
