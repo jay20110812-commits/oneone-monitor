@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 314,
+      "remain": 284,
       "total": 400,
       "prizes": [
         {
@@ -48069,7 +48069,7 @@
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -48084,7 +48084,7 @@
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 296,
+          "remaining": 268,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 314,
+          "remaining": 284,
           "total": 400
         }
       ]
@@ -49729,7 +49729,7 @@
   "39497": {
     "snapshot": {
       "price": 299,
-      "remain": 184,
+      "remain": 183,
       "total": 200,
       "prizes": [
         {
@@ -49779,12 +49779,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 176,
+          "remaining": 175,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 184,
+          "remaining": 183,
           "total": 200
         }
       ]
