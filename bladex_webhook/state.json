@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 337,
+      "remain": 326,
       "total": 400,
       "prizes": [
         {
@@ -48059,7 +48059,7 @@
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 318,
+          "remaining": 308,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 337,
+          "remaining": 326,
           "total": 400
         }
       ]
