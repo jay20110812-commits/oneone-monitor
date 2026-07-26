@@ -49729,7 +49729,7 @@
   "39497": {
     "snapshot": {
       "price": 299,
-      "remain": 197,
+      "remain": 184,
       "total": 200,
       "prizes": [
         {
@@ -49754,7 +49754,7 @@
         },
         {
           "name": "D賞 UX-20榮耀女武神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -49779,12 +49779,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 176,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 197,
+          "remaining": 184,
           "total": 200
         }
       ]
@@ -50254,6 +50254,31 @@
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00龍神勇氣★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39545": {
+    "snapshot": {
+      "price": 350,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
           "remaining": 1,
           "total": 1
         },
