@@ -48988,7 +48988,7 @@
   },
   "39455": {
     "snapshot": {
-      "price": 250,
+      "price": 195,
       "remain": 40,
       "total": 40,
       "prizes": [
@@ -49704,22 +49704,22 @@
   "39498": {
     "snapshot": {
       "price": 199,
-      "remain": 23,
+      "remain": 2,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00雄鹿戰角★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 22,
+          "remaining": 2,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 23,
+          "remaining": 2,
           "total": 30
         }
       ]
@@ -49729,7 +49729,7 @@
   "39497": {
     "snapshot": {
       "price": 299,
-      "remain": 183,
+      "remain": 180,
       "total": 200,
       "prizes": [
         {
@@ -49779,12 +49779,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 175,
+          "remaining": 172,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 183,
+          "remaining": 180,
           "total": 200
         }
       ]
@@ -50024,7 +50024,7 @@
   "39520": {
     "snapshot": {
       "price": 250,
-      "remain": 37,
+      "remain": 36,
       "total": 40,
       "prizes": [
         {
@@ -50034,12 +50034,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 36,
+          "remaining": 35,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 37,
+          "remaining": 36,
           "total": 40
         }
       ]
@@ -50249,22 +50249,22 @@
   "39537": {
     "snapshot": {
       "price": 399,
-      "remain": 40,
+      "remain": 8,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00龍神勇氣★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 8,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 8,
           "total": 40
         }
       ]
@@ -50596,6 +50596,56 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39580": {
+    "snapshot": {
+      "price": 199,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-00雄鹿戰角★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39579": {
+    "snapshot": {
+      "price": 199,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-00雄鹿戰角★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
