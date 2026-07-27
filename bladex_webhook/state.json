@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 259,
+      "remain": 230,
       "total": 400,
       "prizes": [
         {
@@ -48059,7 +48059,7 @@
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -48074,7 +48074,7 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -48084,7 +48084,7 @@
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 244,
+          "remaining": 218,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 259,
+          "remaining": 230,
           "total": 400
         }
       ]
