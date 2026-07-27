@@ -50484,7 +50484,7 @@
   "39573": {
     "snapshot": {
       "price": 299,
-      "remain": 383,
+      "remain": 331,
       "total": 400,
       "prizes": [
         {
@@ -50504,7 +50504,7 @@
         },
         {
           "name": "D賞 UX-00日本武士軍刀★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -50514,7 +50514,7 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -50539,12 +50539,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 365,
+          "remaining": 315,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 383,
+          "remaining": 331,
           "total": 400
         }
       ]
