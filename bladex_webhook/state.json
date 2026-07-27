@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 230,
+      "remain": 228,
       "total": 400,
       "prizes": [
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 218,
+          "remaining": 216,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 230,
+          "remaining": 228,
           "total": 400
         }
       ]
@@ -49729,22 +49729,22 @@
   "39497": {
     "snapshot": {
       "price": 299,
-      "remain": 180,
+      "remain": 70,
       "total": 200,
       "prizes": [
         {
           "name": "SP賞 CX-00戰神福特★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 UX-15 鮫鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 3-70A紅色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -49759,7 +49759,7 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -49769,7 +49769,7 @@
         },
         {
           "name": "G賞 BX-50天堂圓環(隨機一款)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -49779,12 +49779,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 172,
+          "remaining": 67,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 180,
+          "remaining": 70,
           "total": 200
         }
       ]
