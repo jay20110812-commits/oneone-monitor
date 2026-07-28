@@ -50744,22 +50744,22 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 301,
+      "remain": 279,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 10,
+          "remaining": 9,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 270,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 301,
+          "remaining": 279,
           "total": 301
         }
       ]
@@ -50769,7 +50769,7 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 150,
+      "remain": 126,
       "total": 150,
       "prizes": [
         {
@@ -50794,7 +50794,7 @@
         },
         {
           "name": "E賞 bx-35 不分版本★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -50824,7 +50824,7 @@
         },
         {
           "name": "K賞 bx-33 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50834,22 +50834,22 @@
         },
         {
           "name": "M賞 絨毛吊飾不限IP☆",
-          "remaining": 5,
+          "remaining": 3,
           "total": 5
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 130,
+          "remaining": 110,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 126,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1785278897.8339298
   },
   "39613": {
     "snapshot": {
