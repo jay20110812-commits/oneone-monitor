@@ -50769,7 +50769,7 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 109,
+      "remain": 94,
       "total": 150,
       "prizes": [
         {
@@ -50804,7 +50804,7 @@
         },
         {
           "name": "G賞 cx-06 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50829,7 +50829,7 @@
         },
         {
           "name": "L賞 bx-26 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50839,17 +50839,17 @@
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 94,
+          "remaining": 81,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 109,
+          "remaining": 94,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1785279593.717421
+    "last_notified_at": 1785280291.7774599
   },
   "39613": {
     "snapshot": {
