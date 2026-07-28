@@ -50769,7 +50769,7 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 126,
+      "remain": 109,
       "total": 150,
       "prizes": [
         {
@@ -50814,7 +50814,7 @@
         },
         {
           "name": "I賞 銀牙烈虎 不分版本★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -50839,17 +50839,17 @@
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 110,
+          "remaining": 94,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 126,
+          "remaining": 109,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1785278897.8339298
+    "last_notified_at": 1785279593.717421
   },
   "39613": {
     "snapshot": {
