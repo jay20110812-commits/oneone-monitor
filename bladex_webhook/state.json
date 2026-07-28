@@ -47529,7 +47529,7 @@
   "39363": {
     "snapshot": {
       "price": 109,
-      "remain": 17,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
@@ -47539,17 +47539,17 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 14,
+          "remaining": 8,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 9,
           "total": 20
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1785212079.1274142
   },
   "39366": {
     "snapshot": {
