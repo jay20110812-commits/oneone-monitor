@@ -49974,22 +49974,22 @@
   "39519": {
     "snapshot": {
       "price": 250,
-      "remain": 19,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 14,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 14,
           "total": 20
         }
       ]
@@ -50744,7 +50744,7 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 279,
+      "remain": 278,
       "total": 301,
       "prizes": [
         {
@@ -50754,12 +50754,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 270,
+          "remaining": 269,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 279,
+          "remaining": 278,
           "total": 301
         }
       ]
@@ -50769,12 +50769,12 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 73,
+      "remain": 70,
       "total": 150,
       "prizes": [
         {
           "name": "A賞 ux-15 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50839,17 +50839,17 @@
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 62,
+          "remaining": 60,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 70,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1785295874.2461658
+    "last_notified_at": 1785307293.7462692
   },
   "39613": {
     "snapshot": {
@@ -51066,6 +51066,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39640": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
