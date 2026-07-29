@@ -51190,5 +51190,115 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "39654": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39653": {
+    "snapshot": {
+      "price": 350,
+      "remain": 150,
+      "total": 150,
+      "prizes": [
+        {
+          "name": "A賞 ux-15 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 ux-20 女武神 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 cx-11 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 ux-19 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 bx-35 不分版本★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 cx-13 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 cx-06 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "H賞 cx-08 不分版本★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "I賞 銀牙烈虎 不分版本★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "J賞 烈焰飛鳳 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "K賞 bx-33 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "L賞 bx-26 不分版本★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "M賞 絨毛吊飾不限IP☆",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
+          "remaining": 130,
+          "total": 130
+        },
+        {
+          "name": "合計",
+          "remaining": 150,
+          "total": 150
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
