@@ -46384,7 +46384,7 @@
   "39160": {
     "snapshot": {
       "price": 199,
-      "remain": 36,
+      "remain": 35,
       "total": 40,
       "prizes": [
         {
@@ -46394,12 +46394,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 34,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 36,
+          "remaining": 35,
           "total": 40
         }
       ]
@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 350,
-      "remain": 314,
+      "remain": 313,
       "total": 398,
       "prizes": [
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 303,
+          "remaining": 302,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 314,
+          "remaining": 313,
           "total": 398
         }
       ]
@@ -51484,6 +51484,31 @@
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-17 隕星龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39699": {
+    "snapshot": {
+      "price": 280,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 日版 BEYBLADE X戰鬥陀螺 BX-09 通行證★",
           "remaining": 1,
           "total": 1
         },
