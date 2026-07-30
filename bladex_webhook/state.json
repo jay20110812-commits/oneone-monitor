@@ -47734,7 +47734,7 @@
   "39390": {
     "snapshot": {
       "price": 350,
-      "remain": 327,
+      "remain": 311,
       "total": 400,
       "prizes": [
         {
@@ -47764,7 +47764,7 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -47789,12 +47789,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 311,
+          "remaining": 296,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 327,
+          "remaining": 311,
           "total": 400
         }
       ]
@@ -48044,7 +48044,7 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 218,
+      "remain": 215,
       "total": 400,
       "prizes": [
         {
@@ -48089,17 +48089,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 206,
+          "remaining": 204,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 218,
+          "remaining": 215,
           "total": 400
         }
       ]
