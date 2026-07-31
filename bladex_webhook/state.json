@@ -45030,7 +45030,7 @@
   "39025": {
     "snapshot": {
       "price": 240,
-      "remain": 200,
+      "remain": 192,
       "total": 300,
       "prizes": [
         {
@@ -45040,12 +45040,12 @@
         },
         {
           "name": "B賞 隨機小賞",
-          "remaining": 194,
+          "remaining": 186,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 192,
           "total": 300
         }
       ]
@@ -51669,7 +51669,7 @@
   "39732": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -51679,12 +51679,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
