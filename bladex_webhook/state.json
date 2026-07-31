@@ -50769,7 +50769,7 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 43,
+      "remain": 34,
       "total": 150,
       "prizes": [
         {
@@ -50779,7 +50779,7 @@
         },
         {
           "name": "B賞 ux-20 女武神 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50834,17 +50834,17 @@
         },
         {
           "name": "M賞 絨毛吊飾不限IP☆",
-          "remaining": 1,
+          "remaining": 0,
           "total": 5
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 38,
+          "remaining": 31,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 43,
+          "remaining": 34,
           "total": 150
         }
       ]
