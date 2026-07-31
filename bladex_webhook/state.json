@@ -48044,17 +48044,17 @@
   "39394": {
     "snapshot": {
       "price": 350,
-      "remain": 215,
+      "remain": 102,
       "total": 400,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -48064,7 +48064,7 @@
         },
         {
           "name": "C賞 BX-49 蒼龍突擊 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -48074,17 +48074,17 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
@@ -48094,12 +48094,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 204,
+          "remaining": 97,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 215,
+          "remaining": 102,
           "total": 400
         }
       ]
