@@ -51194,22 +51194,22 @@
   "39654": {
     "snapshot": {
       "price": 250,
-      "remain": 19,
+      "remain": 1,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 1,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 1,
           "total": 20
         }
       ]
