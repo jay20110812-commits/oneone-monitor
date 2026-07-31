@@ -50654,7 +50654,7 @@
   "39582": {
     "snapshot": {
       "price": 299,
-      "remain": 183,
+      "remain": 156,
       "total": 200,
       "prizes": [
         {
@@ -50674,7 +50674,7 @@
         },
         {
           "name": "C賞 UX-03魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50704,12 +50704,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 175,
+          "remaining": 149,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 183,
+          "remaining": 156,
           "total": 200
         }
       ]
