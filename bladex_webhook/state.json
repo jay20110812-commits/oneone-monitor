@@ -50769,7 +50769,7 @@
   "39591": {
     "snapshot": {
       "price": 350,
-      "remain": 61,
+      "remain": 43,
       "total": 150,
       "prizes": [
         {
@@ -50809,17 +50809,17 @@
         },
         {
           "name": "H賞 cx-08 不分版本★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "I賞 銀牙烈虎 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "J賞 烈焰飛鳳 不分版本★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -50834,22 +50834,22 @@
         },
         {
           "name": "M賞 絨毛吊飾不限IP☆",
-          "remaining": 2,
+          "remaining": 1,
           "total": 5
         },
         {
           "name": "N賞 遊戲王卡牌(閃卡 或 普卡)隨機 *2張",
-          "remaining": 52,
+          "remaining": 38,
           "total": 130
         },
         {
           "name": "合計",
-          "remaining": 61,
+          "remaining": 43,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1785339219.6632557
+    "last_notified_at": 1785539546.2913756
   },
   "39613": {
     "snapshot": {
