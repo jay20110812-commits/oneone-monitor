@@ -50744,7 +50744,7 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 233,
+      "remain": 232,
       "total": 301,
       "prizes": [
         {
@@ -50754,12 +50754,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 225,
+          "remaining": 224,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 233,
+          "remaining": 232,
           "total": 301
         }
       ]
