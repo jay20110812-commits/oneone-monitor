@@ -48799,7 +48799,7 @@
   "39442": {
     "snapshot": {
       "price": 250,
-      "remain": 25,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
@@ -51503,7 +51503,7 @@
   },
   "39699": {
     "snapshot": {
-      "price": 280,
+      "price": 250,
       "remain": 30,
       "total": 30,
       "prizes": [
