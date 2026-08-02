@@ -50744,22 +50744,22 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 221,
+      "remain": 196,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 8,
+          "remaining": 7,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 213,
+          "remaining": 189,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 221,
+          "remaining": 196,
           "total": 301
         }
       ]
@@ -51479,22 +51479,22 @@
   "39683": {
     "snapshot": {
       "price": 180,
-      "remain": 30,
+      "remain": 13,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺X UX-17 隕星龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 13,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 13,
           "total": 30
         }
       ]
@@ -52139,22 +52139,22 @@
   "39775": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 1,
       "total": 20,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 15,
+          "remaining": 1,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 16,
+          "remaining": 1,
           "total": 20
         }
       ]
