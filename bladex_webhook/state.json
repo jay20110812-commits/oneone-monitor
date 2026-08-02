@@ -52214,22 +52214,22 @@
   "39784": {
     "snapshot": {
       "price": 180,
-      "remain": 30,
+      "remain": 3,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00雄鹿戰角★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 3,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 3,
           "total": 30
         }
       ]
