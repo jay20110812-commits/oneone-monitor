@@ -51099,7 +51099,7 @@
   "39649": {
     "snapshot": {
       "price": 299,
-      "remain": 346,
+      "remain": 323,
       "total": 400,
       "prizes": [
         {
@@ -51149,17 +51149,17 @@
         },
         {
           "name": "J賞 BX-50×天堂圓環★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 328,
+          "remaining": 308,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 344,
+          "remaining": 323,
           "total": 400
         }
       ]
