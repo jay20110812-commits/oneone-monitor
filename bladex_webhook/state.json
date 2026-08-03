@@ -50149,22 +50149,22 @@
   "39541": {
     "snapshot": {
       "price": 199,
-      "remain": 29,
+      "remain": 9,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-00天蠍長矛★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 9,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 9,
           "total": 30
         }
       ]
@@ -50174,22 +50174,22 @@
   "39540": {
     "snapshot": {
       "price": 188,
-      "remain": 23,
+      "remain": 7,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00雄鹿戰角★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 22,
+          "remaining": 7,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 23,
+          "remaining": 7,
           "total": 30
         }
       ]
