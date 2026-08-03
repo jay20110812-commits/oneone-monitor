@@ -47734,7 +47734,7 @@
   "39390": {
     "snapshot": {
       "price": 350,
-      "remain": 252,
+      "remain": 224,
       "total": 400,
       "prizes": [
         {
@@ -47744,7 +47744,7 @@
         },
         {
           "name": "B賞 戰神福特★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -47779,7 +47779,7 @@
         },
         {
           "name": "I賞CX-18腕龍鞭打★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -47789,12 +47789,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 240,
+          "remaining": 214,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 252,
+          "remaining": 224,
           "total": 400
         }
       ]
