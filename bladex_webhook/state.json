@@ -51099,7 +51099,7 @@
   "39649": {
     "snapshot": {
       "price": 299,
-      "remain": 251,
+      "remain": 234,
       "total": 400,
       "prizes": [
         {
@@ -51124,7 +51124,7 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -51154,12 +51154,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 238,
+          "remaining": 223,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 250,
+          "remaining": 234,
           "total": 400
         }
       ]
