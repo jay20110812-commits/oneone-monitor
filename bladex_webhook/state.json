@@ -50744,22 +50744,22 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 196,
+      "remain": 146,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 7,
+          "remaining": 5,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 189,
+          "remaining": 141,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 146,
           "total": 301
         }
       ]
@@ -51529,7 +51529,7 @@
   "39714": {
     "snapshot": {
       "price": 199,
-      "remain": 28,
+      "remain": 23,
       "total": 40,
       "prizes": [
         {
@@ -51539,12 +51539,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 22,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 23,
           "total": 40
         }
       ]
