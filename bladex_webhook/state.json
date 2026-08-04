@@ -49299,7 +49299,7 @@
   "39447": {
     "snapshot": {
       "price": 250,
-      "remain": 200,
+      "remain": 193,
       "total": 200,
       "prizes": [
         {
@@ -49339,7 +49339,7 @@
         },
         {
           "name": "G賞 BX-14 (隨機出貨)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -49349,12 +49349,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 185,
+          "remaining": 179,
           "total": 185
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 193,
           "total": 200
         }
       ]
@@ -49859,7 +49859,7 @@
   "39501": {
     "snapshot": {
       "price": 299,
-      "remain": 195,
+      "remain": 189,
       "total": 200,
       "prizes": [
         {
@@ -49909,12 +49909,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 187,
+          "remaining": 181,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 195,
+          "remaining": 189,
           "total": 200
         }
       ]
@@ -50744,22 +50744,22 @@
   "39592": {
     "snapshot": {
       "price": 320,
-      "remain": 146,
+      "remain": 137,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 141,
+          "remaining": 133,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 146,
+          "remaining": 137,
           "total": 301
         }
       ]
@@ -51218,7 +51218,7 @@
   },
   "39653": {
     "snapshot": {
-      "price": 350,
+      "price": 320,
       "remain": 150,
       "total": 150,
       "prizes": [
@@ -51299,7 +51299,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1785857534.5015893
   },
   "39661": {
     "snapshot": {
