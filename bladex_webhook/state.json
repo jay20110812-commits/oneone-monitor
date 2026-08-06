@@ -49299,7 +49299,7 @@
   "39447": {
     "snapshot": {
       "price": 250,
-      "remain": 185,
+      "remain": 181,
       "total": 200,
       "prizes": [
         {
@@ -49349,12 +49349,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 171,
+          "remaining": 167,
           "total": 185
         },
         {
           "name": "合計",
-          "remaining": 185,
+          "remaining": 181,
           "total": 200
         }
       ]
@@ -51024,22 +51024,22 @@
   "39627": {
     "snapshot": {
       "price": 299,
-      "remain": 296,
+      "remain": 293,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 10,
+          "remaining": 9,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 286,
+          "remaining": 284,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 296,
+          "remaining": 293,
           "total": 301
         }
       ]
@@ -52564,7 +52564,7 @@
   "39828": {
     "snapshot": {
       "price": 170,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -52574,12 +52574,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -53576,6 +53576,31 @@
           "name": "合計",
           "remaining": 400,
           "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39942": {
+    "snapshot": {
+      "price": 4900,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺 黃金神杖整顆(拆袋全新未下場)★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 37,
+          "total": 37
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
