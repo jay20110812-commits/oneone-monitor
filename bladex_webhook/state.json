@@ -49299,7 +49299,7 @@
   "39447": {
     "snapshot": {
       "price": 250,
-      "remain": 188,
+      "remain": 185,
       "total": 200,
       "prizes": [
         {
@@ -49349,12 +49349,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 174,
+          "remaining": 171,
           "total": 185
         },
         {
           "name": "合計",
-          "remaining": 188,
+          "remaining": 185,
           "total": 200
         }
       ]
@@ -50398,7 +50398,7 @@
   },
   "39558": {
     "snapshot": {
-      "price": 280,
+      "price": 250,
       "remain": 150,
       "total": 150,
       "prizes": [
@@ -50454,7 +50454,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1785987046.1438446
   },
   "39559": {
     "snapshot": {
