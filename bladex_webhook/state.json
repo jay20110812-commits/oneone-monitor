@@ -52479,12 +52479,12 @@
   "39809": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 183,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -52494,7 +52494,7 @@
         },
         {
           "name": "C賞 CX-00神龍勇氣★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -52504,32 +52504,32 @@
         },
         {
           "name": "E賞 UX-20女武神★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "F賞 UX-00天蠍長矛★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "G賞 BX-49蒼龍突擊★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "H賞 BX-50×天堂圓環★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 385,
+          "remaining": 176,
           "total": 385
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 183,
           "total": 400
         }
       ]
