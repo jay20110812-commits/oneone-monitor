@@ -52479,7 +52479,7 @@
   "39809": {
     "snapshot": {
       "price": 299,
-      "remain": 173,
+      "remain": 142,
       "total": 400,
       "prizes": [
         {
@@ -52499,7 +52499,7 @@
         },
         {
           "name": "D賞 UX-00紅天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -52524,12 +52524,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 167,
+          "remaining": 137,
           "total": 385
         },
         {
           "name": "合計",
-          "remaining": 173,
+          "remaining": 142,
           "total": 400
         }
       ]
