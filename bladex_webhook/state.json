@@ -41205,7 +41205,7 @@
   "38639": {
     "snapshot": {
       "price": 199,
-      "remain": 242,
+      "remain": 238,
       "total": 314,
       "prizes": [
         {
@@ -41240,7 +41240,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -41250,12 +41250,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 230,
+          "remaining": 227,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 242,
+          "remaining": 238,
           "total": 314
         }
       ]
@@ -49299,12 +49299,12 @@
   "39447": {
     "snapshot": {
       "price": 250,
-      "remain": 173,
+      "remain": 165,
       "total": 200,
       "prizes": [
         {
           "name": "SP賞 UX-15 鮫鯊狂鱗改造組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -49349,12 +49349,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 160,
+          "remaining": 153,
           "total": 185
         },
         {
           "name": "合計",
-          "remaining": 173,
+          "remaining": 165,
           "total": 200
         }
       ]
@@ -53029,7 +53029,7 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 387,
+      "remain": 383,
       "total": 400,
       "prizes": [
         {
@@ -53079,12 +53079,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 366,
+          "remaining": 362,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 387,
+          "remaining": 383,
           "total": 400
         }
       ]
