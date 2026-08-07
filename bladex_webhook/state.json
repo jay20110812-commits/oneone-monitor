@@ -41205,7 +41205,7 @@
   "38639": {
     "snapshot": {
       "price": 199,
-      "remain": 248,
+      "remain": 247,
       "total": 314,
       "prizes": [
         {
@@ -41250,12 +41250,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 236,
+          "remaining": 235,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 248,
+          "remaining": 247,
           "total": 314
         }
       ]
@@ -50199,7 +50199,7 @@
   "39539": {
     "snapshot": {
       "price": 199,
-      "remain": 28,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -50209,12 +50209,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 26,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 27,
           "total": 30
         }
       ]
@@ -51879,7 +51879,7 @@
   "39760": {
     "snapshot": {
       "price": 299,
-      "remain": 210,
+      "remain": 209,
       "total": 400,
       "prizes": [
         {
@@ -51934,12 +51934,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 201,
+          "remaining": 200,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 210,
+          "remaining": 209,
           "total": 400
         }
       ]
@@ -52564,7 +52564,7 @@
   "39828": {
     "snapshot": {
       "price": 170,
-      "remain": 29,
+      "remain": 26,
       "total": 30,
       "prizes": [
         {
@@ -52574,12 +52574,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 25,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 26,
           "total": 30
         }
       ]
@@ -53029,7 +53029,7 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 400,
+      "remain": 387,
       "total": 400,
       "prizes": [
         {
@@ -53039,7 +53039,7 @@
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -53079,12 +53079,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 378,
+          "remaining": 366,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 387,
           "total": 400
         }
       ]
@@ -53514,7 +53514,7 @@
   "39935": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 397,
       "total": 400,
       "prizes": [
         {
@@ -53569,12 +53569,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 381,
+          "remaining": 378,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 397,
           "total": 400
         }
       ]
@@ -53721,6 +53721,31 @@
           "name": "合計",
           "remaining": 400,
           "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "39948": {
+    "snapshot": {
+      "price": 180,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
