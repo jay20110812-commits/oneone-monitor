@@ -53514,12 +53514,12 @@
   "39935": {
     "snapshot": {
       "price": 299,
-      "remain": 147,
+      "remain": 87,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -53529,7 +53529,7 @@
         },
         {
           "name": "C賞 UX-03魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53539,7 +53539,7 @@
         },
         {
           "name": "E賞 CX-00天馬爆擊焰紅版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53559,7 +53559,7 @@
         },
         {
           "name": "I賞 CX-18腕龍鞭打★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53569,12 +53569,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 141,
+          "remaining": 85,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 147,
+          "remaining": 87,
           "total": 400
         }
       ]
