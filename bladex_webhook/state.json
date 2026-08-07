@@ -51879,7 +51879,7 @@
   "39760": {
     "snapshot": {
       "price": 299,
-      "remain": 208,
+      "remain": 206,
       "total": 400,
       "prizes": [
         {
@@ -51934,12 +51934,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 199,
+          "remaining": 197,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 208,
+          "remaining": 206,
           "total": 400
         }
       ]
