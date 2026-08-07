@@ -53870,5 +53870,65 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "39972": {
+    "snapshot": {
+      "price": 299,
+      "remain": 400,
+      "total": 400,
+      "prizes": [
+        {
+          "name": "A賞 澀谷爆刃（3顆一組）★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-00戰神福特★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 CX-00神龍勇氣★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 UX-00 空力天馬 3-70A 紅色版★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 UX-20 榮耀女武神★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 UX-00 天蠍長矛0-70Z★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "G賞 BX-49蒼龍突擊★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "H賞 BX-50×天堂圓環★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "I賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 385,
+          "total": 385
+        },
+        {
+          "name": "合計",
+          "remaining": 400,
+          "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
