@@ -54425,5 +54425,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40000": {
+    "snapshot": {
+      "price": 350,
+      "remain": 301,
+      "total": 301,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】UX-21 地獄幽冥三陀螺套組★",
+          "remaining": 10,
+          "total": 10
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 291,
+          "total": 291
+        },
+        {
+          "name": "合計",
+          "remaining": 301,
+          "total": 301
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
