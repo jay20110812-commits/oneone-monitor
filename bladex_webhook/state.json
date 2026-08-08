@@ -54109,7 +54109,7 @@
   "39981": {
     "snapshot": {
       "price": 250,
-      "remain": 40,
+      "remain": 38,
       "total": 40,
       "prizes": [
         {
@@ -54119,12 +54119,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 37,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 38,
           "total": 40
         }
       ]
@@ -54446,6 +54446,81 @@
           "name": "合計",
           "remaining": 301,
           "total": 301
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40004": {
+    "snapshot": {
+      "price": 299,
+      "remain": 301,
+      "total": 301,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】UX-21 地獄幽冥三陀螺套組★",
+          "remaining": 10,
+          "total": 10
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 291,
+          "total": 291
+        },
+        {
+          "name": "合計",
+          "remaining": 301,
+          "total": 301
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40006": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 日版戰鬥陀螺X BX-00蒼穹龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40005": {
+    "snapshot": {
+      "price": 299,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 UX-21 地獄幽冥三陀螺套組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
