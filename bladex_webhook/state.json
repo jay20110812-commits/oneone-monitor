@@ -52689,7 +52689,7 @@
   "39842": {
     "snapshot": {
       "price": 299,
-      "remain": 174,
+      "remain": 171,
       "total": 200,
       "prizes": [
         {
@@ -52739,12 +52739,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 167,
+          "remaining": 164,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 174,
+          "remaining": 171,
           "total": 200
         }
       ]
