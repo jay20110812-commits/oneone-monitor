@@ -53029,7 +53029,7 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 383,
+      "remain": 380,
       "total": 400,
       "prizes": [
         {
@@ -53079,12 +53079,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 362,
+          "remaining": 359,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 383,
+          "remaining": 380,
           "total": 400
         }
       ]
