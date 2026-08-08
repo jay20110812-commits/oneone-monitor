@@ -54059,7 +54059,7 @@
   "39984": {
     "snapshot": {
       "price": 350,
-      "remain": 301,
+      "remain": 296,
       "total": 301,
       "prizes": [
         {
@@ -54069,12 +54069,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 286,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 301,
+          "remaining": 296,
           "total": 301
         }
       ]
@@ -54379,22 +54379,22 @@
   "39992": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 8,
       "total": 20,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 8,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 8,
           "total": 20
         }
       ]
