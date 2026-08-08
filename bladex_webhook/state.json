@@ -53934,22 +53934,22 @@
   "39978": {
     "snapshot": {
       "price": 350,
-      "remain": 40,
+      "remain": 25,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 25,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 25,
           "total": 40
         }
       ]
