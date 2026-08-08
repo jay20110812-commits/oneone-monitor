@@ -54059,22 +54059,22 @@
   "39984": {
     "snapshot": {
       "price": 350,
-      "remain": 296,
+      "remain": 287,
       "total": 301,
       "prizes": [
         {
           "name": "A賞【不限版本】UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 10,
+          "remaining": 9,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 286,
+          "remaining": 278,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 296,
+          "remaining": 287,
           "total": 301
         }
       ]
