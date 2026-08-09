@@ -53254,7 +53254,7 @@
   "39930": {
     "snapshot": {
       "price": 250,
-      "remain": 129,
+      "remain": 128,
       "total": 150,
       "prizes": [
         {
@@ -53299,17 +53299,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 114,
+          "remaining": 113,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 129,
+          "remaining": 128,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1786233164.619253
+    "last_notified_at": 1786292434.3376105
   },
   "39926": {
     "snapshot": {
