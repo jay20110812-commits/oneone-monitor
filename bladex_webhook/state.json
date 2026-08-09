@@ -51694,7 +51694,7 @@
   "39740": {
     "snapshot": {
       "price": 350,
-      "remain": 185,
+      "remain": 180,
       "total": 320,
       "prizes": [
         {
@@ -51744,12 +51744,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 175,
+          "remaining": 170,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 185,
+          "remaining": 180,
           "total": 320
         }
       ]
@@ -52289,7 +52289,7 @@
   "39791": {
     "snapshot": {
       "price": 150,
-      "remain": 28,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -52299,12 +52299,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 26,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 27,
           "total": 30
         }
       ]
@@ -53609,7 +53609,7 @@
   "39945": {
     "snapshot": {
       "price": 299,
-      "remain": 397,
+      "remain": 390,
       "total": 400,
       "prizes": [
         {
@@ -53654,12 +53654,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 382,
+          "remaining": 375,
           "total": 385
         },
         {
           "name": "合計",
-          "remaining": 397,
+          "remaining": 390,
           "total": 400
         }
       ]
@@ -54329,7 +54329,7 @@
   "39988": {
     "snapshot": {
       "price": 200,
-      "remain": 38,
+      "remain": 37,
       "total": 40,
       "prizes": [
         {
@@ -54339,12 +54339,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 37,
+          "remaining": 36,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 38,
+          "remaining": 37,
           "total": 40
         }
       ]
