@@ -51694,7 +51694,7 @@
   "39740": {
     "snapshot": {
       "price": 350,
-      "remain": 180,
+      "remain": 176,
       "total": 320,
       "prizes": [
         {
@@ -51729,7 +51729,7 @@
         },
         {
           "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -51744,12 +51744,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 170,
+          "remaining": 167,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 180,
+          "remaining": 176,
           "total": 320
         }
       ]
@@ -51784,7 +51784,7 @@
   "39745": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 397,
       "total": 400,
       "prizes": [
         {
@@ -51839,12 +51839,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 381,
+          "remaining": 378,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 397,
           "total": 400
         }
       ]
@@ -54596,6 +54596,31 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40025": {
+    "snapshot": {
+      "price": 160,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
