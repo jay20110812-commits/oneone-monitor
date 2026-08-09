@@ -50554,22 +50554,22 @@
   "39572": {
     "snapshot": {
       "price": 180,
-      "remain": 30,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-00海怪扭擺★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 21,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 21,
           "total": 30
         }
       ]
@@ -53119,7 +53119,7 @@
   "39906": {
     "snapshot": {
       "price": 159,
-      "remain": 31,
+      "remain": 26,
       "total": 40,
       "prizes": [
         {
@@ -53129,12 +53129,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 30,
+          "remaining": 25,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 31,
+          "remaining": 26,
           "total": 40
         }
       ]
