@@ -54550,5 +54550,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40013": {
+    "snapshot": {
+      "price": 180,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-00海怪扭擺★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
