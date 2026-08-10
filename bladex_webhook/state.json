@@ -50299,22 +50299,22 @@
   "39549": {
     "snapshot": {
       "price": 160,
-      "remain": 10,
+      "remain": 4,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X BX-50隨機強化包(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 9,
+          "remaining": 4,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 10,
+          "remaining": 4,
           "total": 20
         }
       ]
