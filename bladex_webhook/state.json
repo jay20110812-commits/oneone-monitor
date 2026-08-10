@@ -50299,7 +50299,7 @@
   "39549": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
@@ -50309,12 +50309,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -53254,12 +53254,12 @@
   "39930": {
     "snapshot": {
       "price": 250,
-      "remain": 128,
+      "remain": 117,
       "total": 150,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺X UX-03 魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53279,7 +53279,7 @@
         },
         {
           "name": "D賞 UX-17 隕星龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -53299,17 +53299,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 113,
+          "remaining": 104,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 128,
+          "remaining": 117,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1786292434.3376105
+    "last_notified_at": 1786375965.3791866
   },
   "39926": {
     "snapshot": {
