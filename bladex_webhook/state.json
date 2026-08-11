@@ -53029,7 +53029,7 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 375,
+      "remain": 239,
       "total": 400,
       "prizes": [
         {
@@ -53044,12 +53044,12 @@
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "C賞 BX-49 蒼龍突擊 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -53059,32 +53059,32 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
-          "total": 3
-        },
-        {
-          "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
           "remaining": 2,
           "total": 3
         },
         {
+          "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
+          "remaining": 1,
+          "total": 3
+        },
+        {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 3,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 3,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 355,
+          "remaining": 227,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 375,
+          "remaining": 239,
           "total": 400
         }
       ]
@@ -54849,22 +54849,22 @@
   "40109": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺X BX-35 隨機強化組vol.4(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 2,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 20
         }
       ]
