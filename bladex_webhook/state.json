@@ -54760,5 +54760,65 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40080": {
+    "snapshot": {
+      "price": 250,
+      "remain": 150,
+      "total": 150,
+      "prizes": [
+        {
+          "name": "SP賞 戰鬥陀螺X UX-03 魔導神杖★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "A賞 UX-20 榮耀女武神★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 BX-37雙重極限衝擊戰鬥盤 豪華組(盒損)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-11 衝擊龍神豪華組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 UX-17 隕星龍騎士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 BX-35隨機強化組 vol.04★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "F賞 CX-10 銀狼狩獵★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "G賞 BX-24 隨機強化組Vol.02★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "H賞 不限IP一番賞小賞",
+          "remaining": 133,
+          "total": 133
+        },
+        {
+          "name": "合計",
+          "remaining": 150,
+          "total": 150
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
