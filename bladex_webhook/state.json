@@ -53029,7 +53029,7 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 239,
+      "remain": 183,
       "total": 400,
       "prizes": [
         {
@@ -53049,7 +53049,7 @@
         },
         {
           "name": "C賞 BX-49 蒼龍突擊 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53059,7 +53059,7 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -53069,7 +53069,7 @@
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
@@ -53079,12 +53079,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 227,
+          "remaining": 174,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 239,
+          "remaining": 183,
           "total": 400
         }
       ]
