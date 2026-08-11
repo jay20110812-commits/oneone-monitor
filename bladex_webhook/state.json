@@ -51694,7 +51694,7 @@
   "39740": {
     "snapshot": {
       "price": 350,
-      "remain": 90,
+      "remain": 77,
       "total": 320,
       "prizes": [
         {
@@ -51734,7 +51734,7 @@
         },
         {
           "name": "H賞 BX-23鳳凰飛翼豪華組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -51744,12 +51744,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 86,
+          "remaining": 74,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 90,
+          "remaining": 77,
           "total": 320
         }
       ]
