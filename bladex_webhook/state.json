@@ -53029,22 +53029,22 @@
   "39863": {
     "snapshot": {
       "price": 350,
-      "remain": 183,
+      "remain": 22,
       "total": 400,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "B賞 UX-20 榮耀女武神 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -53054,17 +53054,17 @@
         },
         {
           "name": "D賞 CX-05隨機強化組Vol.6★",
-          "remaining": 3,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
@@ -53074,17 +53074,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 174,
+          "remaining": 22,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 183,
+          "remaining": 22,
           "total": 400
         }
       ]
@@ -54234,7 +54234,7 @@
   "39989": {
     "snapshot": {
       "price": 299,
-      "remain": 340,
+      "remain": 329,
       "total": 400,
       "prizes": [
         {
@@ -54289,12 +54289,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 324,
+          "remaining": 313,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 340,
+          "remaining": 329,
           "total": 400
         }
       ]
