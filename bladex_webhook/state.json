@@ -51329,7 +51329,7 @@
   "39659": {
     "snapshot": {
       "price": 399,
-      "remain": 40,
+      "remain": 28,
       "total": 40,
       "prizes": [
         {
@@ -51339,12 +51339,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 39,
+          "remaining": 27,
           "total": 39
         },
         {
           "name": "合計",
-          "remaining": 40,
+          "remaining": 28,
           "total": 40
         }
       ]
@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 380,
+      "remain": 310,
       "total": 400,
       "prizes": [
         {
@@ -54949,12 +54949,12 @@
         },
         {
           "name": "D賞 UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
+          "remaining": 0,
           "total": 3
         },
         {
@@ -54964,7 +54964,7 @@
         },
         {
           "name": "G賞 BX-27 幻神護甲 隨機強化組(隨機出貨)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -54974,12 +54974,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 359,
+          "remaining": 294,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 380,
+          "remaining": 310,
           "total": 400
         }
       ]
