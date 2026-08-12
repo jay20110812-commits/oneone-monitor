@@ -54453,7 +54453,7 @@
   },
   "40004": {
     "snapshot": {
-      "price": 299,
+      "price": 245,
       "remain": 281,
       "total": 301,
       "prizes": [
@@ -54503,7 +54503,7 @@
   },
   "40005": {
     "snapshot": {
-      "price": 299,
+      "price": 270,
       "remain": 40,
       "total": 40,
       "prizes": [
@@ -54529,22 +54529,22 @@
   "40010": {
     "snapshot": {
       "price": 299,
-      "remain": 301,
+      "remain": 294,
       "total": 301,
       "prizes": [
         {
           "name": "A賞【不限版本】UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 10,
+          "remaining": 9,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 285,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 301,
+          "remaining": 294,
           "total": 301
         }
       ]
