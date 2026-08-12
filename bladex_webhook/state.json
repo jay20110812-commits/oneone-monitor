@@ -52978,7 +52978,7 @@
   },
   "39861": {
     "snapshot": {
-      "price": 350,
+      "price": 250,
       "remain": 252,
       "total": 300,
       "prizes": [
@@ -54058,7 +54058,7 @@
   },
   "39984": {
     "snapshot": {
-      "price": 299,
+      "price": 250,
       "remain": 287,
       "total": 301,
       "prizes": [
@@ -54234,7 +54234,7 @@
   "39989": {
     "snapshot": {
       "price": 299,
-      "remain": 318,
+      "remain": 307,
       "total": 400,
       "prizes": [
         {
@@ -54279,7 +54279,7 @@
         },
         {
           "name": "I賞 CX-18腕龍鞭打★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -54289,12 +54289,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 303,
+          "remaining": 293,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 318,
+          "remaining": 307,
           "total": 400
         }
       ]
@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 400,
+      "remain": 380,
       "total": 400,
       "prizes": [
         {
@@ -54969,17 +54969,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 378,
+          "remaining": 359,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 380,
           "total": 400
         }
       ]
