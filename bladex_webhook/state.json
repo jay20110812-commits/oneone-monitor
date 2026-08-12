@@ -53754,7 +53754,7 @@
   "39968": {
     "snapshot": {
       "price": 350,
-      "remain": 370,
+      "remain": 346,
       "total": 400,
       "prizes": [
         {
@@ -53764,7 +53764,7 @@
         },
         {
           "name": "B賞 CX-00戰神福特★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -53799,12 +53799,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 353,
+          "remaining": 330,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 370,
+          "remaining": 346,
           "total": 400
         }
       ]
