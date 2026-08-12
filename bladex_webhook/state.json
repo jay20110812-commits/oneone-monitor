@@ -53754,7 +53754,7 @@
   "39968": {
     "snapshot": {
       "price": 350,
-      "remain": 394,
+      "remain": 370,
       "total": 400,
       "prizes": [
         {
@@ -53779,7 +53779,7 @@
         },
         {
           "name": "E賞 UX-20 榮耀女武神★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -53789,7 +53789,7 @@
         },
         {
           "name": "G賞 BX-49蒼龍突擊★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -53799,12 +53799,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 375,
+          "remaining": 353,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 394,
+          "remaining": 370,
           "total": 400
         }
       ]
