@@ -55309,7 +55309,7 @@
   "40162": {
     "snapshot": {
       "price": 199,
-      "remain": 25,
+      "remain": 22,
       "total": 25,
       "prizes": [
         {
@@ -55319,12 +55319,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 21,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 22,
           "total": 25
         }
       ]
