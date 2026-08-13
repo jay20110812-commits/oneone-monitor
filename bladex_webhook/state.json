@@ -54234,12 +54234,12 @@
   "39989": {
     "snapshot": {
       "price": 299,
-      "remain": 305,
+      "remain": 248,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -54264,12 +54264,12 @@
         },
         {
           "name": "F賞 BX-23鳳凰飛翼豪華組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "G賞 BX-49蒼龍突擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54289,12 +54289,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 237,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 305,
+          "remaining": 248,
           "total": 400
         }
       ]
