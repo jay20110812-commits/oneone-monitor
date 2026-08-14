@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 310,
+      "remain": 304,
       "total": 400,
       "prizes": [
         {
@@ -54974,12 +54974,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 294,
+          "remaining": 288,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 310,
+          "remaining": 304,
           "total": 400
         }
       ]
