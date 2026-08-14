@@ -55479,7 +55479,7 @@
   "40184": {
     "snapshot": {
       "price": 350,
-      "remain": 50,
+      "remain": 49,
       "total": 50,
       "prizes": [
         {
@@ -55489,12 +55489,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 49,
+          "remaining": 48,
           "total": 49
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 49,
           "total": 50
         }
       ]
