@@ -54764,12 +54764,12 @@
   "40080": {
     "snapshot": {
       "price": 250,
-      "remain": 130,
+      "remain": 121,
       "total": 150,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺X UX-03 魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -54809,17 +54809,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 115,
+          "remaining": 107,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 130,
+          "remaining": 121,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1786792017.5611217
+    "last_notified_at": 1786819948.9262097
   },
   "40056": {
     "snapshot": {
