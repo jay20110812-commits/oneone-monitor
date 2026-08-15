@@ -51784,7 +51784,7 @@
   "39745": {
     "snapshot": {
       "price": 299,
-      "remain": 290,
+      "remain": 277,
       "total": 400,
       "prizes": [
         {
@@ -51804,7 +51804,7 @@
         },
         {
           "name": "D賞 UX-00日本武士軍刀★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -51839,12 +51839,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 276,
+          "remaining": 264,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 290,
+          "remaining": 277,
           "total": 400
         }
       ]
@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 299,
+      "remain": 297,
       "total": 400,
       "prizes": [
         {
@@ -54974,12 +54974,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 283,
+          "remaining": 281,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 299,
+          "remaining": 297,
           "total": 400
         }
       ]
