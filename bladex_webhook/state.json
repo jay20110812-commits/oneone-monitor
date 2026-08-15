@@ -54454,22 +54454,22 @@
   "40004": {
     "snapshot": {
       "price": 245,
-      "remain": 281,
+      "remain": 259,
       "total": 301,
       "prizes": [
         {
           "name": "A賞【不限版本】UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 9,
+          "remaining": 8,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 272,
+          "remaining": 251,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 281,
+          "remaining": 259,
           "total": 301
         }
       ]
