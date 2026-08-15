@@ -51784,12 +51784,12 @@
   "39745": {
     "snapshot": {
       "price": 299,
-      "remain": 239,
+      "remain": 229,
       "total": 400,
       "prizes": [
         {
           "name": "A賞 UX-00藍色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -51839,12 +51839,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 228,
+          "remaining": 219,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 239,
+          "remaining": 229,
           "total": 400
         }
       ]
