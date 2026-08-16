@@ -55744,7 +55744,7 @@
   "40213": {
     "snapshot": {
       "price": 299,
-      "remain": 340,
+      "remain": 303,
       "total": 420,
       "prizes": [
         {
@@ -55754,7 +55754,7 @@
         },
         {
           "name": "B賞 UX-00紅天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -55769,7 +55769,7 @@
         },
         {
           "name": "E賞 UX-00天蠍長矛★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -55784,12 +55784,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 327,
+          "remaining": 292,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 340,
+          "remaining": 303,
           "total": 420
         }
       ]
