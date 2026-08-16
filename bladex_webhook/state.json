@@ -55894,7 +55894,7 @@
   "40224": {
     "snapshot": {
       "price": 360,
-      "remain": 26,
+      "remain": 23,
       "total": 30,
       "prizes": [
         {
@@ -55904,12 +55904,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 22,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 23,
           "total": 30
         }
       ]
@@ -56106,6 +56106,31 @@
           "name": "合計",
           "remaining": 400,
           "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40234": {
+    "snapshot": {
+      "price": 159,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-20 榮耀女武神LF★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 39,
+          "total": 39
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
         }
       ]
     },
