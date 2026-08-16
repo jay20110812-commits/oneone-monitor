@@ -54454,7 +54454,7 @@
   "40004": {
     "snapshot": {
       "price": 245,
-      "remain": 259,
+      "remain": 258,
       "total": 301,
       "prizes": [
         {
@@ -54464,12 +54464,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 251,
+          "remaining": 250,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 259,
+          "remaining": 258,
           "total": 301
         }
       ]
