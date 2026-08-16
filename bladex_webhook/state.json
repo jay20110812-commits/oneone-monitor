@@ -55744,7 +55744,7 @@
   "40213": {
     "snapshot": {
       "price": 299,
-      "remain": 387,
+      "remain": 383,
       "total": 420,
       "prizes": [
         {
@@ -55774,7 +55774,7 @@
         },
         {
           "name": "F賞 BX-50×天堂圓環★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -55784,12 +55784,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 371,
+          "remaining": 368,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 387,
+          "remaining": 383,
           "total": 420
         }
       ]
