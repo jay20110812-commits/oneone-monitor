@@ -56340,5 +56340,60 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40244": {
+    "snapshot": {
+      "price": 299,
+      "remain": 420,
+      "total": 420,
+      "prizes": [
+        {
+          "name": "A賞 BX-00 黃金神杖(無袋無盒無QR)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-00紅天馬★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 UX-21地獄幽冥★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 UX-20女武神★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "E賞 UX-03魔導神杖★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "F賞 BX-50×天堂圓環★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "G賞 BX-09通行證★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "H賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 403,
+          "total": 403
+        },
+        {
+          "name": "合計",
+          "remaining": 420,
+          "total": 420
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
