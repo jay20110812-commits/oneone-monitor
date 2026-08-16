@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 296,
+      "remain": 295,
       "total": 400,
       "prizes": [
         {
@@ -54974,12 +54974,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 280,
+          "remaining": 279,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 296,
+          "remaining": 295,
           "total": 400
         }
       ]
@@ -55604,7 +55604,7 @@
   "40199": {
     "snapshot": {
       "price": 119,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -55614,12 +55614,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -56011,6 +56011,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40229": {
+    "snapshot": {
+      "price": 3900,
+      "remain": 70,
+      "total": 70,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 黃金神杖整顆(無外盒拆袋全新未下場)★",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機10款)",
+          "remaining": 65,
+          "total": 65
+        },
+        {
+          "name": "合計",
+          "remaining": 70,
+          "total": 70
         }
       ]
     },
