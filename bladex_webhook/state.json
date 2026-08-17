@@ -51694,7 +51694,7 @@
   "39740": {
     "snapshot": {
       "price": 350,
-      "remain": 61,
+      "remain": 48,
       "total": 320,
       "prizes": [
         {
@@ -51744,12 +51744,12 @@
         },
         {
           "name": "J賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 59,
+          "remaining": 46,
           "total": 303
         },
         {
           "name": "合計",
-          "remaining": 61,
+          "remaining": 48,
           "total": 320
         }
       ]
