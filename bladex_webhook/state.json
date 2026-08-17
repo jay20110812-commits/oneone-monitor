@@ -54924,7 +54924,7 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 271,
+      "remain": 221,
       "total": 400,
       "prizes": [
         {
@@ -54959,7 +54959,7 @@
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -54969,17 +54969,17 @@
         },
         {
           "name": "H賞 BX-31隨機強化組 Vol.03★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 257,
+          "remaining": 209,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 271,
+          "remaining": 221,
           "total": 400
         }
       ]
