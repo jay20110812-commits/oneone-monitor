@@ -56229,7 +56229,7 @@
   "40240": {
     "snapshot": {
       "price": 299,
-      "remain": 196,
+      "remain": 191,
       "total": 200,
       "prizes": [
         {
@@ -56274,17 +56274,17 @@
         },
         {
           "name": "H賞 BX-49蒼龍突擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 187,
+          "remaining": 183,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 196,
+          "remaining": 191,
           "total": 200
         }
       ]
