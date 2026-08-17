@@ -54924,17 +54924,17 @@
   "40121": {
     "snapshot": {
       "price": 350,
-      "remain": 212,
+      "remain": 169,
       "total": 400,
       "prizes": [
         {
           "name": "SP賞 黃金神杖三件套(無袋無外盒無QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "A賞 X-HANGAR (X-Y35) 擂台外出箱(隨機色)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54959,7 +54959,7 @@
         },
         {
           "name": "F賞 BX-24 隨機強化組 Vol. 2(隨機出貨)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
@@ -54974,12 +54974,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 201,
+          "remaining": 161,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 212,
+          "remaining": 169,
           "total": 400
         }
       ]
