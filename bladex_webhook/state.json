@@ -56229,7 +56229,7 @@
   "40240": {
     "snapshot": {
       "price": 299,
-      "remain": 197,
+      "remain": 196,
       "total": 200,
       "prizes": [
         {
@@ -56279,12 +56279,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 188,
+          "remaining": 187,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 197,
+          "remaining": 196,
           "total": 200
         }
       ]
