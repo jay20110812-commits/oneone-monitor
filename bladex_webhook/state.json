@@ -55919,22 +55919,22 @@
   "40223": {
     "snapshot": {
       "price": 350,
-      "remain": 50,
+      "remain": 40,
       "total": 50,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 49,
+          "remaining": 40,
           "total": 49
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 40,
           "total": 50
         }
       ]
@@ -56344,7 +56344,7 @@
   "40244": {
     "snapshot": {
       "price": 299,
-      "remain": 420,
+      "remain": 400,
       "total": 420,
       "prizes": [
         {
@@ -56359,7 +56359,7 @@
         },
         {
           "name": "C賞 UX-21地獄幽冥★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -56384,12 +56384,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 403,
+          "remaining": 384,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 420,
+          "remaining": 400,
           "total": 420
         }
       ]
