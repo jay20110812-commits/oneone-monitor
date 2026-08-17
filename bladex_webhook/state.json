@@ -54764,7 +54764,7 @@
   "40080": {
     "snapshot": {
       "price": 250,
-      "remain": 106,
+      "remain": 97,
       "total": 150,
       "prizes": [
         {
@@ -54804,22 +54804,22 @@
         },
         {
           "name": "G賞 BX-24 隨機強化組Vol.02★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 94,
+          "remaining": 86,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 106,
+          "remaining": 97,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1786994123.695622
+    "last_notified_at": 1786994825.2810578
   },
   "40056": {
     "snapshot": {
