@@ -54764,7 +54764,7 @@
   "40080": {
     "snapshot": {
       "price": 250,
-      "remain": 97,
+      "remain": 96,
       "total": 150,
       "prizes": [
         {
@@ -54804,7 +54804,7 @@
         },
         {
           "name": "G賞 BX-24 隨機強化組Vol.02★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -54814,12 +54814,12 @@
         },
         {
           "name": "合計",
-          "remaining": 97,
+          "remaining": 96,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1786994825.2810578
+    "last_notified_at": 1787042015.4897976
   },
   "40056": {
     "snapshot": {
