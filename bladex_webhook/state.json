@@ -56905,5 +56905,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40346": {
+    "snapshot": {
+      "price": 330,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00紅色空力天馬(拆檢盒、未拆袋)★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 97,
+          "total": 97
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
