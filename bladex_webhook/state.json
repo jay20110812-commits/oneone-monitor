@@ -55744,7 +55744,7 @@
   "40213": {
     "snapshot": {
       "price": 299,
-      "remain": 178,
+      "remain": 166,
       "total": 420,
       "prizes": [
         {
@@ -55779,17 +55779,17 @@
         },
         {
           "name": "G賞 BX-09通行證★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 172,
+          "remaining": 161,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 178,
+          "remaining": 166,
           "total": 420
         }
       ]
