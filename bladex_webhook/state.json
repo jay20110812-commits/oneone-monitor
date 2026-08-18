@@ -56044,7 +56044,7 @@
   "40233": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 397,
       "total": 400,
       "prizes": [
         {
@@ -56099,12 +56099,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 381,
+          "remaining": 378,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 397,
           "total": 400
         }
       ]
@@ -56800,6 +56800,31 @@
         {
           "name": "合計",
           "remaining": 10,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40307": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
           "total": 20
         }
       ]
