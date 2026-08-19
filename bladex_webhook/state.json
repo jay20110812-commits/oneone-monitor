@@ -54764,12 +54764,12 @@
   "40080": {
     "snapshot": {
       "price": 250,
-      "remain": 89,
+      "remain": 79,
       "total": 150,
       "prizes": [
         {
           "name": "SP賞 戰鬥陀螺X UX-03 魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54794,7 +54794,7 @@
         },
         {
           "name": "E賞 BX-35隨機強化組 vol.04★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54809,17 +54809,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 79,
+          "remaining": 71,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 89,
+          "remaining": 79,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1787139406.548074
+    "last_notified_at": 1787144601.1806598
   },
   "40056": {
     "snapshot": {
@@ -57211,6 +57211,31 @@
           "name": "合計",
           "remaining": 400,
           "total": 400
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40396": {
+    "snapshot": {
+      "price": 250,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺 BX-09 通行證★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
