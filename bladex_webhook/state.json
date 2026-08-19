@@ -54764,7 +54764,7 @@
   "40080": {
     "snapshot": {
       "price": 250,
-      "remain": 79,
+      "remain": 55,
       "total": 150,
       "prizes": [
         {
@@ -54774,12 +54774,12 @@
         },
         {
           "name": "A賞 UX-20 榮耀女武神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 BX-37雙重極限衝擊戰鬥盤 豪華組(盒損)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -54804,17 +54804,17 @@
         },
         {
           "name": "G賞 BX-24 隨機強化組Vol.02★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 6
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 71,
+          "remaining": 50,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 79,
+          "remaining": 55,
           "total": 150
         }
       ]
