@@ -56344,7 +56344,7 @@
   "40244": {
     "snapshot": {
       "price": 299,
-      "remain": 335,
+      "remain": 333,
       "total": 420,
       "prizes": [
         {
@@ -56354,7 +56354,7 @@
         },
         {
           "name": "B賞 UX-00紅天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -56384,12 +56384,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 322,
+          "remaining": 321,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 335,
+          "remaining": 333,
           "total": 420
         }
       ]
