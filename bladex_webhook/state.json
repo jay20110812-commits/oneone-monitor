@@ -56759,7 +56759,7 @@
   "40294": {
     "snapshot": {
       "price": 180,
-      "remain": 300,
+      "remain": 296,
       "total": 300,
       "prizes": [
         {
@@ -56769,12 +56769,12 @@
         },
         {
           "name": "B賞 隨機小賞",
-          "remaining": 291,
+          "remaining": 287,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 300,
+          "remaining": 296,
           "total": 300
         }
       ]
