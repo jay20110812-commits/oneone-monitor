@@ -57070,5 +57070,55 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40356": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40357": {
+    "snapshot": {
+      "price": 350,
+      "remain": 50,
+      "total": 50,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 49,
+          "total": 49
+        },
+        {
+          "name": "合計",
+          "remaining": 50,
+          "total": 50
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
