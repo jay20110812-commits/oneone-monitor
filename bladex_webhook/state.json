@@ -57269,7 +57269,7 @@
   "40410": {
     "snapshot": {
       "price": 250,
-      "remain": 150,
+      "remain": 145,
       "total": 150,
       "prizes": [
         {
@@ -57314,17 +57314,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 133,
+          "remaining": 128,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 150,
+          "remaining": 145,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1787247125.6454983
   },
   "40415": {
     "snapshot": {
