@@ -38239,7 +38239,7 @@
   },
   "38183": {
     "snapshot": {
-      "price": 350,
+      "price": 199,
       "remain": 200,
       "total": 200,
       "prizes": [
@@ -57376,6 +57376,31 @@
           "name": "合計",
           "remaining": 420,
           "total": 420
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40424": {
+    "snapshot": {
+      "price": 250,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
