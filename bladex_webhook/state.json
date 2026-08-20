@@ -54234,7 +54234,7 @@
   "39989": {
     "snapshot": {
       "price": 299,
-      "remain": 246,
+      "remain": 244,
       "total": 400,
       "prizes": [
         {
@@ -54289,12 +54289,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 235,
+          "remaining": 233,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 246,
+          "remaining": 244,
           "total": 400
         }
       ]
@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 411,
+      "remain": 403,
       "total": 420,
       "prizes": [
         {
@@ -57349,7 +57349,7 @@
         },
         {
           "name": "D賞 UX-20女武神★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 394,
+          "remaining": 387,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 411,
+          "remaining": 403,
           "total": 420
         }
       ]
