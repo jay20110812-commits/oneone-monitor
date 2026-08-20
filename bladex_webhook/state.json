@@ -54209,12 +54209,12 @@
   "39990": {
     "snapshot": {
       "price": 1699,
-      "remain": 26,
+      "remain": 25,
       "total": 40,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 7,
+          "remaining": 6,
           "total": 10
         },
         {
@@ -54224,7 +54224,7 @@
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 25,
           "total": 40
         }
       ]
