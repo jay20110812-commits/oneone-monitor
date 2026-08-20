@@ -56344,12 +56344,12 @@
   "40244": {
     "snapshot": {
       "price": 299,
-      "remain": 241,
+      "remain": 210,
       "total": 420,
       "prizes": [
         {
           "name": "A賞 BX-00 黃金神杖(無袋無盒無QR)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -56379,17 +56379,17 @@
         },
         {
           "name": "G賞 BX-09通行證★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 232,
+          "remaining": 203,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 241,
+          "remaining": 210,
           "total": 420
         }
       ]
