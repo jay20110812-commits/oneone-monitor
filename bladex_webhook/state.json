@@ -51406,73 +51406,7 @@
       "price": 350,
       "remain": 203,
       "total": 230,
-      "prizes": [
-        {
-          "name": "SP賞 UX-00涉谷爆刃1-60A(紫粉全新整顆)無碼無盒★",
-          "remaining": 1,
-          "total": 1
-        },
-        {
-          "name": "A賞 UX-00涉谷爆刃1-60A(綠黑全新整顆)無碼無盒★",
-          "remaining": 1,
-          "total": 1
-        },
-        {
-          "name": "B賞 UX-00涉谷爆刃1-60A(藍青全新整顆)無碼無盒★",
-          "remaining": 1,
-          "total": 1
-        },
-        {
-          "name": "C賞 UX-15 鮫鯊狂鱗改造組★",
-          "remaining": 0,
-          "total": 1
-        },
-        {
-          "name": "D賞 BX-00 限定版 絞鯊鋒鰭★",
-          "remaining": 1,
-          "total": 1
-        },
-        {
-          "name": "E賞 戰鬥陀螺 UX-19 子彈獅鷲★",
-          "remaining": 2,
-          "total": 2
-        },
-        {
-          "name": "F賞 戰鬥陀螺 BX-48 隨機強化組Vol.09-版本隨機★",
-          "remaining": 1,
-          "total": 2
-        },
-        {
-          "name": "G賞 CX-00天馬爆擊焰紅版★★",
-          "remaining": 1,
-          "total": 1
-        },
-        {
-          "name": "H賞 BX-00 蒼穹龍騎士 2-60C★",
-          "remaining": 2,
-          "total": 2
-        },
-        {
-          "name": "I賞 戰鬥陀螺X(隨機一款)",
-          "remaining": 6,
-          "total": 8
-        },
-        {
-          "name": "J賞 吉伊卡哇系列周邊(隨機一款)",
-          "remaining": 17,
-          "total": 20
-        },
-        {
-          "name": "K賞 隨機IP一番賞小賞(隨機一款)",
-          "remaining": 170,
-          "total": 190
-        },
-        {
-          "name": "合計",
-          "remaining": 203,
-          "total": 230
-        }
-      ]
+      "prizes": []
     },
     "last_notified_at": 1786100533.5591328
   },
