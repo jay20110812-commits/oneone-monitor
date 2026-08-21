@@ -57149,7 +57149,7 @@
   "40391": {
     "snapshot": {
       "price": 299,
-      "remain": 398,
+      "remain": 396,
       "total": 400,
       "prizes": [
         {
@@ -57204,12 +57204,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 379,
+          "remaining": 377,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 398,
+          "remaining": 396,
           "total": 400
         }
       ]
