@@ -57149,7 +57149,7 @@
   "40391": {
     "snapshot": {
       "price": 299,
-      "remain": 396,
+      "remain": 394,
       "total": 400,
       "prizes": [
         {
@@ -57204,12 +57204,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 377,
+          "remaining": 375,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 396,
+          "remaining": 394,
           "total": 400
         }
       ]
@@ -57536,6 +57536,31 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40454": {
+    "snapshot": {
+      "price": 350,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00紅色空力天馬(拆檢盒、未拆袋)★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 97,
+          "total": 97
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
         }
       ]
     },
