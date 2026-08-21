@@ -56909,22 +56909,22 @@
   "40346": {
     "snapshot": {
       "price": 330,
-      "remain": 68,
+      "remain": 8,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-00紅色空力天馬(拆檢盒、未拆袋)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 66,
+          "remaining": 8,
           "total": 97
         },
         {
           "name": "合計",
-          "remaining": 68,
+          "remaining": 8,
           "total": 100
         }
       ]
