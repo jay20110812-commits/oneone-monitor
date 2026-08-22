@@ -56019,7 +56019,7 @@
   "40229": {
     "snapshot": {
       "price": 3900,
-      "remain": 70,
+      "remain": 69,
       "total": 70,
       "prizes": [
         {
@@ -56029,12 +56029,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機10款)",
-          "remaining": 65,
+          "remaining": 64,
           "total": 65
         },
         {
           "name": "合計",
-          "remaining": 70,
+          "remaining": 69,
           "total": 70
         }
       ]
@@ -57649,7 +57649,7 @@
   "40460": {
     "snapshot": {
       "price": 250,
-      "remain": 20,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -57659,12 +57659,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 16,
           "total": 20
         }
       ]
