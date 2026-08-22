@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 383,
+      "remain": 379,
       "total": 420,
       "prizes": [
         {
@@ -57349,7 +57349,7 @@
         },
         {
           "name": "D賞 UX-20女武神★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 367,
+          "remaining": 364,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 383,
+          "remaining": 379,
           "total": 420
         }
       ]
