@@ -57269,7 +57269,7 @@
   "40410": {
     "snapshot": {
       "price": 250,
-      "remain": 145,
+      "remain": 93,
       "total": 150,
       "prizes": [
         {
@@ -57279,7 +57279,7 @@
         },
         {
           "name": "A賞 UX-20 榮耀女武神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -57299,32 +57299,32 @@
         },
         {
           "name": "E賞 BX-35隨機強化組 vol.04★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "F賞 CX-10 銀狼狩獵★",
-          "remaining": 3,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "G賞 BX-24 隨機強化組Vol.02★",
-          "remaining": 6,
+          "remaining": 4,
           "total": 6
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 128,
+          "remaining": 83,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 145,
+          "remaining": 93,
           "total": 150
         }
       ]
     },
-    "last_notified_at": 1787247125.6454983
+    "last_notified_at": 1787376540.9904978
   },
   "40415": {
     "snapshot": {
@@ -57384,7 +57384,7 @@
   "40424": {
     "snapshot": {
       "price": 250,
-      "remain": 20,
+      "remain": 8,
       "total": 20,
       "prizes": [
         {
@@ -57394,17 +57394,17 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 8,
           "total": 20
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1787376539.7461066
   },
   "40427": {
     "snapshot": {
