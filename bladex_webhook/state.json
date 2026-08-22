@@ -57569,7 +57569,7 @@
   "40455": {
     "snapshot": {
       "price": 299,
-      "remain": 420,
+      "remain": 419,
       "total": 420,
       "prizes": [
         {
@@ -57609,12 +57609,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 403,
+          "remaining": 402,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 420,
+          "remaining": 419,
           "total": 420
         }
       ]
