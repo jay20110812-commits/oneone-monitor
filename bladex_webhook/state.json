@@ -57699,22 +57699,22 @@
   "40464": {
     "snapshot": {
       "price": 250,
-      "remain": 20,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 2,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 20
         }
       ]
