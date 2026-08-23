@@ -57795,5 +57795,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40475": {
+    "snapshot": {
+      "price": 200,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 代理版 戰鬥陀螺 UX-11 衝擊龍神豪華組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
