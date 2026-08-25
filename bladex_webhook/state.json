@@ -58110,5 +58110,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40545": {
+    "snapshot": {
+      "price": 1699,
+      "remain": 40,
+      "total": 40,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
+          "remaining": 10,
+          "total": 10
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 30,
+          "total": 30
+        },
+        {
+          "name": "合計",
+          "remaining": 40,
+          "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
