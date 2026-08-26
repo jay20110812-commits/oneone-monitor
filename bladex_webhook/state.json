@@ -56694,7 +56694,7 @@
   "40295": {
     "snapshot": {
       "price": 320,
-      "remain": 398,
+      "remain": 381,
       "total": 400,
       "prizes": [
         {
@@ -56724,7 +56724,7 @@
         },
         {
           "name": "E賞 BX-02 惡魔紅鐮 (附發射器)★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -56744,12 +56744,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 376,
+          "remaining": 360,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 398,
+          "remaining": 381,
           "total": 400
         }
       ]
@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 415,
+      "remain": 409,
       "total": 420,
       "prizes": [
         {
@@ -58199,17 +58199,17 @@
         },
         {
           "name": "G賞 BX-09通行證★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 398,
+          "remaining": 393,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 415,
+          "remaining": 409,
           "total": 420
         }
       ]
