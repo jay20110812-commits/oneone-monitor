@@ -55189,22 +55189,22 @@
   "40160": {
     "snapshot": {
       "price": 199,
-      "remain": 25,
+      "remain": 3,
       "total": 25,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺CX-19 隨機強化組 鱷魚戰輪精選★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 3,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 3,
           "total": 25
         }
       ]
