@@ -46509,7 +46509,7 @@
   "39207": {
     "snapshot": {
       "price": 250,
-      "remain": 313,
+      "remain": 303,
       "total": 398,
       "prizes": [
         {
@@ -46554,12 +46554,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 302,
+          "remaining": 292,
           "total": 383
         },
         {
           "name": "合計",
-          "remaining": 313,
+          "remaining": 303,
           "total": 398
         }
       ]
@@ -56044,7 +56044,7 @@
   "40233": {
     "snapshot": {
       "price": 299,
-      "remain": 342,
+      "remain": 324,
       "total": 400,
       "prizes": [
         {
@@ -56089,7 +56089,7 @@
         },
         {
           "name": "I賞 CX-18腕龍鞭打★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -56099,12 +56099,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 326,
+          "remaining": 309,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 342,
+          "remaining": 324,
           "total": 400
         }
       ]
@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 366,
+      "remain": 346,
       "total": 420,
       "prizes": [
         {
@@ -57359,7 +57359,7 @@
         },
         {
           "name": "F賞 BX-50×天堂圓環★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 351,
+          "remaining": 332,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 366,
+          "remaining": 346,
           "total": 420
         }
       ]
@@ -58219,7 +58219,7 @@
   "40552": {
     "snapshot": {
       "price": 299,
-      "remain": 420,
+      "remain": 418,
       "total": 420,
       "prizes": [
         {
@@ -58259,12 +58259,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 403,
+          "remaining": 401,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 420,
+          "remaining": 418,
           "total": 420
         }
       ]
@@ -58399,7 +58399,7 @@
   "40605": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 399,
       "total": 400,
       "prizes": [
         {
@@ -58454,12 +58454,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 381,
+          "remaining": 380,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 399,
           "total": 400
         }
       ]
@@ -58511,6 +58511,31 @@
           "name": "合計",
           "remaining": 25,
           "total": 25
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40630": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
