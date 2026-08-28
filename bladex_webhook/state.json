@@ -56044,7 +56044,7 @@
   "40233": {
     "snapshot": {
       "price": 299,
-      "remain": 324,
+      "remain": 314,
       "total": 400,
       "prizes": [
         {
@@ -56099,12 +56099,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 309,
+          "remaining": 299,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 324,
+          "remaining": 314,
           "total": 400
         }
       ]
@@ -56694,7 +56694,7 @@
   "40295": {
     "snapshot": {
       "price": 320,
-      "remain": 376,
+      "remain": 366,
       "total": 400,
       "prizes": [
         {
@@ -56744,12 +56744,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 356,
+          "remaining": 346,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 376,
+          "remaining": 366,
           "total": 400
         }
       ]
@@ -57219,7 +57219,7 @@
   "40396": {
     "snapshot": {
       "price": 250,
-      "remain": 30,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -57229,12 +57229,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 26,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 27,
           "total": 30
         }
       ]
@@ -58049,7 +58049,7 @@
   "40528": {
     "snapshot": {
       "price": 299,
-      "remain": 200,
+      "remain": 150,
       "total": 200,
       "prizes": [
         {
@@ -58064,7 +58064,7 @@
         },
         {
           "name": "B賞 3-70A紅色空力天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -58094,17 +58094,17 @@
         },
         {
           "name": "H賞 BX-49蒼龍突擊★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 143,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 150,
           "total": 200
         }
       ]
@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 409,
+      "remain": 407,
       "total": 420,
       "prizes": [
         {
@@ -58204,12 +58204,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 393,
+          "remaining": 391,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 409,
+          "remaining": 407,
           "total": 420
         }
       ]
