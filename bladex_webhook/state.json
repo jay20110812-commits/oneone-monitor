@@ -58399,7 +58399,7 @@
   "40605": {
     "snapshot": {
       "price": 299,
-      "remain": 395,
+      "remain": 386,
       "total": 400,
       "prizes": [
         {
@@ -58439,7 +58439,7 @@
         },
         {
           "name": "H賞 UX-19子彈獅鷲★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -58454,12 +58454,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 376,
+          "remaining": 368,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 395,
+          "remaining": 386,
           "total": 400
         }
       ]
