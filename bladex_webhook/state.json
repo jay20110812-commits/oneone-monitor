@@ -54528,7 +54528,7 @@
   },
   "40010": {
     "snapshot": {
-      "price": 299,
+      "price": 200,
       "remain": 294,
       "total": 301,
       "prizes": [
@@ -55113,7 +55113,7 @@
   },
   "40133": {
     "snapshot": {
-      "price": 199,
+      "price": 188,
       "remain": 25,
       "total": 25,
       "prizes": [
@@ -56694,7 +56694,7 @@
   "40295": {
     "snapshot": {
       "price": 320,
-      "remain": 366,
+      "remain": 356,
       "total": 400,
       "prizes": [
         {
@@ -56719,7 +56719,7 @@
         },
         {
           "name": "D賞 UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -56744,12 +56744,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 346,
+          "remaining": 337,
           "total": 378
         },
         {
           "name": "合計",
-          "remaining": 366,
+          "remaining": 356,
           "total": 400
         }
       ]
@@ -58561,6 +58561,56 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40678": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40676": {
+    "snapshot": {
+      "price": 399,
+      "remain": 50,
+      "total": 50,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺X BXH-14戰神伏特s4-70v(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 49,
+          "total": 49
+        },
+        {
+          "name": "合計",
+          "remaining": 50,
+          "total": 50
         }
       ]
     },
