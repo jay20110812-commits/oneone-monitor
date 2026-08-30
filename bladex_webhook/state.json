@@ -56424,7 +56424,7 @@
   "40246": {
     "snapshot": {
       "price": 288,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -56434,12 +56434,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 394,
+      "remain": 391,
       "total": 420,
       "prizes": [
         {
@@ -58189,7 +58189,7 @@
         },
         {
           "name": "E賞 UX-00天蠍長矛★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -58204,12 +58204,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 378,
+          "remaining": 376,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 394,
+          "remaining": 391,
           "total": 420
         }
       ]
