@@ -38240,7 +38240,7 @@
   "38183": {
     "snapshot": {
       "price": 199,
-      "remain": 200,
+      "remain": 125,
       "total": 200,
       "prizes": [
         {
@@ -38250,12 +38250,12 @@
         },
         {
           "name": "A賞 限定版CX-00 蒼龍翱翔 金屬黑塗裝版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 UX-00 FC巴塞隆納套裝★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38265,7 +38265,7 @@
         },
         {
           "name": "D賞 BX-34 蒼穹龍騎士豪華組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38275,7 +38275,7 @@
         },
         {
           "name": "F賞 CX-14 騎士堡壘★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -38290,12 +38290,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 191,
+          "remaining": 120,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 200,
+          "remaining": 125,
           "total": 200
         }
       ]
@@ -56424,7 +56424,7 @@
   "40246": {
     "snapshot": {
       "price": 288,
-      "remain": 29,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -56434,12 +56434,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 28,
           "total": 30
         }
       ]
@@ -57409,7 +57409,7 @@
   "40427": {
     "snapshot": {
       "price": 250,
-      "remain": 85,
+      "remain": 84,
       "total": 100,
       "prizes": [
         {
@@ -57454,17 +57454,17 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 74,
+          "remaining": 73,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 85,
+          "remaining": 84,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1787822720.423127
+    "last_notified_at": 1788165354.5296562
   },
   "40437": {
     "snapshot": {
@@ -58861,6 +58861,56 @@
           "name": "合計",
           "remaining": 36,
           "total": 36
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40767": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40770": {
+    "snapshot": {
+      "price": 229,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-11帝王威能(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
