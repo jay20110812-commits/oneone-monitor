@@ -59110,5 +59110,55 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40843": {
+    "snapshot": {
+      "price": 350,
+      "remain": 35,
+      "total": 35,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 34,
+          "total": 34
+        },
+        {
+          "name": "合計",
+          "remaining": 35,
+          "total": 35
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40842": {
+    "snapshot": {
+      "price": 350,
+      "remain": 35,
+      "total": 35,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 34,
+          "total": 34
+        },
+        {
+          "name": "合計",
+          "remaining": 35,
+          "total": 35
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
