@@ -57269,7 +57269,7 @@
   "40410": {
     "snapshot": {
       "price": 250,
-      "remain": 85,
+      "remain": 82,
       "total": 150,
       "prizes": [
         {
@@ -57294,7 +57294,7 @@
         },
         {
           "name": "D賞 UX-17 隕星龍騎士★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -57314,12 +57314,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞",
-          "remaining": 76,
+          "remaining": 74,
           "total": 133
         },
         {
           "name": "合計",
-          "remaining": 85,
+          "remaining": 82,
           "total": 150
         }
       ]
@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 313,
+      "remain": 310,
       "total": 420,
       "prizes": [
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 300,
+          "remaining": 297,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 313,
+          "remaining": 310,
           "total": 420
         }
       ]
