@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 391,
+      "remain": 373,
       "total": 420,
       "prizes": [
         {
@@ -58199,17 +58199,17 @@
         },
         {
           "name": "G賞 BX-09通行證★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 376,
+          "remaining": 359,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 391,
+          "remaining": 373,
           "total": 420
         }
       ]
@@ -59206,6 +59206,31 @@
           "name": "合計",
           "remaining": 50,
           "total": 50
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40867": {
+    "snapshot": {
+      "price": 350,
+      "remain": 36,
+      "total": 36,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 35,
+          "total": 35
+        },
+        {
+          "name": "合計",
+          "remaining": 36,
+          "total": 36
         }
       ]
     },
