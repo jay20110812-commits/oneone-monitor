@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 286,
+      "remain": 268,
       "total": 420,
       "prizes": [
         {
@@ -57339,7 +57339,7 @@
         },
         {
           "name": "B賞 UX-00紅天馬★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -57354,7 +57354,7 @@
         },
         {
           "name": "E賞 UX-03魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 274,
+          "remaining": 258,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 286,
+          "remaining": 268,
           "total": 420
         }
       ]
