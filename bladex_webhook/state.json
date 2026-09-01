@@ -57329,7 +57329,7 @@
   "40415": {
     "snapshot": {
       "price": 299,
-      "remain": 265,
+      "remain": 259,
       "total": 420,
       "prizes": [
         {
@@ -57369,12 +57369,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 255,
+          "remaining": 249,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 265,
+          "remaining": 259,
           "total": 420
         }
       ]
@@ -58114,7 +58114,7 @@
   "40545": {
     "snapshot": {
       "price": 1699,
-      "remain": 29,
+      "remain": 28,
       "total": 40,
       "prizes": [
         {
@@ -58124,12 +58124,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 21,
+          "remaining": 20,
           "total": 30
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 28,
           "total": 40
         }
       ]
@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 355,
+      "remain": 318,
       "total": 420,
       "prizes": [
         {
@@ -58174,12 +58174,12 @@
         },
         {
           "name": "B賞 UX-00紅天馬★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "C賞 UX-21地獄幽冥★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -58204,12 +58204,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 341,
+          "remaining": 306,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 355,
+          "remaining": 318,
           "total": 420
         }
       ]
@@ -59114,7 +59114,7 @@
   "40843": {
     "snapshot": {
       "price": 350,
-      "remain": 35,
+      "remain": 30,
       "total": 35,
       "prizes": [
         {
@@ -59124,12 +59124,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 34,
+          "remaining": 29,
           "total": 34
         },
         {
           "name": "合計",
-          "remaining": 35,
+          "remaining": 30,
           "total": 35
         }
       ]
