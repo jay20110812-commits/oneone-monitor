@@ -56019,22 +56019,22 @@
   "40229": {
     "snapshot": {
       "price": 3900,
-      "remain": 60,
+      "remain": 58,
       "total": 70,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺 黃金神杖整顆(無外盒拆袋全新未下場)★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 5
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機10款)",
-          "remaining": 55,
+          "remaining": 54,
           "total": 65
         },
         {
           "name": "合計",
-          "remaining": 60,
+          "remaining": 58,
           "total": 70
         }
       ]
