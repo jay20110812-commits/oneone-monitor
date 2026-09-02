@@ -58399,7 +58399,7 @@
   "40605": {
     "snapshot": {
       "price": 299,
-      "remain": 382,
+      "remain": 372,
       "total": 400,
       "prizes": [
         {
@@ -58454,12 +58454,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 364,
+          "remaining": 354,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 382,
+          "remaining": 372,
           "total": 400
         }
       ]
@@ -59289,12 +59289,12 @@
   "40914": {
     "snapshot": {
       "price": 159,
-      "remain": 100,
+      "remain": 58,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 UX-21 地獄幽冥三陀螺套組 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59304,12 +59304,12 @@
         },
         {
           "name": "C賞 UX-11衝擊龍神 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 BX-00 蒼龍神劍 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59324,12 +59324,12 @@
         },
         {
           "name": "G賞 一番賞小賞or動漫周邊小物(隨機IP一款)",
-          "remaining": 94,
+          "remaining": 55,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 58,
           "total": 100
         }
       ]
@@ -59406,6 +59406,56 @@
           "name": "合計",
           "remaining": 36,
           "total": 36
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40972": {
+    "snapshot": {
+      "price": 159,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 UX-21 地獄幽冥三陀螺套組 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-17 隕星龍騎士 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-11衝擊龍神 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 BX-00 蒼龍神劍 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 CX-18 腕龍鞭打 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 CX-13 龍王閃擊 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 一番賞小賞or動漫周邊小物(隨機IP一款)",
+          "remaining": 94,
+          "total": 94
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
         }
       ]
     },
