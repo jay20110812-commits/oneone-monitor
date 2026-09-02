@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 303,
+      "remain": 300,
       "total": 420,
       "prizes": [
         {
@@ -58204,12 +58204,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 291,
+          "remaining": 288,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 303,
+          "remaining": 300,
           "total": 420
         }
       ]
