@@ -59335,5 +59335,55 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "40919": {
+    "snapshot": {
+      "price": 270,
+      "remain": 350,
+      "total": 350,
+      "prizes": [
+        {
+          "name": "A賞 BX-00黃金神杖(未拆袋+無外盒)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-03魔導神杖 ★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 UX-20女武神★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 CX-18腕龍鞭打★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 CX-05隨機強化組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 BX-00日足限定黑白龍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 344,
+          "total": 344
+        },
+        {
+          "name": "合計",
+          "remaining": 350,
+          "total": 350
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
