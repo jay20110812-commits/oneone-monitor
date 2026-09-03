@@ -57544,22 +57544,22 @@
   "40454": {
     "snapshot": {
       "price": 350,
-      "remain": 60,
+      "remain": 54,
       "total": 100,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-00紅色空力天馬(拆檢盒、未拆袋)★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 58,
+          "remaining": 53,
           "total": 97
         },
         {
           "name": "合計",
-          "remaining": 60,
+          "remaining": 54,
           "total": 100
         }
       ]
@@ -59469,6 +59469,56 @@
       "prizes": [
         {
           "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40987": {
+    "snapshot": {
+      "price": 350,
+      "remain": 36,
+      "total": 36,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 35,
+          "total": 35
+        },
+        {
+          "name": "合計",
+          "remaining": 36,
+          "total": 36
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "40988": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
           "remaining": 1,
           "total": 1
         },
