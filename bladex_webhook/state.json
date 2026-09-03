@@ -56019,7 +56019,7 @@
   "40229": {
     "snapshot": {
       "price": 3900,
-      "remain": 58,
+      "remain": 55,
       "total": 70,
       "prizes": [
         {
@@ -56029,12 +56029,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機10款)",
-          "remaining": 54,
+          "remaining": 51,
           "total": 65
         },
         {
           "name": "合計",
-          "remaining": 58,
+          "remaining": 55,
           "total": 70
         }
       ]
@@ -59289,7 +59289,7 @@
   "40914": {
     "snapshot": {
       "price": 159,
-      "remain": 58,
+      "remain": 14,
       "total": 100,
       "prizes": [
         {
@@ -59299,7 +59299,7 @@
         },
         {
           "name": "B賞 UX-17 隕星龍騎士 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59314,22 +59314,22 @@
         },
         {
           "name": "E賞 CX-18 腕龍鞭打 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "F賞 CX-13 龍王閃擊 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "G賞 一番賞小賞or動漫周邊小物(隨機IP一款)",
-          "remaining": 55,
+          "remaining": 14,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 58,
+          "remaining": 14,
           "total": 100
         }
       ]
