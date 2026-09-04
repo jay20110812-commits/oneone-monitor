@@ -59464,12 +59464,12 @@
   "40980": {
     "snapshot": {
       "price": 109,
-      "remain": 15,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59479,7 +59479,7 @@
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 14,
           "total": 20
         }
       ]
