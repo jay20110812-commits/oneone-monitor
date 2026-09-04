@@ -53874,7 +53874,7 @@
   "39972": {
     "snapshot": {
       "price": 299,
-      "remain": 400,
+      "remain": 390,
       "total": 400,
       "prizes": [
         {
@@ -53894,7 +53894,7 @@
         },
         {
           "name": "D賞 UX-00 空力天馬 3-70A 紅色版★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -53919,12 +53919,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 385,
+          "remaining": 376,
           "total": 385
         },
         {
           "name": "合計",
-          "remaining": 400,
+          "remaining": 390,
           "total": 400
         }
       ]
