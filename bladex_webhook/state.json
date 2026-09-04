@@ -38240,7 +38240,7 @@
   "38183": {
     "snapshot": {
       "price": 199,
-      "remain": 124,
+      "remain": 123,
       "total": 200,
       "prizes": [
         {
@@ -38290,12 +38290,12 @@
         },
         {
           "name": "I賞 不限IP隨機小賞(隨機一款)",
-          "remaining": 119,
+          "remaining": 118,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 124,
+          "remaining": 123,
           "total": 200
         }
       ]
@@ -58399,7 +58399,7 @@
   "40605": {
     "snapshot": {
       "price": 299,
-      "remain": 359,
+      "remain": 356,
       "total": 400,
       "prizes": [
         {
@@ -58454,12 +58454,12 @@
         },
         {
           "name": "K賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 342,
+          "remaining": 339,
           "total": 381
         },
         {
           "name": "合計",
-          "remaining": 359,
+          "remaining": 356,
           "total": 400
         }
       ]
@@ -59556,6 +59556,56 @@
           "name": "合計",
           "remaining": 301,
           "total": 301
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41081": {
+    "snapshot": {
+      "price": 350,
+      "remain": 36,
+      "total": 36,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 35,
+          "total": 35
+        },
+        {
+          "name": "合計",
+          "remaining": 36,
+          "total": 36
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41082": {
+    "snapshot": {
+      "price": 109,
+      "remain": 19,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 18,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 19,
+          "total": 20
         }
       ]
     },
