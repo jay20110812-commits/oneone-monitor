@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 350,
+      "remain": 316,
       "total": 350,
       "prizes": [
         {
@@ -59349,7 +59349,7 @@
         },
         {
           "name": "B賞 UX-03魔導神杖 ★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 344,
+          "remaining": 311,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 350,
+          "remaining": 316,
           "total": 350
         }
       ]
