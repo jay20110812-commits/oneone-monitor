@@ -58374,22 +58374,22 @@
   "40610": {
     "snapshot": {
       "price": 360,
-      "remain": 20,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -59564,22 +59564,22 @@
   "41081": {
     "snapshot": {
       "price": 350,
-      "remain": 36,
+      "remain": 26,
       "total": 36,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 26,
           "total": 35
         },
         {
           "name": "合計",
-          "remaining": 36,
+          "remaining": 26,
           "total": 36
         }
       ]
