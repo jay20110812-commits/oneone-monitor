@@ -51169,7 +51169,7 @@
   "39652": {
     "snapshot": {
       "price": 300,
-      "remain": 30,
+      "remain": 28,
       "total": 30,
       "prizes": [
         {
@@ -51179,12 +51179,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 27,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 28,
           "total": 30
         }
       ]
