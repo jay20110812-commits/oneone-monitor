@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 305,
+      "remain": 304,
       "total": 350,
       "prizes": [
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 300,
+          "remaining": 299,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 305,
+          "remaining": 304,
           "total": 350
         }
       ]
