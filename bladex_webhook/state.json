@@ -56344,7 +56344,7 @@
   "40244": {
     "snapshot": {
       "price": 199,
-      "remain": 208,
+      "remain": 204,
       "total": 420,
       "prizes": [
         {
@@ -56384,12 +56384,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 201,
+          "remaining": 197,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 208,
+          "remaining": 204,
           "total": 420
         }
       ]
@@ -58219,7 +58219,7 @@
   "40552": {
     "snapshot": {
       "price": 299,
-      "remain": 365,
+      "remain": 358,
       "total": 420,
       "prizes": [
         {
@@ -58249,7 +58249,7 @@
         },
         {
           "name": "F賞 BX-50×天堂圓環★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -58259,12 +58259,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 350,
+          "remaining": 344,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 365,
+          "remaining": 358,
           "total": 420
         }
       ]
