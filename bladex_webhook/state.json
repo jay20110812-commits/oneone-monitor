@@ -56884,22 +56884,22 @@
   "40343": {
     "snapshot": {
       "price": 360,
-      "remain": 28,
+      "remain": 11,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 11,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 11,
           "total": 30
         }
       ]
@@ -58219,7 +58219,7 @@
   "40552": {
     "snapshot": {
       "price": 299,
-      "remain": 355,
+      "remain": 352,
       "total": 420,
       "prizes": [
         {
@@ -58259,12 +58259,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 341,
+          "remaining": 338,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 355,
+          "remaining": 352,
           "total": 420
         }
       ]
@@ -59614,7 +59614,7 @@
   "41117": {
     "snapshot": {
       "price": 229,
-      "remain": 30,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
@@ -59624,12 +59624,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 23,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 24,
           "total": 30
         }
       ]
