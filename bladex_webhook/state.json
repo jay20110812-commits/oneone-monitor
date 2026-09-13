@@ -56934,7 +56934,7 @@
   "40352": {
     "snapshot": {
       "price": 299,
-      "remain": 157,
+      "remain": 141,
       "total": 200,
       "prizes": [
         {
@@ -56984,12 +56984,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 150,
+          "remaining": 134,
           "total": 191
         },
         {
           "name": "合計",
-          "remaining": 157,
+          "remaining": 141,
           "total": 200
         }
       ]
