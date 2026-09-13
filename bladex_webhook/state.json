@@ -60274,7 +60274,7 @@
   "41400": {
     "snapshot": {
       "price": 339,
-      "remain": 36,
+      "remain": 32,
       "total": 36,
       "prizes": [
         {
@@ -60284,12 +60284,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 31,
           "total": 35
         },
         {
           "name": "合計",
-          "remaining": 36,
+          "remaining": 32,
           "total": 36
         }
       ]
