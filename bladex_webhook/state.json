@@ -59414,7 +59414,7 @@
   "40972": {
     "snapshot": {
       "price": 159,
-      "remain": 100,
+      "remain": 98,
       "total": 100,
       "prizes": [
         {
@@ -59449,12 +59449,12 @@
         },
         {
           "name": "G賞 一番賞小賞or動漫周邊小物(隨機IP一款)",
-          "remaining": 94,
+          "remaining": 92,
           "total": 94
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 98,
           "total": 100
         }
       ]
