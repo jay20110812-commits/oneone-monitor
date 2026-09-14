@@ -56344,7 +56344,7 @@
   "40244": {
     "snapshot": {
       "price": 199,
-      "remain": 204,
+      "remain": 200,
       "total": 420,
       "prizes": [
         {
@@ -56384,12 +56384,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 197,
+          "remaining": 193,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 204,
+          "remaining": 200,
           "total": 420
         }
       ]
