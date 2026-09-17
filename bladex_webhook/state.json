@@ -61395,5 +61395,30 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "41546": {
+    "snapshot": {
+      "price": 330,
+      "remain": 300,
+      "total": 300,
+      "prizes": [
+        {
+          "name": "A賞 UX-00藍空力天馬★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 299,
+          "total": 299
+        },
+        {
+          "name": "合計",
+          "remaining": 300,
+          "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
