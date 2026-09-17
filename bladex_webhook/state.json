@@ -58164,7 +58164,7 @@
   "40553": {
     "snapshot": {
       "price": 299,
-      "remain": 276,
+      "remain": 274,
       "total": 420,
       "prizes": [
         {
@@ -58204,12 +58204,12 @@
         },
         {
           "name": "H賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 266,
+          "remaining": 264,
           "total": 403
         },
         {
           "name": "合計",
-          "remaining": 276,
+          "remaining": 274,
           "total": 420
         }
       ]
@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 284,
+      "remain": 278,
       "total": 350,
       "prizes": [
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 280,
+          "remaining": 274,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 284,
+          "remaining": 278,
           "total": 350
         }
       ]
