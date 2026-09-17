@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 302,
+      "remain": 284,
       "total": 350,
       "prizes": [
         {
@@ -59364,7 +59364,7 @@
         },
         {
           "name": "E賞 CX-05隨機強化組★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 297,
+          "remaining": 280,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 302,
+          "remaining": 284,
           "total": 350
         }
       ]
@@ -60624,7 +60624,7 @@
   "41462": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -60634,12 +60634,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -61274,22 +61274,22 @@
   "41528": {
     "snapshot": {
       "price": 360,
-      "remain": 20,
+      "remain": 7,
       "total": 20,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 7,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 7,
           "total": 20
         }
       ]
@@ -61354,6 +61354,31 @@
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41544": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
           "remaining": 1,
           "total": 1
         },
