@@ -61558,7 +61558,7 @@
   },
   "41650": {
     "snapshot": {
-      "price": 150,
+      "price": 99,
       "remain": 25,
       "total": 25,
       "prizes": [
@@ -61782,6 +61782,31 @@
     "last_notified_at": 0.0
   },
   "41709": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41723": {
     "snapshot": {
       "price": 360,
       "remain": 20,
