@@ -60648,7 +60648,7 @@
   },
   "41458": {
     "snapshot": {
-      "price": 280,
+      "price": 230,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -61608,7 +61608,7 @@
   },
   "41670": {
     "snapshot": {
-      "price": 280,
+      "price": 230,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -61734,22 +61734,22 @@
   "41693": {
     "snapshot": {
       "price": 280,
-      "remain": 20,
+      "remain": 3,
       "total": 20,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 3,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 3,
           "total": 20
         }
       ]
@@ -61994,6 +61994,56 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41743": {
+    "snapshot": {
+      "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41742": {
+    "snapshot": {
+      "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
           "remaining": 19,
           "total": 19
         },
