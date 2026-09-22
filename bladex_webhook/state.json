@@ -62384,7 +62384,7 @@
   "41785": {
     "snapshot": {
       "price": 430,
-      "remain": 52,
+      "remain": 50,
       "total": 74,
       "prizes": [
         {
@@ -62414,7 +62414,7 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 14,
+          "remaining": 12,
           "total": 18
         },
         {
@@ -62424,12 +62424,12 @@
         },
         {
           "name": "合計",
-          "remaining": 52,
+          "remaining": 50,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1790090793.0910656
   },
   "41784": {
     "snapshot": {
@@ -62564,6 +62564,31 @@
       "prizes": [
         {
           "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41806": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
           "remaining": 1,
           "total": 1
         },
