@@ -60424,22 +60424,22 @@
   "41442": {
     "snapshot": {
       "price": 280,
-      "remain": 19,
+      "remain": 5,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 5,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 5,
           "total": 20
         }
       ]
@@ -62609,7 +62609,7 @@
   "41787": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 71,
       "total": 74,
       "prizes": [
         {
@@ -62629,12 +62629,12 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
@@ -62644,17 +62644,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 71,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1790122675.9442217
   },
   "41814": {
     "snapshot": {
