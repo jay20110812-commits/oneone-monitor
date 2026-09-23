@@ -60599,7 +60599,7 @@
   "41463": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -60609,12 +60609,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -62734,6 +62734,31 @@
   "41816": {
     "snapshot": {
       "price": 230,
+      "remain": 19,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 18,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 19,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41819": {
+    "snapshot": {
+      "price": 230,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -62756,14 +62781,64 @@
     },
     "last_notified_at": 0.0
   },
-  "41819": {
+  "41833": {
     "snapshot": {
-      "price": 230,
+      "price": 430,
+      "remain": 74,
+      "total": 74,
+      "prizes": [
+        {
+          "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "B賞 DMM限定色 旋風發射器☆★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 極限造型收納盒收納盒(全3款)",
+          "remaining": 9,
+          "total": 9
+        },
+        {
+          "name": "E賞 橡膠手環(全5種)",
+          "remaining": 15,
+          "total": 15
+        },
+        {
+          "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "合計",
+          "remaining": 74,
+          "total": 74
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41823": {
+    "snapshot": {
+      "price": 280,
       "remain": 20,
       "total": 20,
       "prizes": [
         {
-          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "name": "A賞 戰鬥陀螺CX-00迪卡狂怒FT3-60T代理版★",
           "remaining": 1,
           "total": 1
         },
