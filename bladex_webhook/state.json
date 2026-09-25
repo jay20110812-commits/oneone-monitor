@@ -63784,12 +63784,12 @@
   "41968": {
     "snapshot": {
       "price": 430,
-      "remain": 58,
+      "remain": 56,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -63809,7 +63809,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 15
         },
         {
@@ -63824,12 +63824,12 @@
         },
         {
           "name": "合計",
-          "remaining": 58,
+          "remaining": 56,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790361002.3460712
+    "last_notified_at": 1790361705.0906231
   },
   "41973": {
     "snapshot": {
