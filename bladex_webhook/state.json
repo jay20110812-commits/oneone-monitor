@@ -59539,22 +59539,22 @@
   "41047": {
     "snapshot": {
       "price": 150,
-      "remain": 242,
+      "remain": 232,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 9,
+          "remaining": 8,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 233,
+          "remaining": 224,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 242,
+          "remaining": 232,
           "total": 301
         }
       ]
@@ -63084,22 +63084,22 @@
   "41861": {
     "snapshot": {
       "price": 99,
-      "remain": 24,
+      "remain": 7,
       "total": 25,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺CX-19 隨機強化組 鱷魚戰輪精選★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 23,
+          "remaining": 7,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 24,
+          "remaining": 7,
           "total": 25
         }
       ]
@@ -63784,7 +63784,7 @@
   "41968": {
     "snapshot": {
       "price": 430,
-      "remain": 56,
+      "remain": 50,
       "total": 74,
       "prizes": [
         {
@@ -63794,12 +63794,12 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -63814,22 +63814,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 15,
-          "total": 18
-        },
-        {
-          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
           "remaining": 13,
           "total": 18
         },
         {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 11,
+          "total": 18
+        },
+        {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 50,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790361705.0906231
+    "last_notified_at": 1790427587.4390414
   },
   "41973": {
     "snapshot": {
@@ -64034,7 +64034,57 @@
   "41990": {
     "snapshot": {
       "price": 360,
-      "remain": 19,
+      "remain": 5,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 5,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 5,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41995": {
+    "snapshot": {
+      "price": 99,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺CX-19 隨機強化組 鱷魚戰輪精選★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41994": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
       "total": 20,
       "prizes": [
         {
@@ -64044,12 +64094,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 19,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 20,
           "total": 20
         }
       ]
