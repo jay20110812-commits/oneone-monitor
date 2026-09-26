@@ -59539,22 +59539,22 @@
   "41047": {
     "snapshot": {
       "price": 150,
-      "remain": 232,
+      "remain": 143,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 8,
+          "remaining": 5,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 224,
+          "remaining": 138,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 232,
+          "remaining": 143,
           "total": 301
         }
       ]
