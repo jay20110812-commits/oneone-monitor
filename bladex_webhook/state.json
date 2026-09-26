@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 254,
+      "remain": 253,
       "total": 350,
       "prizes": [
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 250,
+          "remaining": 249,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 254,
+          "remaining": 253,
           "total": 350
         }
       ]
@@ -63784,12 +63784,12 @@
   "41968": {
     "snapshot": {
       "price": 430,
-      "remain": 50,
+      "remain": 43,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -63804,32 +63804,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 10,
+          "remaining": 8,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 13,
-          "total": 18
-        },
-        {
-          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
           "remaining": 11,
           "total": 18
         },
         {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 10,
+          "total": 18
+        },
+        {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 43,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790427587.4390414
+    "last_notified_at": 1790442261.378737
   },
   "41973": {
     "snapshot": {
@@ -64089,6 +64089,56 @@
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41997": {
+    "snapshot": {
+      "price": 360,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "41998": {
+    "snapshot": {
+      "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
           "remaining": 1,
           "total": 1
         },
