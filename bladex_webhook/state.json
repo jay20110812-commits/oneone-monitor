@@ -63784,17 +63784,17 @@
   "41968": {
     "snapshot": {
       "price": 430,
-      "remain": 42,
+      "remain": 27,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 6
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 4,
+          "remaining": 1,
           "total": 6
         },
         {
@@ -63804,32 +63804,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 6,
+          "remaining": 4,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 8,
+          "remaining": 4,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 11,
+          "remaining": 7,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 42,
+          "remaining": 27,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790517057.1567688
+    "last_notified_at": 1790533025.9091885
   },
   "41973": {
     "snapshot": {
@@ -63909,7 +63909,7 @@
   "41983": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 73,
       "total": 74,
       "prizes": [
         {
@@ -63929,7 +63929,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
@@ -63949,12 +63949,12 @@
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 73,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1790533024.619553
   },
   "41982": {
     "snapshot": {
@@ -64234,7 +64234,7 @@
   "42008": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -64244,12 +64244,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -64376,6 +64376,56 @@
           "name": "合計",
           "remaining": 100,
           "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42019": {
+    "snapshot": {
+      "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42018": {
+    "snapshot": {
+      "price": 360,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
