@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 256,
+      "remain": 255,
       "total": 314,
       "prizes": [
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 244,
+          "remaining": 243,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 256,
+          "remaining": 255,
           "total": 314
         }
       ]
@@ -61398,7 +61398,7 @@
   },
   "41546": {
     "snapshot": {
-      "price": 330,
+      "price": 220,
       "remain": 300,
       "total": 300,
       "prizes": [
@@ -64259,7 +64259,7 @@
   "42013": {
     "snapshot": {
       "price": 360,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -64269,12 +64269,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -64434,12 +64434,12 @@
   "42029": {
     "snapshot": {
       "price": 430,
-      "remain": 61,
+      "remain": 52,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -64454,37 +64454,37 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 5,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 13,
+          "remaining": 12,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 12,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 17,
+          "remaining": 14,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 61,
+          "remaining": 52,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790608703.9452896
+    "last_notified_at": 1790632244.7563348
   },
   "42030": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -64494,12 +64494,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
