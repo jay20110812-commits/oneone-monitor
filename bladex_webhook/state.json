@@ -56019,7 +56019,7 @@
   "40229": {
     "snapshot": {
       "price": 3500,
-      "remain": 55,
+      "remain": 54,
       "total": 70,
       "prizes": [
         {
@@ -56029,12 +56029,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機10款)",
-          "remaining": 51,
+          "remaining": 50,
           "total": 65
         },
         {
           "name": "合計",
-          "remaining": 55,
+          "remaining": 54,
           "total": 70
         }
       ]
