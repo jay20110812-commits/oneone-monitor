@@ -59339,7 +59339,7 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 253,
+      "remain": 249,
       "total": 350,
       "prizes": [
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 249,
+          "remaining": 245,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 253,
+          "remaining": 249,
           "total": 350
         }
       ]
@@ -59539,7 +59539,7 @@
   "41047": {
     "snapshot": {
       "price": 150,
-      "remain": 66,
+      "remain": 62,
       "total": 301,
       "prizes": [
         {
@@ -59549,12 +59549,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 64,
+          "remaining": 60,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 66,
+          "remaining": 62,
           "total": 301
         }
       ]
@@ -61123,7 +61123,7 @@
   },
   "41502": {
     "snapshot": {
-      "price": 165,
+      "price": 155,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -64676,6 +64676,31 @@
           "name": "合計",
           "remaining": 74,
           "total": 74
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42161": {
+    "snapshot": {
+      "price": 339,
+      "remain": 36,
+      "total": 36,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 35,
+          "total": 35
+        },
+        {
+          "name": "合計",
+          "remaining": 36,
+          "total": 36
         }
       ]
     },
