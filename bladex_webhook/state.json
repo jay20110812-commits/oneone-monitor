@@ -59339,12 +59339,12 @@
   "40919": {
     "snapshot": {
       "price": 270,
-      "remain": 249,
+      "remain": 96,
       "total": 350,
       "prizes": [
         {
           "name": "A賞 BX-00黃金神杖(未拆袋+無外盒)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59354,12 +59354,12 @@
         },
         {
           "name": "C賞 UX-20女武神★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "D賞 CX-18腕龍鞭打★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -59374,12 +59374,12 @@
         },
         {
           "name": "G賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 245,
+          "remaining": 95,
           "total": 344
         },
         {
           "name": "合計",
-          "remaining": 249,
+          "remaining": 96,
           "total": 350
         }
       ]
