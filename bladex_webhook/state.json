@@ -64709,7 +64709,7 @@
   "42206": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 73,
       "total": 74,
       "prizes": [
         {
@@ -64734,7 +64734,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
@@ -64749,12 +64749,12 @@
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 73,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1790929424.937974
   },
   "42211": {
     "snapshot": {
@@ -64776,6 +64776,101 @@
           "name": "合計",
           "remaining": 40,
           "total": 40
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42229": {
+    "snapshot": {
+      "price": 270,
+      "remain": 300,
+      "total": 300,
+      "prizes": [
+        {
+          "name": "A賞 BX-00黃金神杖(未拆袋+無外盒)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-03魔導神杖 ★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 BX-49 蒼龍突擊★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 CX-00新世紀福音戰士(代理版)★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 UX-00紅色空力天馬(拆秤)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 294,
+          "total": 294
+        },
+        {
+          "name": "合計",
+          "remaining": 300,
+          "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42243": {
+    "snapshot": {
+      "price": 110,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-03 魔導神杖★",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞",
+          "remaining": 95,
+          "total": 95
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42242": {
+    "snapshot": {
+      "price": 220,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞",
+          "remaining": 95,
+          "total": 95
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
         }
       ]
     },
