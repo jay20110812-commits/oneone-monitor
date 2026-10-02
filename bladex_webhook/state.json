@@ -63909,12 +63909,12 @@
   "41983": {
     "snapshot": {
       "price": 430,
-      "remain": 61,
+      "remain": 54,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -63924,7 +63924,7 @@
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -63934,27 +63934,27 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 13,
+          "remaining": 12,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 15,
+          "remaining": 12,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 14,
+          "remaining": 13,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 61,
+          "remaining": 54,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790608705.1473432
+    "last_notified_at": 1790932943.0794992
   },
   "41982": {
     "snapshot": {
