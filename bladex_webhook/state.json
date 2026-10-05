@@ -63634,7 +63634,7 @@
   "41904": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -63644,12 +63644,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -64559,7 +64559,7 @@
   "42131": {
     "snapshot": {
       "price": 225,
-      "remain": 19,
+      "remain": 18,
       "total": 20,
       "prizes": [
         {
@@ -64569,12 +64569,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 18,
           "total": 20
         }
       ]
@@ -65024,7 +65024,7 @@
   "42293": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -65034,12 +65034,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -65115,6 +65115,81 @@
         {
           "name": "合計",
           "remaining": 29,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42362": {
+    "snapshot": {
+      "price": 199,
+      "remain": 300,
+      "total": 300,
+      "prizes": [
+        {
+          "name": "A賞 CX-00 龍神勇氣APP限定G環★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-00 飛龍翱翔(盒損)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 戰鬥陀螺CX-00新世紀福音戰士(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "D賞 BX-00日足限定黑白龍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "E賞 UX-00武士星劍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "F賞 CX-05 隨機強化組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "G賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 294,
+          "total": 294
+        },
+        {
+          "name": "合計",
+          "remaining": 300,
+          "total": 300
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42381": {
+    "snapshot": {
+      "price": 360,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
           "total": 30
         }
       ]
