@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 255,
+      "remain": 254,
       "total": 314,
       "prizes": [
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 243,
+          "remaining": 242,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 255,
+          "remaining": 254,
           "total": 314
         }
       ]
@@ -61399,7 +61399,7 @@
   "41546": {
     "snapshot": {
       "price": 220,
-      "remain": 300,
+      "remain": 292,
       "total": 300,
       "prizes": [
         {
@@ -61409,12 +61409,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 299,
+          "remaining": 291,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 300,
+          "remaining": 292,
           "total": 300
         }
       ]
@@ -61449,12 +61449,12 @@
   "41549": {
     "snapshot": {
       "price": 190,
-      "remain": 29,
+      "remain": 12,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 UX-20榮耀女武神(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -61464,12 +61464,12 @@
         },
         {
           "name": "C賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 11,
           "total": 28
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 12,
           "total": 30
         }
       ]
@@ -64709,7 +64709,7 @@
   "42206": {
     "snapshot": {
       "price": 430,
-      "remain": 73,
+      "remain": 72,
       "total": 74,
       "prizes": [
         {
@@ -64729,7 +64729,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
@@ -64749,12 +64749,12 @@
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 72,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1790929424.937974
+    "last_notified_at": 1791239538.5419261
   },
   "42211": {
     "snapshot": {
