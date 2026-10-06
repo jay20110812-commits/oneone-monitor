@@ -64709,7 +64709,7 @@
   "42206": {
     "snapshot": {
       "price": 430,
-      "remain": 72,
+      "remain": 71,
       "total": 74,
       "prizes": [
         {
@@ -64744,17 +64744,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 72,
+          "remaining": 71,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1791239538.5419261
+    "last_notified_at": 1791256648.9461796
   },
   "42211": {
     "snapshot": {
