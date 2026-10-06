@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 254,
+      "remain": 253,
       "total": 314,
       "prizes": [
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 242,
+          "remaining": 241,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 254,
+          "remaining": 253,
           "total": 314
         }
       ]
@@ -59539,22 +59539,22 @@
   "41047": {
     "snapshot": {
       "price": 150,
-      "remain": 62,
+      "remain": 12,
       "total": 301,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 10
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 60,
+          "remaining": 12,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 62,
+          "remaining": 12,
           "total": 301
         }
       ]
@@ -64784,7 +64784,7 @@
   "42229": {
     "snapshot": {
       "price": 270,
-      "remain": 300,
+      "remain": 298,
       "total": 300,
       "prizes": [
         {
@@ -64814,12 +64814,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 294,
+          "remaining": 292,
           "total": 294
         },
         {
           "name": "合計",
-          "remaining": 300,
+          "remaining": 298,
           "total": 300
         }
       ]
@@ -65024,22 +65024,22 @@
   "42293": {
     "snapshot": {
       "price": 230,
-      "remain": 17,
+      "remain": 5,
       "total": 20,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 16,
+          "remaining": 5,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 17,
+          "remaining": 5,
           "total": 20
         }
       ]
@@ -65191,6 +65191,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42430": {
+    "snapshot": {
+      "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
