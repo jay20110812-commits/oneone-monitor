@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 253,
+      "remain": 243,
       "total": 314,
       "prizes": [
         {
@@ -54644,7 +54644,7 @@
         },
         {
           "name": "C賞 BX-49蒼龍突擊★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 241,
+          "remaining": 232,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 253,
+          "remaining": 243,
           "total": 314
         }
       ]
@@ -65224,6 +65224,31 @@
   "42456": {
     "snapshot": {
       "price": 230,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42497": {
+    "snapshot": {
+      "price": 225,
       "remain": 20,
       "total": 20,
       "prizes": [
