@@ -61479,7 +61479,7 @@
   "41548": {
     "snapshot": {
       "price": 250,
-      "remain": 50,
+      "remain": 45,
       "total": 50,
       "prizes": [
         {
@@ -61494,12 +61494,12 @@
         },
         {
           "name": "C賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 48,
+          "remaining": 43,
           "total": 48
         },
         {
           "name": "合計",
-          "remaining": 50,
+          "remaining": 45,
           "total": 50
         }
       ]
@@ -64584,7 +64584,7 @@
   "42126": {
     "snapshot": {
       "price": 120,
-      "remain": 248,
+      "remain": 247,
       "total": 250,
       "prizes": [
         {
@@ -64594,12 +64594,12 @@
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 238,
+          "remaining": 237,
           "total": 240
         },
         {
           "name": "合計",
-          "remaining": 248,
+          "remaining": 247,
           "total": 250
         }
       ]
@@ -64609,22 +64609,22 @@
   "42125": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 11,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 CX-05 隨機強化組 VOL.6 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 11,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 11,
           "total": 20
         }
       ]
@@ -65490,6 +65490,31 @@
         {
           "name": "合計",
           "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42620": {
+    "snapshot": {
+      "price": 360,
+      "remain": 29,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 28,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 29,
           "total": 30
         }
       ]
