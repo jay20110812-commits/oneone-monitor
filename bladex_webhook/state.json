@@ -64509,7 +64509,7 @@
   "42103": {
     "snapshot": {
       "price": 230,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -64519,12 +64519,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -65374,7 +65374,7 @@
   "42575": {
     "snapshot": {
       "price": 99,
-      "remain": 24,
+      "remain": 17,
       "total": 25,
       "prizes": [
         {
@@ -65384,12 +65384,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 23,
+          "remaining": 16,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 24,
+          "remaining": 17,
           "total": 25
         }
       ]
@@ -65399,22 +65399,22 @@
   "42573": {
     "snapshot": {
       "price": 225,
-      "remain": 20,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞【不限版本】戰鬥陀螺BX-52光澤青龍 6-60LC★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -65424,22 +65424,22 @@
   "42604": {
     "snapshot": {
       "price": 360,
-      "remain": 30,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 6,
           "total": 30
         }
       ]
