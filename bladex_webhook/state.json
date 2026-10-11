@@ -64584,7 +64584,7 @@
   "42126": {
     "snapshot": {
       "price": 120,
-      "remain": 247,
+      "remain": 237,
       "total": 250,
       "prizes": [
         {
@@ -64594,12 +64594,12 @@
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 237,
+          "remaining": 227,
           "total": 240
         },
         {
           "name": "合計",
-          "remaining": 247,
+          "remaining": 237,
           "total": 250
         }
       ]
@@ -64784,7 +64784,7 @@
   "42229": {
     "snapshot": {
       "price": 270,
-      "remain": 258,
+      "remain": 257,
       "total": 300,
       "prizes": [
         {
@@ -64814,12 +64814,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 253,
+          "remaining": 252,
           "total": 294
         },
         {
           "name": "合計",
-          "remaining": 258,
+          "remaining": 257,
           "total": 300
         }
       ]
@@ -65524,22 +65524,22 @@
   "42632": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 5,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 CX-05 隨機強化組 VOL.6 (不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 5,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 5,
           "total": 20
         }
       ]
@@ -65554,6 +65554,31 @@
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42636": {
+    "snapshot": {
+      "price": 150,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X CX-11帝王威能(日版)★",
           "remaining": 1,
           "total": 1
         },
