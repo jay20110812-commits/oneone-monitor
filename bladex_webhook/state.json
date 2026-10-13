@@ -65049,7 +65049,7 @@
   "42314": {
     "snapshot": {
       "price": 430,
-      "remain": 45,
+      "remain": 44,
       "total": 74,
       "prizes": [
         {
@@ -65069,7 +65069,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 4,
+          "remaining": 3,
           "total": 9
         },
         {
@@ -65089,12 +65089,12 @@
         },
         {
           "name": "合計",
-          "remaining": 45,
+          "remaining": 44,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1791792836.9144108
+    "last_notified_at": 1791877083.5205548
   },
   "42318": {
     "snapshot": {
