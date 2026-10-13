@@ -64634,7 +64634,7 @@
   "42148": {
     "snapshot": {
       "price": 430,
-      "remain": 53,
+      "remain": 52,
       "total": 74,
       "prizes": [
         {
@@ -64659,7 +64659,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 15
         },
         {
@@ -64674,12 +64674,12 @@
         },
         {
           "name": "合計",
-          "remaining": 53,
+          "remaining": 52,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1791639190.7271945
+    "last_notified_at": 1791906826.5892432
   },
   "42161": {
     "snapshot": {
@@ -65049,7 +65049,7 @@
   "42314": {
     "snapshot": {
       "price": 430,
-      "remain": 44,
+      "remain": 36,
       "total": 74,
       "prizes": [
         {
@@ -65059,7 +65059,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -65074,27 +65074,27 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 12,
+          "remaining": 8,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 11,
+          "remaining": 9,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 44,
+          "remaining": 36,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1791877083.5205548
+    "last_notified_at": 1791906825.2390034
   },
   "42318": {
     "snapshot": {
@@ -65173,7 +65173,7 @@
   },
   "42381": {
     "snapshot": {
-      "price": 360,
+      "price": 330,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -65498,23 +65498,23 @@
   },
   "42620": {
     "snapshot": {
-      "price": 360,
-      "remain": 27,
+      "price": 330,
+      "remain": 4,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 26,
+          "remaining": 4,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 27,
+          "remaining": 4,
           "total": 30
         }
       ]
@@ -65691,6 +65691,31 @@
           "name": "合計",
           "remaining": 25,
           "total": 25
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42743": {
+    "snapshot": {
+      "price": 330,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
         }
       ]
     },
