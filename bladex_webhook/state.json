@@ -65674,22 +65674,22 @@
   "42681": {
     "snapshot": {
       "price": 99,
-      "remain": 25,
+      "remain": 8,
       "total": 25,
       "prizes": [
         {
           "name": "A賞戰鬥陀螺CX-19 隨機強化組 鱷魚戰輪精選★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 24,
+          "remaining": 8,
           "total": 24
         },
         {
           "name": "合計",
-          "remaining": 25,
+          "remaining": 8,
           "total": 25
         }
       ]
@@ -65697,6 +65697,31 @@
     "last_notified_at": 0.0
   },
   "42743": {
+    "snapshot": {
+      "price": 330,
+      "remain": 20,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 20,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42789": {
     "snapshot": {
       "price": 330,
       "remain": 29,
