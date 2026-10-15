@@ -65829,22 +65829,22 @@
   "42821": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 10,
           "total": 20
         }
       ]
@@ -66071,6 +66071,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42825": {
+    "snapshot": {
+      "price": 120,
+      "remain": 301,
+      "total": 301,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺X UX-15絞鯊狂鱗改造組(不限版本)★",
+          "remaining": 10,
+          "total": 10
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 291,
+          "total": 291
+        },
+        {
+          "name": "合計",
+          "remaining": 301,
+          "total": 301
         }
       ]
     },
