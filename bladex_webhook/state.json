@@ -64634,7 +64634,7 @@
   "42148": {
     "snapshot": {
       "price": 430,
-      "remain": 34,
+      "remain": 33,
       "total": 74,
       "prizes": [
         {
@@ -64659,7 +64659,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 15
         },
         {
@@ -64674,12 +64674,12 @@
         },
         {
           "name": "合計",
-          "remaining": 34,
+          "remaining": 33,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792057606.7078185
+    "last_notified_at": 1792060413.4999673
   },
   "42161": {
     "snapshot": {
@@ -64784,7 +64784,7 @@
   "42229": {
     "snapshot": {
       "price": 270,
-      "remain": 253,
+      "remain": 250,
       "total": 300,
       "prizes": [
         {
@@ -64814,12 +64814,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 248,
+          "remaining": 245,
           "total": 294
         },
         {
           "name": "合計",
-          "remaining": 253,
+          "remaining": 250,
           "total": 300
         }
       ]
@@ -65904,7 +65904,7 @@
   "42814": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -65914,12 +65914,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
