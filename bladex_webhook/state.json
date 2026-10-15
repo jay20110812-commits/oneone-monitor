@@ -65795,5 +65795,35 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "42801": {
+    "snapshot": {
+      "price": 190,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 UX-20榮耀女武神(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-19子彈獅鷲(不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "C賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 28,
+          "total": 28
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
