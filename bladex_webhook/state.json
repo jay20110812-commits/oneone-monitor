@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 243,
+      "remain": 235,
       "total": 314,
       "prizes": [
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 232,
+          "remaining": 224,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 243,
+          "remaining": 235,
           "total": 314
         }
       ]
@@ -64634,12 +64634,12 @@
   "42148": {
     "snapshot": {
       "price": 430,
-      "remain": 37,
+      "remain": 36,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 6
         },
         {
@@ -64674,12 +64674,12 @@
         },
         {
           "name": "合計",
-          "remaining": 37,
+          "remaining": 36,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1791910530.6960788
+    "last_notified_at": 1792038270.4887495
   },
   "42161": {
     "snapshot": {
@@ -65574,22 +65574,22 @@
   "42636": {
     "snapshot": {
       "price": 150,
-      "remain": 30,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X CX-11帝王威能(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 6,
           "total": 30
         }
       ]
