@@ -64784,7 +64784,7 @@
   "42229": {
     "snapshot": {
       "price": 270,
-      "remain": 249,
+      "remain": 247,
       "total": 300,
       "prizes": [
         {
@@ -64814,12 +64814,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 244,
+          "remaining": 242,
           "total": 294
         },
         {
           "name": "合計",
-          "remaining": 249,
+          "remaining": 247,
           "total": 300
         }
       ]
@@ -65324,7 +65324,7 @@
   "42593": {
     "snapshot": {
       "price": 330,
-      "remain": 29,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -65334,12 +65334,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 26,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 27,
           "total": 30
         }
       ]
@@ -65879,22 +65879,22 @@
   "42815": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 6,
           "total": 30
         }
       ]
@@ -66404,6 +66404,31 @@
   "42844": {
     "snapshot": {
       "price": 290,
+      "remain": 5,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 5,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 5,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42847": {
+    "snapshot": {
+      "price": 290,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -66426,7 +66451,107 @@
     },
     "last_notified_at": 0.0
   },
-  "42847": {
+  "42869": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42868": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42863": {
+    "snapshot": {
+      "price": 330,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞【不限版本】BX-53 All-in-One Set★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42851": {
+    "snapshot": {
+      "price": 130,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "42850": {
     "snapshot": {
       "price": 290,
       "remain": 30,
