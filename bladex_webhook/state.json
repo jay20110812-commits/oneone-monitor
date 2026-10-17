@@ -66629,22 +66629,22 @@
   "42892": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 16,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 16,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 16,
           "total": 30
         }
       ]
