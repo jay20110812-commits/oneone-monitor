@@ -59998,7 +59998,7 @@
   },
   "41259": {
     "snapshot": {
-      "price": 350,
+      "price": 199,
       "remain": 100,
       "total": 100,
       "prizes": [
@@ -64584,7 +64584,7 @@
   "42126": {
     "snapshot": {
       "price": 120,
-      "remain": 234,
+      "remain": 231,
       "total": 250,
       "prizes": [
         {
@@ -64594,12 +64594,12 @@
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 225,
+          "remaining": 222,
           "total": 240
         },
         {
           "name": "合計",
-          "remaining": 234,
+          "remaining": 231,
           "total": 250
         }
       ]
