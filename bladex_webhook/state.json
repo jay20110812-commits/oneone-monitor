@@ -63659,12 +63659,12 @@
   "41905": {
     "snapshot": {
       "price": 430,
-      "remain": 60,
+      "remain": 48,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -63684,27 +63684,27 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 12,
+          "remaining": 9,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 14,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 14,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 60,
+          "remaining": 48,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792523456.0680377
+    "last_notified_at": 1792537687.4839847
   },
   "41913": {
     "snapshot": {
@@ -65174,22 +65174,22 @@
   "42381": {
     "snapshot": {
       "price": 330,
-      "remain": 30,
+      "remain": 24,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 24,
           "total": 30
         }
       ]
@@ -67329,22 +67329,22 @@
   "42987": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 21,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 21,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 21,
           "total": 30
         }
       ]
