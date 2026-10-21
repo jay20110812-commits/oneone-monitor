@@ -59913,7 +59913,7 @@
   },
   "41220": {
     "snapshot": {
-      "price": 120,
+      "price": 109,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -62784,7 +62784,7 @@
   "41833": {
     "snapshot": {
       "price": 430,
-      "remain": 68,
+      "remain": 62,
       "total": 74,
       "prizes": [
         {
@@ -62794,7 +62794,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -62804,7 +62804,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 8,
+          "remaining": 7,
           "total": 9
         },
         {
@@ -62814,22 +62814,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 17,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 17,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 68,
+          "remaining": 62,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792567665.4628613
+    "last_notified_at": 1792590129.202383
   },
   "41823": {
     "snapshot": {
@@ -67736,6 +67736,151 @@
           "name": "合計",
           "remaining": 74,
           "total": 74
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43043": {
+    "snapshot": {
+      "price": 430,
+      "remain": 74,
+      "total": 74,
+      "prizes": [
+        {
+          "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "B賞 DMM限定色 旋風發射器☆★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 極限造型收納盒收納盒(全3款)",
+          "remaining": 9,
+          "total": 9
+        },
+        {
+          "name": "E賞 橡膠手環(全5種)",
+          "remaining": 15,
+          "total": 15
+        },
+        {
+          "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "合計",
+          "remaining": 74,
+          "total": 74
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43042": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43041": {
+    "snapshot": {
+      "price": 130,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43038": {
+    "snapshot": {
+      "price": 180,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "SP賞 CX-00 空力天馬 3-70A 紅色版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "A賞 UX-00 榮耀武神 LF 金屬塗裝:藍★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-03 魔導神杖★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "C賞 BX-35 隨機強化組 Vol.4★",
+          "remaining": 3,
+          "total": 3
+        },
+        {
+          "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
+          "remaining": 5,
+          "total": 5
+        },
+        {
+          "name": "E賞 不限IP一番賞小賞",
+          "remaining": 87,
+          "total": 87
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
         }
       ]
     },
