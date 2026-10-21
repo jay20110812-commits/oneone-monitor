@@ -50744,7 +50744,7 @@
   "39592": {
     "snapshot": {
       "price": 120,
-      "remain": 75,
+      "remain": 71,
       "total": 301,
       "prizes": [
         {
@@ -50754,12 +50754,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 73,
+          "remaining": 69,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 75,
+          "remaining": 71,
           "total": 301
         }
       ]
@@ -60373,7 +60373,7 @@
   },
   "41413": {
     "snapshot": {
-      "price": 220,
+      "price": 199,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -60773,7 +60773,7 @@
   },
   "41481": {
     "snapshot": {
-      "price": 160,
+      "price": 120,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -62558,7 +62558,7 @@
   },
   "41783": {
     "snapshot": {
-      "price": 109,
+      "price": 120,
       "remain": 19,
       "total": 20,
       "prizes": [
@@ -62784,12 +62784,12 @@
   "41833": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 68,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -62804,36 +62804,36 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 68,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1792567665.4628613
   },
   "41823": {
     "snapshot": {
-      "price": 280,
+      "price": 150,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -63108,7 +63108,7 @@
   },
   "41860": {
     "snapshot": {
-      "price": 140,
+      "price": 109,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -63659,12 +63659,12 @@
   "41905": {
     "snapshot": {
       "price": 430,
-      "remain": 41,
+      "remain": 34,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 6
         },
         {
@@ -63674,17 +63674,17 @@
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 8,
+          "remaining": 7,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 7,
+          "remaining": 4,
           "total": 15
         },
         {
@@ -63694,17 +63694,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 41,
+          "remaining": 34,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792546244.35959
+    "last_notified_at": 1792567664.3513672
   },
   "41913": {
     "snapshot": {
@@ -65623,7 +65623,7 @@
   },
   "42656": {
     "snapshot": {
-      "price": 165,
+      "price": 150,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -67519,6 +67519,31 @@
   "43015": {
     "snapshot": {
       "price": 290,
+      "remain": 21,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 21,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 21,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43034": {
+    "snapshot": {
+      "price": 290,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -67536,6 +67561,131 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43018": {
+    "snapshot": {
+      "price": 290,
+      "remain": 22,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 22,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 22,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43020": {
+    "snapshot": {
+      "price": 109,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 CX-08 隨機強化組 vol.7(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43019": {
+    "snapshot": {
+      "price": 199,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 CX-05 隨機強化組 VOL.6 (不限版本)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43017": {
+    "snapshot": {
+      "price": 99,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 韓版BX-21惡魔鎖鏈改造組★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43016": {
+    "snapshot": {
+      "price": 99,
+      "remain": 25,
+      "total": 25,
+      "prizes": [
+        {
+          "name": "A賞戰鬥陀螺CX-19 隨機強化組 鱷魚戰輪精選★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 24,
+          "total": 24
+        },
+        {
+          "name": "合計",
+          "remaining": 25,
+          "total": 25
         }
       ]
     },
