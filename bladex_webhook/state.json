@@ -59999,7 +59999,7 @@
   "41259": {
     "snapshot": {
       "price": 199,
-      "remain": 100,
+      "remain": 99,
       "total": 100,
       "prizes": [
         {
@@ -60009,12 +60009,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 97,
+          "remaining": 96,
           "total": 97
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 99,
           "total": 100
         }
       ]
@@ -64509,7 +64509,7 @@
   "42103": {
     "snapshot": {
       "price": 230,
-      "remain": 19,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -64519,12 +64519,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 17,
           "total": 20
         }
       ]
@@ -67694,12 +67694,12 @@
   "43035": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 68,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -67709,12 +67709,12 @@
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
@@ -67724,27 +67724,27 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 68,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1792676610.2270384
   },
   "43043": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 71,
       "total": 74,
       "prizes": [
         {
@@ -67774,22 +67774,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 71,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1792676608.9929063
   },
   "43042": {
     "snapshot": {
