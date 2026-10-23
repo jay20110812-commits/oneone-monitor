@@ -67694,7 +67694,7 @@
   "43035": {
     "snapshot": {
       "price": 430,
-      "remain": 68,
+      "remain": 62,
       "total": 74,
       "prizes": [
         {
@@ -67704,7 +67704,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -67714,32 +67714,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 8,
+          "remaining": 7,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 17,
-          "total": 18
-        },
-        {
-          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
           "remaining": 16,
           "total": 18
         },
         {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 15,
+          "total": 18
+        },
+        {
           "name": "合計",
-          "remaining": 68,
+          "remaining": 62,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792676610.2270384
+    "last_notified_at": 1792779319.6049452
   },
   "43043": {
     "snapshot": {
@@ -68014,7 +68014,7 @@
   "43091": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 29,
       "total": 30,
       "prizes": [
         {
@@ -68024,12 +68024,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 28,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 29,
           "total": 30
         }
       ]
@@ -68039,17 +68039,17 @@
   "43093": {
     "snapshot": {
       "price": 430,
-      "remain": 67,
+      "remain": 48,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -68059,32 +68059,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 5,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 14,
+          "remaining": 9,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 17,
+          "remaining": 13,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 16,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 67,
+          "remaining": 48,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792761595.1769698
+    "last_notified_at": 1792779318.2071674
   },
   "43095": {
     "snapshot": {
