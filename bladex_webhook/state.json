@@ -67744,7 +67744,7 @@
   "43043": {
     "snapshot": {
       "price": 430,
-      "remain": 34,
+      "remain": 32,
       "total": 74,
       "prizes": [
         {
@@ -67764,7 +67764,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 9
         },
         {
@@ -67774,7 +67774,7 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 18
         },
         {
@@ -67784,12 +67784,12 @@
         },
         {
           "name": "合計",
-          "remaining": 34,
+          "remaining": 32,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792740793.518494
+    "last_notified_at": 1792741478.4381504
   },
   "43042": {
     "snapshot": {
