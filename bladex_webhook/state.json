@@ -64784,7 +64784,7 @@
   "42229": {
     "snapshot": {
       "price": 270,
-      "remain": 231,
+      "remain": 230,
       "total": 300,
       "prizes": [
         {
@@ -64814,12 +64814,12 @@
         },
         {
           "name": "F賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 227,
+          "remaining": 226,
           "total": 294
         },
         {
           "name": "合計",
-          "remaining": 231,
+          "remaining": 230,
           "total": 300
         }
       ]
