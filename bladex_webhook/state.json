@@ -62784,7 +62784,7 @@
   "41833": {
     "snapshot": {
       "price": 400,
-      "remain": 62,
+      "remain": 56,
       "total": 74,
       "prizes": [
         {
@@ -62794,7 +62794,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -62804,12 +62804,12 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 13,
+          "remaining": 11,
           "total": 15
         },
         {
@@ -62819,17 +62819,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 62,
+          "remaining": 56,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792864994.6718729
+    "last_notified_at": 1792954470.2020497
   },
   "41823": {
     "snapshot": {
@@ -68656,6 +68656,56 @@
           "name": "合計",
           "remaining": 20,
           "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43182": {
+    "snapshot": {
+      "price": 280,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 CX-16 極限衝擊對戰組C(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/動漫周邊小物(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43181": {
+    "snapshot": {
+      "price": 330,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺 CX-16 極限衝擊對戰組C(代理版)★",
+          "remaining": 10,
+          "total": 10
+        },
+        {
+          "name": "B賞 一番賞小賞/動漫周邊小物(隨機一款)",
+          "remaining": 90,
+          "total": 90
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
         }
       ]
     },
