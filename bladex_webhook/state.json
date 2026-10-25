@@ -64509,7 +64509,7 @@
   "42103": {
     "snapshot": {
       "price": 230,
-      "remain": 17,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -64519,12 +64519,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 16,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 17,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -68288,7 +68288,7 @@
   },
   "43106": {
     "snapshot": {
-      "price": 430,
+      "price": 409,
       "remain": 74,
       "total": 74,
       "prizes": [
@@ -68334,7 +68334,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1792907722.1047275
   },
   "43105": {
     "snapshot": {
@@ -68489,7 +68489,7 @@
   "43140": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 73,
       "total": 74,
       "prizes": [
         {
@@ -68524,17 +68524,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 73,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1792907720.9103904
   },
   "43138": {
     "snapshot": {
@@ -68606,6 +68606,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43152": {
+    "snapshot": {
+      "price": 130,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
