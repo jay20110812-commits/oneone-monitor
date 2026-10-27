@@ -67844,7 +67844,7 @@
   "43038": {
     "snapshot": {
       "price": 180,
-      "remain": 95,
+      "remain": 88,
       "total": 100,
       "prizes": [
         {
@@ -67869,22 +67869,22 @@
         },
         {
           "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
-          "remaining": 5,
+          "remaining": 3,
           "total": 5
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 82,
+          "remaining": 77,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 95,
+          "remaining": 88,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1792761597.4767563
+    "last_notified_at": 1793112290.88353
   },
   "43049": {
     "snapshot": {
