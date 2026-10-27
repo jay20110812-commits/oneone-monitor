@@ -67914,7 +67914,7 @@
   "43055": {
     "snapshot": {
       "price": 250,
-      "remain": 28,
+      "remain": 23,
       "total": 30,
       "prizes": [
         {
@@ -67924,12 +67924,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 27,
+          "remaining": 22,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 28,
+          "remaining": 23,
           "total": 30
         }
       ]
@@ -68288,7 +68288,7 @@
   },
   "43106": {
     "snapshot": {
-      "price": 409,
+      "price": 395,
       "remain": 64,
       "total": 74,
       "prizes": [
@@ -68334,7 +68334,7 @@
         }
       ]
     },
-    "last_notified_at": 1792926805.7280831
+    "last_notified_at": 1793110903.2583745
   },
   "43105": {
     "snapshot": {
@@ -68880,6 +68880,31 @@
         {
           "name": "合計",
           "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43226": {
+    "snapshot": {
+      "price": 290,
+      "remain": 29,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 28,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 29,
           "total": 30
         }
       ]
