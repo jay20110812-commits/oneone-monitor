@@ -62784,12 +62784,12 @@
   "41833": {
     "snapshot": {
       "price": 400,
-      "remain": 56,
+      "remain": 53,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
@@ -62809,12 +62809,12 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 18
         },
         {
@@ -62824,12 +62824,12 @@
         },
         {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 53,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1792954470.2020497
+    "last_notified_at": 1793131278.080434
   },
   "41823": {
     "snapshot": {
@@ -67844,7 +67844,7 @@
   "43038": {
     "snapshot": {
       "price": 180,
-      "remain": 88,
+      "remain": 83,
       "total": 100,
       "prizes": [
         {
@@ -67864,7 +67864,7 @@
         },
         {
           "name": "C賞 BX-35 隨機強化組 Vol.4★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -67874,17 +67874,17 @@
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 77,
+          "remaining": 73,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 88,
+          "remaining": 83,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1793112290.88353
+    "last_notified_at": 1793131279.682554
   },
   "43049": {
     "snapshot": {
