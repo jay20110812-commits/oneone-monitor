@@ -62783,7 +62783,7 @@
   },
   "41833": {
     "snapshot": {
-      "price": 400,
+      "price": 385,
       "remain": 53,
       "total": 74,
       "prizes": [
@@ -62829,7 +62829,7 @@
         }
       ]
     },
-    "last_notified_at": 1793131278.080434
+    "last_notified_at": 1793191215.2135355
   },
   "41823": {
     "snapshot": {
@@ -66603,7 +66603,7 @@
   },
   "42894": {
     "snapshot": {
-      "price": 330,
+      "price": 315,
       "remain": 30,
       "total": 30,
       "prizes": [
@@ -68289,12 +68289,12 @@
   "43106": {
     "snapshot": {
       "price": 395,
-      "remain": 51,
+      "remain": 47,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -68314,27 +68314,27 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 8,
+          "remaining": 7,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 12,
+          "remaining": 11,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 51,
+          "remaining": 47,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793165787.899782
+    "last_notified_at": 1793191218.9946933
   },
   "43105": {
     "snapshot": {
@@ -68764,7 +68764,7 @@
   "43202": {
     "snapshot": {
       "price": 399,
-      "remain": 73,
+      "remain": 68,
       "total": 74,
       "prizes": [
         {
@@ -68779,7 +68779,7 @@
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -68789,7 +68789,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
@@ -68799,17 +68799,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 68,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793165084.0834103
+    "last_notified_at": 1793191213.9873588
   },
   "43205": {
     "snapshot": {
@@ -68914,7 +68914,7 @@
   "43237": {
     "snapshot": {
       "price": 180,
-      "remain": 100,
+      "remain": 99,
       "total": 100,
       "prizes": [
         {
@@ -68944,17 +68944,17 @@
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 87,
+          "remaining": 86,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 100,
+          "remaining": 99,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1793191216.7422824
   },
   "43243": {
     "snapshot": {
@@ -68964,6 +68964,56 @@
       "prizes": [
         {
           "name": "A賞 時鐘幻象 4-55S (全新拆盒未拆袋有QR-日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43261": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43263": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
           "remaining": 1,
           "total": 1
         },
