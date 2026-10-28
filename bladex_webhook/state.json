@@ -68289,7 +68289,7 @@
   "43106": {
     "snapshot": {
       "price": 395,
-      "remain": 52,
+      "remain": 51,
       "total": 74,
       "prizes": [
         {
@@ -68319,7 +68319,7 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 13,
+          "remaining": 12,
           "total": 18
         },
         {
@@ -68329,12 +68329,12 @@
         },
         {
           "name": "合計",
-          "remaining": 52,
+          "remaining": 51,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793144553.201204
+    "last_notified_at": 1793165787.899782
   },
   "43105": {
     "snapshot": {
