@@ -68914,7 +68914,7 @@
   "43237": {
     "snapshot": {
       "price": 180,
-      "remain": 93,
+      "remain": 81,
       "total": 100,
       "prizes": [
         {
@@ -68929,12 +68929,12 @@
         },
         {
           "name": "B賞 UX-03 魔導神杖★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
           "name": "C賞 BX-35 隨機強化組 Vol.4★",
-          "remaining": 3,
+          "remaining": 2,
           "total": 3
         },
         {
@@ -68944,17 +68944,17 @@
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 80,
+          "remaining": 70,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 93,
+          "remaining": 81,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1793267262.9590483
+    "last_notified_at": 1793269393.4058337
   },
   "43243": {
     "snapshot": {
