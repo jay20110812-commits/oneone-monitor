@@ -61984,7 +61984,7 @@
   "41733": {
     "snapshot": {
       "price": 160,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -61994,12 +61994,12 @@
         },
         {
           "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -68914,7 +68914,7 @@
   "43237": {
     "snapshot": {
       "price": 180,
-      "remain": 24,
+      "remain": 3,
       "total": 100,
       "prizes": [
         {
@@ -68929,27 +68929,27 @@
         },
         {
           "name": "B賞 UX-03 魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "C賞 BX-35 隨機強化組 Vol.4★",
-          "remaining": 2,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
-          "remaining": 2,
+          "remaining": 0,
           "total": 5
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 19,
+          "remaining": 3,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 24,
+          "remaining": 3,
           "total": 100
         }
       ]
