@@ -67454,7 +67454,7 @@
   "42890": {
     "snapshot": {
       "price": 350,
-      "remain": 191,
+      "remain": 190,
       "total": 191,
       "prizes": [
         {
@@ -67504,17 +67504,17 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 165,
+          "remaining": 164,
           "total": 165
         },
         {
           "name": "合計",
-          "remaining": 191,
+          "remaining": 190,
           "total": 191
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1793349039.5512874
   },
   "43015": {
     "snapshot": {
@@ -69157,6 +69157,51 @@
     "last_notified_at": 0.0
   },
   "43322": {
+    "snapshot": {
+      "price": 180,
+      "remain": 5,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "SP賞 CX-00 空力天馬 3-70A 紅色版★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "A賞 UX-00 榮耀武神 LF 金屬塗裝:藍★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 UX-03 魔導神杖★",
+          "remaining": 0,
+          "total": 3
+        },
+        {
+          "name": "C賞 BX-35 隨機強化組 Vol.4★",
+          "remaining": 0,
+          "total": 3
+        },
+        {
+          "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
+          "remaining": 0,
+          "total": 5
+        },
+        {
+          "name": "E賞 不限IP一番賞小賞",
+          "remaining": 5,
+          "total": 87
+        },
+        {
+          "name": "合計",
+          "remaining": 5,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43339": {
     "snapshot": {
       "price": 180,
       "remain": 100,
