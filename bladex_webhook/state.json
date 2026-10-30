@@ -68288,7 +68288,7 @@
   },
   "43106": {
     "snapshot": {
-      "price": 395,
+      "price": 378,
       "remain": 47,
       "total": 74,
       "prizes": [
@@ -68334,7 +68334,7 @@
         }
       ]
     },
-    "last_notified_at": 1793191218.9946933
+    "last_notified_at": 1793392836.0497136
   },
   "43105": {
     "snapshot": {
@@ -69034,17 +69034,17 @@
   "43282": {
     "snapshot": {
       "price": 399,
-      "remain": 55,
+      "remain": 45,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 4,
           "total": 6
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 4,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -69054,32 +69054,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 5,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 12,
+          "remaining": 11,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 14,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 55,
+          "remaining": 45,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793270092.8919022
+    "last_notified_at": 1793392834.700821
   },
   "43284": {
     "snapshot": {
