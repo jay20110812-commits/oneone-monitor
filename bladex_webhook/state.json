@@ -69204,7 +69204,7 @@
   "43339": {
     "snapshot": {
       "price": 180,
-      "remain": 66,
+      "remain": 51,
       "total": 100,
       "prizes": [
         {
@@ -69219,7 +69219,7 @@
         },
         {
           "name": "B賞 UX-03 魔導神杖★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
@@ -69229,22 +69229,22 @@
         },
         {
           "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
-          "remaining": 3,
+          "remaining": 2,
           "total": 5
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 58,
+          "remaining": 45,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 66,
+          "remaining": 51,
           "total": 100
         }
       ]
     },
-    "last_notified_at": 1793375383.1434286
+    "last_notified_at": 1793377476.21772
   },
   "43358": {
     "snapshot": {
