@@ -68139,7 +68139,7 @@
   "43098": {
     "snapshot": {
       "price": 399,
-      "remain": 63,
+      "remain": 60,
       "total": 74,
       "prizes": [
         {
@@ -68169,22 +68169,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 16,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 14,
+          "remaining": 12,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 63,
+          "remaining": 60,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793292755.0586693
+    "last_notified_at": 1793453643.6473649
   },
   "43100": {
     "snapshot": {
@@ -68439,7 +68439,7 @@
   "43136": {
     "snapshot": {
       "price": 385,
-      "remain": 74,
+      "remain": 72,
       "total": 74,
       "prizes": [
         {
@@ -68464,7 +68464,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
@@ -68474,17 +68474,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 72,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793113682.2679
+    "last_notified_at": 1793453641.718456
   },
   "43140": {
     "snapshot": {
