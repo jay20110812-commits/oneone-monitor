@@ -64949,7 +64949,7 @@
   "42255": {
     "snapshot": {
       "price": 199,
-      "remain": 145,
+      "remain": 137,
       "total": 150,
       "prizes": [
         {
@@ -64984,7 +64984,7 @@
         },
         {
           "name": "G賞 UX-01 蒼龍爆刃★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -65009,12 +65009,12 @@
         },
         {
           "name": "L賞 不限IP隨機小賞（隨機一款）",
-          "remaining": 131,
+          "remaining": 124,
           "total": 136
         },
         {
           "name": "合計",
-          "remaining": 145,
+          "remaining": 137,
           "total": 150
         }
       ]
@@ -66079,7 +66079,7 @@
   "42825": {
     "snapshot": {
       "price": 120,
-      "remain": 286,
+      "remain": 281,
       "total": 301,
       "prizes": [
         {
@@ -66089,12 +66089,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 277,
+          "remaining": 272,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 286,
+          "remaining": 281,
           "total": 301
         }
       ]
