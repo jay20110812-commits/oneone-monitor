@@ -62559,22 +62559,22 @@
   "41783": {
     "snapshot": {
       "price": 120,
-      "remain": 19,
+      "remain": 9,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 CX-18 隨機強化組 腕龍鞭打精選(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 9,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 9,
           "total": 20
         }
       ]
@@ -68339,12 +68339,12 @@
   "43105": {
     "snapshot": {
       "price": 399,
-      "remain": 74,
+      "remain": 64,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -68359,32 +68359,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 7,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 13,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 64,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793035026.6579885
+    "last_notified_at": 1793471238.1129975
   },
   "43130": {
     "snapshot": {
@@ -69204,12 +69204,12 @@
   "43339": {
     "snapshot": {
       "price": 180,
-      "remain": 51,
+      "remain": 21,
       "total": 100,
       "prizes": [
         {
           "name": "SP賞 CX-00 空力天馬 3-70A 紅色版★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
@@ -69219,27 +69219,27 @@
         },
         {
           "name": "B賞 UX-03 魔導神杖★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 3
         },
         {
           "name": "C賞 BX-35 隨機強化組 Vol.4★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 3
         },
         {
           "name": "D賞 三合同創 戰鬥陀螺 對戰收納盒(隨機1款)",
-          "remaining": 2,
+          "remaining": 1,
           "total": 5
         },
         {
           "name": "E賞 不限IP一番賞小賞",
-          "remaining": 45,
+          "remaining": 19,
           "total": 87
         },
         {
           "name": "合計",
-          "remaining": 51,
+          "remaining": 21,
           "total": 100
         }
       ]
