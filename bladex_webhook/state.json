@@ -54629,7 +54629,7 @@
   "40032": {
     "snapshot": {
       "price": 199,
-      "remain": 148,
+      "remain": 141,
       "total": 314,
       "prizes": [
         {
@@ -54639,7 +54639,7 @@
         },
         {
           "name": "B賞 UX-15 鮫鯊狂鱗改造組★★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
@@ -54674,12 +54674,12 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 140,
+          "remaining": 134,
           "total": 299
         },
         {
           "name": "合計",
-          "remaining": 148,
+          "remaining": 141,
           "total": 314
         }
       ]
@@ -67353,7 +67353,7 @@
   },
   "43003": {
     "snapshot": {
-      "price": 430,
+      "price": 385,
       "remain": 74,
       "total": 74,
       "prizes": [
@@ -67399,7 +67399,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1793523981.413658
   },
   "43009": {
     "snapshot": {
