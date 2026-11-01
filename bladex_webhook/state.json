@@ -68289,7 +68289,7 @@
   "43106": {
     "snapshot": {
       "price": 378,
-      "remain": 43,
+      "remain": 40,
       "total": 74,
       "prizes": [
         {
@@ -68334,7 +68334,7 @@
         }
       ]
     },
-    "last_notified_at": 1793549431.22926
+    "last_notified_at": 1793550255.5966866
   },
   "43105": {
     "snapshot": {
