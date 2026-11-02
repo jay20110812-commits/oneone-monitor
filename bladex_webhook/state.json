@@ -66079,7 +66079,7 @@
   "42825": {
     "snapshot": {
       "price": 120,
-      "remain": 281,
+      "remain": 276,
       "total": 301,
       "prizes": [
         {
@@ -66089,12 +66089,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 272,
+          "remaining": 267,
           "total": 291
         },
         {
           "name": "合計",
-          "remaining": 281,
+          "remaining": 276,
           "total": 301
         }
       ]
@@ -68639,22 +68639,22 @@
   "43171": {
     "snapshot": {
       "price": 130,
-      "remain": 19,
+      "remain": 14,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 14,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 14,
           "total": 20
         }
       ]
@@ -68764,17 +68764,17 @@
   "43202": {
     "snapshot": {
       "price": 399,
-      "remain": 55,
+      "remain": 27,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 4,
+          "remaining": 2,
           "total": 6
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 5,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -68784,32 +68784,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 1,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 6,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 14,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 13,
+          "remaining": 4,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 55,
+          "remaining": 27,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793548728.29792
+    "last_notified_at": 1793604908.4729793
   },
   "43205": {
     "snapshot": {
@@ -69316,6 +69316,31 @@
           "name": "合計",
           "remaining": 29,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43405": {
+    "snapshot": {
+      "price": 130,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
