@@ -65624,7 +65624,7 @@
   "42656": {
     "snapshot": {
       "price": 150,
-      "remain": 19,
+      "remain": 18,
       "total": 30,
       "prizes": [
         {
@@ -65634,12 +65634,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 18,
           "total": 30
         }
       ]
@@ -66604,22 +66604,22 @@
   "42894": {
     "snapshot": {
       "price": 315,
-      "remain": 30,
+      "remain": 5,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 5,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 5,
           "total": 30
         }
       ]
@@ -67354,12 +67354,12 @@
   "43003": {
     "snapshot": {
       "price": 385,
-      "remain": 59,
+      "remain": 52,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 5,
+          "remaining": 3,
           "total": 6
         },
         {
@@ -67374,7 +67374,7 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 9
         },
         {
@@ -67384,22 +67384,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 14,
+          "remaining": 12,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 13,
+          "remaining": 11,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 59,
+          "remaining": 52,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793826920.3330162
+    "last_notified_at": 1793904060.1532726
   },
   "43009": {
     "snapshot": {
@@ -68239,7 +68239,7 @@
   "43110": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -68249,12 +68249,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -68439,7 +68439,7 @@
   "43136": {
     "snapshot": {
       "price": 385,
-      "remain": 72,
+      "remain": 71,
       "total": 74,
       "prizes": [
         {
@@ -68469,7 +68469,7 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
@@ -68479,12 +68479,12 @@
         },
         {
           "name": "合計",
-          "remaining": 72,
+          "remaining": 71,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793453641.718456
+    "last_notified_at": 1793904058.904333
   },
   "43140": {
     "snapshot": {
@@ -69009,7 +69009,7 @@
   "43263": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 27,
       "total": 30,
       "prizes": [
         {
@@ -69019,12 +69019,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 26,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 27,
           "total": 30
         }
       ]
@@ -69034,12 +69034,12 @@
   "43282": {
     "snapshot": {
       "price": 380,
-      "remain": 35,
+      "remain": 27,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 6
         },
         {
@@ -69049,12 +69049,12 @@
         },
         {
           "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
-          "remaining": 1,
+          "remaining": 0,
           "total": 2
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 5,
+          "remaining": 4,
           "total": 9
         },
         {
@@ -69064,22 +69064,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 9,
+          "remaining": 6,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 9,
+          "remaining": 7,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 35,
+          "remaining": 27,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793747569.7808576
+    "last_notified_at": 1793904057.564091
   },
   "43284": {
     "snapshot": {
@@ -69299,22 +69299,22 @@
   "43399": {
     "snapshot": {
       "price": 290,
-      "remain": 26,
+      "remain": 5,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 25,
+          "remaining": 5,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 26,
+          "remaining": 5,
           "total": 30
         }
       ]
