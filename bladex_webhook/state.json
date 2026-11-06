@@ -69444,12 +69444,12 @@
   "43439": {
     "snapshot": {
       "price": 369,
-      "remain": 73,
+      "remain": 68,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -69474,22 +69474,22 @@
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 17,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 73,
+          "remaining": 68,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793772068.496543
+    "last_notified_at": 1793977023.4494946
   },
   "43462": {
     "snapshot": {
@@ -69711,6 +69711,31 @@
           "name": "合計",
           "remaining": 74,
           "total": 74
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43542": {
+    "snapshot": {
+      "price": 150,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 歷代發射器 真的能打(全6種一套)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 一番賞小賞/盲盒筆(隨機IP一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
