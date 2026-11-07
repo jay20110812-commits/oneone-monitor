@@ -63109,22 +63109,22 @@
   "41860": {
     "snapshot": {
       "price": 109,
-      "remain": 20,
+      "remain": 6,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 6,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 6,
           "total": 20
         }
       ]
@@ -64584,7 +64584,7 @@
   "42126": {
     "snapshot": {
       "price": 120,
-      "remain": 231,
+      "remain": 229,
       "total": 250,
       "prizes": [
         {
@@ -64594,12 +64594,12 @@
         },
         {
           "name": "B賞 一番賞小賞/動漫周邊小物(隨機IP一款)",
-          "remaining": 222,
+          "remaining": 220,
           "total": 240
         },
         {
           "name": "合計",
-          "remaining": 231,
+          "remaining": 229,
           "total": 250
         }
       ]
@@ -64684,22 +64684,22 @@
   "42161": {
     "snapshot": {
       "price": 299,
-      "remain": 36,
+      "remain": 14,
       "total": 36,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-00榮耀戰神LF 金屬塗裝:藍★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 35,
+          "remaining": 14,
           "total": 35
         },
         {
           "name": "合計",
-          "remaining": 36,
+          "remaining": 14,
           "total": 36
         }
       ]
@@ -69444,7 +69444,7 @@
   "43439": {
     "snapshot": {
       "price": 369,
-      "remain": 68,
+      "remain": 66,
       "total": 74,
       "prizes": [
         {
@@ -69469,12 +69469,12 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 18
         },
         {
@@ -69484,12 +69484,12 @@
         },
         {
           "name": "合計",
-          "remaining": 68,
+          "remaining": 66,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793977023.4494946
+    "last_notified_at": 1794076812.9943335
   },
   "43462": {
     "snapshot": {
@@ -69594,22 +69594,22 @@
   "43536": {
     "snapshot": {
       "price": 290,
-      "remain": 29,
+      "remain": 23,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 23,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 23,
           "total": 30
         }
       ]
