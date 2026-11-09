@@ -65649,7 +65649,7 @@
   "42655": {
     "snapshot": {
       "price": 199,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -65659,12 +65659,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -68139,7 +68139,7 @@
   "43098": {
     "snapshot": {
       "price": 399,
-      "remain": 56,
+      "remain": 55,
       "total": 74,
       "prizes": [
         {
@@ -68174,17 +68174,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 56,
+          "remaining": 55,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1793772069.6380665
+    "last_notified_at": 1794249690.1947474
   },
   "43100": {
     "snapshot": {
@@ -69544,22 +69544,22 @@
   "43460": {
     "snapshot": {
       "price": 300,
-      "remain": 30,
+      "remain": 9,
       "total": 30,
       "prizes": [
         {
           "name": "A賞【不限版本】BX-53 All-in-One Set★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 9,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 9,
           "total": 30
         }
       ]
@@ -69668,7 +69668,7 @@
   },
   "43554": {
     "snapshot": {
-      "price": 380,
+      "price": 360,
       "remain": 47,
       "total": 74,
       "prizes": [
@@ -69714,7 +69714,7 @@
         }
       ]
     },
-    "last_notified_at": 1794210735.724116
+    "last_notified_at": 1794249688.9295247
   },
   "43542": {
     "snapshot": {
@@ -69794,22 +69794,22 @@
   "43611": {
     "snapshot": {
       "price": 290,
-      "remain": 29,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 6,
           "total": 30
         }
       ]
@@ -69869,22 +69869,22 @@
   "43614": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 2,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 2,
           "total": 20
         }
       ]
@@ -69936,6 +69936,56 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43647": {
+    "snapshot": {
+      "price": 430,
+      "remain": 74,
+      "total": 74,
+      "prizes": [
+        {
+          "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "B賞 DMM限定色 旋風發射器☆★",
+          "remaining": 6,
+          "total": 6
+        },
+        {
+          "name": "C賞 BEYBLADE LOGO 手提包(可收納戰鬥盤)",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 極限造型收納盒收納盒(全3款)",
+          "remaining": 9,
+          "total": 9
+        },
+        {
+          "name": "E賞 橡膠手環(全5種)",
+          "remaining": 15,
+          "total": 15
+        },
+        {
+          "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
+          "remaining": 18,
+          "total": 18
+        },
+        {
+          "name": "合計",
+          "remaining": 74,
+          "total": 74
         }
       ]
     },
