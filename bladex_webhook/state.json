@@ -67454,7 +67454,7 @@
   "42890": {
     "snapshot": {
       "price": 350,
-      "remain": 127,
+      "remain": 125,
       "total": 191,
       "prizes": [
         {
@@ -67474,7 +67474,7 @@
         },
         {
           "name": "C賞 UX-21 地獄幽冥三陀螺套組★",
-          "remaining": 2,
+          "remaining": 1,
           "total": 2
         },
         {
@@ -67504,17 +67504,17 @@
         },
         {
           "name": "I賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 109,
+          "remaining": 108,
           "total": 165
         },
         {
           "name": "合計",
-          "remaining": 127,
+          "remaining": 125,
           "total": 191
         }
       ]
     },
-    "last_notified_at": 1793998192.6690779
+    "last_notified_at": 1794509355.7046955
   },
   "43015": {
     "snapshot": {
@@ -69944,7 +69944,7 @@
   "43647": {
     "snapshot": {
       "price": 430,
-      "remain": 74,
+      "remain": 71,
       "total": 74,
       "prizes": [
         {
@@ -69969,27 +69969,27 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 17,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 71,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1794509357.0425973
   },
   "43664": {
     "snapshot": {
