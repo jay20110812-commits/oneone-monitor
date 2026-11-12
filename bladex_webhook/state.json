@@ -59999,7 +59999,7 @@
   "41259": {
     "snapshot": {
       "price": 199,
-      "remain": 91,
+      "remain": 90,
       "total": 100,
       "prizes": [
         {
@@ -60009,12 +60009,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 88,
+          "remaining": 87,
           "total": 97
         },
         {
           "name": "合計",
-          "remaining": 91,
+          "remaining": 90,
           "total": 100
         }
       ]
