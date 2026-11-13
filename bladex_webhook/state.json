@@ -66754,22 +66754,22 @@
   "42902": {
     "snapshot": {
       "price": 290,
-      "remain": 30,
+      "remain": 5,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 29,
+          "remaining": 5,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 30,
+          "remaining": 5,
           "total": 30
         }
       ]
@@ -69494,12 +69494,12 @@
   "43462": {
     "snapshot": {
       "price": 380,
-      "remain": 74,
+      "remain": 64,
       "total": 74,
       "prizes": [
         {
           "name": "A賞 DMM限定 UX-00異色版 戰鬥陀螺★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -69514,32 +69514,32 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 9,
+          "remaining": 8,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 15,
+          "remaining": 12,
           "total": 15
         },
         {
           "name": "F賞 透明資料夾＆戰鬥通行證替換紙(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 15,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 64,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1794606926.5549195
   },
   "43460": {
     "snapshot": {
@@ -69669,7 +69669,7 @@
   "43554": {
     "snapshot": {
       "price": 360,
-      "remain": 34,
+      "remain": 32,
       "total": 74,
       "prizes": [
         {
@@ -69689,12 +69689,12 @@
         },
         {
           "name": "D賞 極限造型收納盒收納盒(全3款)",
-          "remaining": 4,
+          "remaining": 3,
           "total": 9
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 7,
+          "remaining": 6,
           "total": 15
         },
         {
@@ -69709,12 +69709,12 @@
         },
         {
           "name": "合計",
-          "remaining": 34,
+          "remaining": 32,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1794583110.4371533
+    "last_notified_at": 1794606925.2524326
   },
   "43542": {
     "snapshot": {
@@ -69994,7 +69994,7 @@
   "43664": {
     "snapshot": {
       "price": 380,
-      "remain": 74,
+      "remain": 72,
       "total": 74,
       "prizes": [
         {
@@ -70029,17 +70029,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 74,
+          "remaining": 72,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1794606927.6347451
   },
   "43661": {
     "snapshot": {
@@ -70469,7 +70469,7 @@
   "43779": {
     "snapshot": {
       "price": 120,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -70479,12 +70479,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -70662,6 +70662,56 @@
     "last_notified_at": 0.0
   },
   "43841": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43845": {
+    "snapshot": {
+      "price": 220,
+      "remain": 19,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 18,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 19,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43848": {
     "snapshot": {
       "price": 290,
       "remain": 30,
