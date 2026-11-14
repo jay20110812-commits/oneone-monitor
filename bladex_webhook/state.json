@@ -70494,22 +70494,22 @@
   "43816": {
     "snapshot": {
       "price": 290,
-      "remain": 29,
+      "remain": 6,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 6,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 6,
           "total": 30
         }
       ]
@@ -70689,22 +70689,22 @@
   "43845": {
     "snapshot": {
       "price": 220,
-      "remain": 17,
+      "remain": 10,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 16,
+          "remaining": 10,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 17,
+          "remaining": 10,
           "total": 20
         }
       ]
