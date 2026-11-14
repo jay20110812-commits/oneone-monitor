@@ -70689,7 +70689,7 @@
   "43845": {
     "snapshot": {
       "price": 220,
-      "remain": 19,
+      "remain": 17,
       "total": 20,
       "prizes": [
         {
@@ -70699,12 +70699,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 16,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 17,
           "total": 20
         }
       ]
