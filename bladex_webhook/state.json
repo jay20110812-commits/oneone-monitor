@@ -66679,7 +66679,7 @@
   "42900": {
     "snapshot": {
       "price": 119,
-      "remain": 20,
+      "remain": 19,
       "total": 20,
       "prizes": [
         {
@@ -66689,12 +66689,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 18,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 19,
           "total": 20
         }
       ]
@@ -69819,22 +69819,22 @@
   "43610": {
     "snapshot": {
       "price": 109,
-      "remain": 20,
+      "remain": 5,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺X UX-03 魔導神杖(不限版本)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 5,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 5,
           "total": 20
         }
       ]
@@ -70664,22 +70664,22 @@
   "43841": {
     "snapshot": {
       "price": 290,
-      "remain": 29,
+      "remain": 3,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 3,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 3,
           "total": 30
         }
       ]
@@ -70888,7 +70888,7 @@
   },
   "43886": {
     "snapshot": {
-      "price": 360,
+      "price": 330,
       "remain": 74,
       "total": 74,
       "prizes": [
@@ -70934,7 +70934,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1794860253.75005
   },
   "43885": {
     "snapshot": {
@@ -71119,6 +71119,31 @@
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺CX-00巴哈姆特爆擊BK1-50I黑金限定版★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43910": {
+    "snapshot": {
+      "price": 120,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
           "remaining": 1,
           "total": 1
         },
