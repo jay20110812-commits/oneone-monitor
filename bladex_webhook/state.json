@@ -69494,7 +69494,7 @@
   "43462": {
     "snapshot": {
       "price": 380,
-      "remain": 64,
+      "remain": 62,
       "total": 74,
       "prizes": [
         {
@@ -69504,7 +69504,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -69529,17 +69529,17 @@
         },
         {
           "name": "G賞 壓克力鑰匙圈＆貼(全6種)",
-          "remaining": 15,
+          "remaining": 14,
           "total": 18
         },
         {
           "name": "合計",
-          "remaining": 64,
+          "remaining": 62,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1794606926.5549195
+    "last_notified_at": 1794922757.2831867
   },
   "43460": {
     "snapshot": {
