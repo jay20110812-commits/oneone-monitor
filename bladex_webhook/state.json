@@ -70988,7 +70988,7 @@
   },
   "43877": {
     "snapshot": {
-      "price": 250,
+      "price": 220,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -71113,7 +71113,7 @@
   },
   "43896": {
     "snapshot": {
-      "price": 250,
+      "price": 220,
       "remain": 20,
       "total": 20,
       "prizes": [
@@ -71189,7 +71189,7 @@
   "43919": {
     "snapshot": {
       "price": 290,
-      "remain": 29,
+      "remain": 25,
       "total": 30,
       "prizes": [
         {
@@ -71199,12 +71199,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 28,
+          "remaining": 24,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 29,
+          "remaining": 25,
           "total": 30
         }
       ]
