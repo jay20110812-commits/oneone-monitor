@@ -71260,5 +71260,70 @@
       ]
     },
     "last_notified_at": 0.0
+  },
+  "43943": {
+    "snapshot": {
+      "price": 99,
+      "remain": 100,
+      "total": 100,
+      "prizes": [
+        {
+          "name": "A賞 CX-15 邪神狂怒★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 CX-17 隨機強化組★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "C賞 CX-18 腕龍鞭打隨機強化組★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "D賞 CX-13 龍王閃擊★",
+          "remaining": 2,
+          "total": 2
+        },
+        {
+          "name": "E賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 93,
+          "total": 93
+        },
+        {
+          "name": "合計",
+          "remaining": 100,
+          "total": 100
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43966": {
+    "snapshot": {
+      "price": 170,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺CX-00新世紀福音戰士★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
   }
 }
