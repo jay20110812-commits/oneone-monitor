@@ -70639,7 +70639,7 @@
   "43842": {
     "snapshot": {
       "price": 220,
-      "remain": 19,
+      "remain": 16,
       "total": 20,
       "prizes": [
         {
@@ -70649,12 +70649,12 @@
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 18,
+          "remaining": 15,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 19,
+          "remaining": 16,
           "total": 20
         }
       ]
@@ -71377,6 +71377,31 @@
     "last_notified_at": 0.0
   },
   "43982": {
+    "snapshot": {
+      "price": 80,
+      "remain": 11,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(代理版)★",
+          "remaining": 0,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 11,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 11,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "43987": {
     "snapshot": {
       "price": 80,
       "remain": 20,
