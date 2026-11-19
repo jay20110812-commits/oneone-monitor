@@ -68439,7 +68439,7 @@
   "43136": {
     "snapshot": {
       "price": 360,
-      "remain": 64,
+      "remain": 62,
       "total": 74,
       "prizes": [
         {
@@ -68449,7 +68449,7 @@
         },
         {
           "name": "B賞 DMM限定色 旋風發射器☆★",
-          "remaining": 6,
+          "remaining": 5,
           "total": 6
         },
         {
@@ -68464,7 +68464,7 @@
         },
         {
           "name": "E賞 橡膠手環(全5種)",
-          "remaining": 11,
+          "remaining": 10,
           "total": 15
         },
         {
@@ -68479,12 +68479,12 @@
         },
         {
           "name": "合計",
-          "remaining": 64,
+          "remaining": 62,
           "total": 74
         }
       ]
     },
-    "last_notified_at": 1794512848.8413632
+    "last_notified_at": 1795123368.241508
   },
   "43140": {
     "snapshot": {
@@ -71427,6 +71427,31 @@
     "last_notified_at": 0.0
   },
   "44007": {
+    "snapshot": {
+      "price": 80,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "44010": {
     "snapshot": {
       "price": 80,
       "remain": 20,
