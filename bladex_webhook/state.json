@@ -70269,22 +70269,22 @@
   "43772": {
     "snapshot": {
       "price": 130,
-      "remain": 20,
+      "remain": 12,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 19,
+          "remaining": 12,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 20,
+          "remaining": 12,
           "total": 20
         }
       ]
@@ -70639,22 +70639,22 @@
   "43842": {
     "snapshot": {
       "price": 220,
-      "remain": 16,
+      "remain": 2,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 15,
+          "remaining": 2,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 16,
+          "remaining": 2,
           "total": 20
         }
       ]
@@ -71014,22 +71014,22 @@
   "43882": {
     "snapshot": {
       "price": 290,
-      "remain": 23,
+      "remain": 10,
       "total": 30,
       "prizes": [
         {
           "name": "A賞 CX-20客製化套組C(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 22,
+          "remaining": 10,
           "total": 29
         },
         {
           "name": "合計",
-          "remaining": 23,
+          "remaining": 10,
           "total": 30
         }
       ]
@@ -71459,6 +71459,81 @@
       "prizes": [
         {
           "name": "A賞 BX-54 齊格・超荷 0-70LP(代理版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "44031": {
+    "snapshot": {
+      "price": 220,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "44018": {
+    "snapshot": {
+      "price": 290,
+      "remain": 30,
+      "total": 30,
+      "prizes": [
+        {
+          "name": "A賞 CX-20客製化套組C(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 29,
+          "total": 29
+        },
+        {
+          "name": "合計",
+          "remaining": 30,
+          "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "44016": {
+    "snapshot": {
+      "price": 130,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 BX-54 齊格・超荷 0-70LP(日版)★",
           "remaining": 1,
           "total": 1
         },
