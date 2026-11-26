@@ -45244,7 +45244,7 @@
   },
   "39039": {
     "snapshot": {
-      "price": 215,
+      "price": 199,
       "remain": 160,
       "total": 160,
       "prizes": [
@@ -52863,7 +52863,7 @@
   },
   "39844": {
     "snapshot": {
-      "price": 288,
+      "price": 199,
       "remain": 200,
       "total": 200,
       "prizes": [
@@ -59763,7 +59763,7 @@
   },
   "41201": {
     "snapshot": {
-      "price": 350,
+      "price": 299,
       "remain": 150,
       "total": 150,
       "prizes": [
@@ -59824,7 +59824,7 @@
         }
       ]
     },
-    "last_notified_at": 0.0
+    "last_notified_at": 1795668900.4208527
   },
   "41218": {
     "snapshot": {
@@ -71479,22 +71479,22 @@
   "44031": {
     "snapshot": {
       "price": 220,
-      "remain": 15,
+      "remain": 6,
       "total": 20,
       "prizes": [
         {
           "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
-          "remaining": 1,
+          "remaining": 0,
           "total": 1
         },
         {
           "name": "B賞 不限IP一番賞小賞(隨機一款)",
-          "remaining": 14,
+          "remaining": 6,
           "total": 19
         },
         {
           "name": "合計",
-          "remaining": 15,
+          "remaining": 6,
           "total": 20
         }
       ]
@@ -72071,6 +72071,31 @@
           "name": "合計",
           "remaining": 30,
           "total": 30
+        }
+      ]
+    },
+    "last_notified_at": 0.0
+  },
+  "44214": {
+    "snapshot": {
+      "price": 220,
+      "remain": 20,
+      "total": 20,
+      "prizes": [
+        {
+          "name": "A賞 戰鬥陀螺UX-22消逝路西法WW(日版)★",
+          "remaining": 1,
+          "total": 1
+        },
+        {
+          "name": "B賞 不限IP一番賞小賞(隨機一款)",
+          "remaining": 19,
+          "total": 19
+        },
+        {
+          "name": "合計",
+          "remaining": 20,
+          "total": 20
         }
       ]
     },
